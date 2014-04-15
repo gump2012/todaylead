@@ -2392,3 +2392,134 @@ response_status	:	success
 		
 msg	:	
 
+得到商城分类 
+
+http://xjb.ushengsheng.com/shop.php?m=special_topic&a=get_special_info&id=7&page=1&platform=iphone&v=5.1.0&place=appstore&token=8b843fea89d94355055ddda2ea8a1446&alias=xjb&appcode=1&width=640&height=960&network=2
+
+get
+
+m	special_topic
+a	get_special_info
+id	7
+page	1
+platform	iphone
+v	5.1.0
+place	appstore
+token	8b843fea89d94355055ddda2ea8a1446
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+	"info": {
+		"extra": {
+			"list2g": "_160x160.jpg",
+			"list3g": "_160x160.jpg",
+			"listwifi": "_250x250.jpg",
+			"grid2g": "_160x160.jpg",
+			"grid3g": "_250x250.jpg",
+			"gridwifi": "_400x400.jpg"
+		},
+		"data": [{
+			"id": "946",
+			"title": "\u631a\u723112\u53ea+\u90016\u53ea\u6fc0\u60c5\u8d85\u8584\u8d85\u6ed1 \u675c\u857e\u65af\u9650\u91cf\u8d85\u503c\u4fc3\u9500\u88c5 \u552e\u5b8c\u5373\u6b62",
+			"pic_url": "http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2VPAdXrXXXXXXXXXX-468359490.jpg",
+			"org_price": "59.00",
+			"price": "24.70",
+			"volume": "698",
+			"recentvolume": "702"
+		}, {
+			"id": "949",
+			"title": "\u5c1a\u724c\u8c6a\u793c 2\u7f508\u54081\u767e\u53d8\u88c5\u517148\u53ea+\u9001\u4ef7\u503c69\u5143av\u68d21\u6839",
+			"pic_url": "http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T21xpAXL0XXXXXXXXX-468359490.jpg",
+			"org_price": "129.00",
+			"price": "49.00",
+			"volume": "921",
+			"recentvolume": "992"
+		}, {
+			"id": "143",
+			"title": "\u6b63\u54c1\u5188\u672c\u6388\u6743skin\u7cfb\u5217 10\u53ea\u88c5",
+			"pic_url": "http:\/\/img.taobaocdn.com\/imgextra\/http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T2p0UsXXJXXXXXXXXX_!!468359490.jpg",
+			"org_price": "45.00",
+			"price": "18.00",
+			"volume": "6271",
+			"recentvolume": "434"
+		}, {
+			"id": "963",
+			"title": "8.8\u5143\u62a2\u8d2d24\u53ea\u540d\u6d41 \u6fc0\u60c5\u516d\u5408\u4e00\u8d85\u8584\u907f\u5b55\u595724\u53ea \u4ec5\u96503\u5929\u54e6\uff01",
+			"pic_url": "http:\/\/img03.taobaocdn.com\/imgextra\/i3\/468359490\/T2qK1cXLJaXXXXXXXX-468359490.jpg",
+			"org_price": "69.00",
+			"price": "8.80",
+			"volume": "879",
+			"recentvolume": "884"
+		}, {
+			"id": "193",
+			"title": "\u65af\u9999\u59ae \u60c5\u8da3\u72fc\u7259\u5957 \u51b0\u611f\/\u70ed\u611f\/\u51b0\u70ed\u611f24\u53ea\u88c5",
+			"pic_url": "http:\/\/img.taobaocdn.com\/imgextra\/http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T2tm.NXXJXXXXXXXXX_!!468359490.jpg",
+			"org_price": "35.00",
+			"price": "19.80",
+			"volume": "13168",
+			"recentvolume": "365"
+		}, {
+			"id": "425",
+			"title": "\u500d\u529b\u4e503\u500d\u6301\u4e45\u8d85\u8584\u907f\u5b55\u5957 \u679c\u51bb\u676f\u5f0f\u5916\u88c59\u53ea \u65b0\u6f6e\u5957\u5957",
+			"pic_url": "http:\/\/img.taobaocdn.com\/imgextra\/http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T2AOMyXXBaXXXXXXXX_!!468359490.jpg",
+			"org_price": "59.00",
+			"price": "22.00",
+			"volume": "23856",
+			"recentvolume": "1524"
+		}, {
+			"id": "445",
+			"title": "\u65b0\u6f6e\u5957\u5957 \u500d\u529b\u4e50\u6781\u7d27\u7d27\u7ef7\u578b\u5c0f\u53f7\u907f\u5b55\u595710\u53ea\u88c5",
+			"pic_url": "http:\/\/img03.taobaocdn.com\/imgextra\/i3\/468359490\/T2Wmh7XpFXXXXXXXXX-468359490.jpg",
+			"org_price": "25.00",
+			"price": "9.00",
+			"volume": "5927",
+			"recentvolume": "192"
+		}, {
+			"id": "866",
+			"title": "\u7b2c\u516d\u611f \u516d\u5408\u4e00\u5b89\u5168\u595724\u53ea\u88c5 \u591a\u6837\u7ec4\u5408 \u62fc\u51fa6\u8272\u6fc0\u60c5",
+			"pic_url": "http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T21ButXj8cXXXXXXXX-468359490.jpg",
+			"org_price": "38.00",
+			"price": "19.00",
+			"volume": "1674",
+			"recentvolume": "159"
+		}, {
+			"id": "773",
+			"title": "\u675c\u857e\u65af \u9b54\u6cd54\u5408\u4e0018\u53ea\u88c5\u907f\u5b55\u5957 \u8d85\u8584\u60c5\u8da3\u7ec4\u5408",
+			"pic_url": "http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T2XTSAXwVXXXXXXXXX-468359490.jpg",
+			"org_price": "98.00",
+			"price": "55.00",
+			"volume": "2052",
+			"recentvolume": "99"
+		}, {
+			"id": "259",
+			"title": "\u5188\u672c PPT\u72c2\u73a9\u7cfb\u5217\u5f69\u8272\u907f\u5b55\u5957 6\u6b3e\u7ec4\u5408 \u6c47\u96c6\u5404\u79cd\u5957\u5957\u7279\u5f81",
+			"pic_url": "http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T2LNv2XedXXXXXXXXX_!!468359490.jpg",
+			"org_price": "58.00",
+			"price": "16.00",
+			"volume": "782",
+			"recentvolume": "106"
+		}, {
+			"id": "290",
+			"title": "\u500d\u529b\u4e50\u8d85\u503c\u8c6a\u534e\u5957\u9910 4\u6b3e4\u76d240\u53ea\u70ed\u9500\u5957\u4ec5\u970026\u5143",
+			"pic_url": "http:\/\/img03.taobaocdn.com\/imgextra\/i3\/468359490\/T299qVXzJXXXXXXXXX-468359490.jpg",
+			"org_price": "96.00",
+			"price": "26.00",
+			"volume": "8728",
+			"recentvolume": "459"
+		}, {
+			"id": "808",
+			"title": "\u500d\u529b\u4e50\u7d27\u7ef7\u595710\u53ea\u88c5 \u7d27\u7ef7\u7684\u611f\u89c9\u5c31\u662f\u597d \u65b0\u6f6e\u5957\u5957",
+			"pic_url": "http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T2qRSEXvVXXXXXXXXX-468359490.jpg",
+			"org_price": "25.00",
+			"price": "9.00",
+			"volume": "13279",
+			"recentvolume": "591"
+		}]
+	},
+	"response_status": "success",
+	"msg": ""
+}
