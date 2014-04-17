@@ -17,7 +17,60 @@ width	640
 height	960
 network	2
 
-{"info":{"extra":{"grid2g":"_310x310.jpg","grid3g":"","gridwifi":""},"data":[{"id":"1063","img_url":"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2KbGsXFpaXXXXXXXX-468359490.jpg","type":"5","linkto":"","param":{"app_ad_in_subtype":"2","channel_type":"2","title":"\u5468\u5e74\u5e86","keyword":"\u5468\u5e74\u5e86"}},{"id":"1047","img_url":"http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T2jrGiXMRXXXXXXXXX-468359490.jpg","type":"5","linkto":"","param":{"app_ad_in_subtype":"1","product_id":"971"}},{"id":"685","img_url":"http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T22X6TXwVXXXXXXXXX-468359490.jpg","type":"4","linkto":"http:\/\/www.ushengsheng.com\/post\/baoyou.html","param":null},{"id":"396","img_url":"http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T24zTTXtFXXXXXXXXX-468359490.jpg","type":"5","linkto":"","param":{"app_ad_in_subtype":"2","channel_type":"2","title":"\u65b0\u54c1\u5c1d\u9c9c","keyword":"\u65b0\u54c1\u5c1d\u9c9c"}}]},"response_status":"success","msg":""}
+{
+    "info": {
+        "extra": {
+            "grid2g": "_310x310.jpg",
+            "grid3g": "",
+            "gridwifi": ""
+        },
+        "data": [
+            {
+                "id": "1063",
+                "img_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2KbGsXFpaXXXXXXXX-468359490.jpg",
+                "type": "5",
+                "linkto": "",
+                "param": {
+                    "app_ad_in_subtype": "2",
+                    "channel_type": "2",
+                    "title": "周年庆",
+                    "keyword": "周年庆"
+                }
+            },
+            {
+                "id": "1047",
+                "img_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2jrGiXMRXXXXXXXXX-468359490.jpg",
+                "type": "5",
+                "linkto": "",
+                "param": {
+                    "app_ad_in_subtype": "1",
+                    "product_id": "971"
+                }
+            },
+            {
+                "id": "685",
+                "img_url": "http://img04.taobaocdn.com/imgextra/i4/468359490/T22X6TXwVXXXXXXXXX-468359490.jpg",
+                "type": "4",
+                "linkto": "http://www.ushengsheng.com/post/baoyou.html",
+                "param": null
+            },
+            {
+                "id": "396",
+                "img_url": "http://img04.taobaocdn.com/imgextra/i4/468359490/T24zTTXtFXXXXXXXXX-468359490.jpg",
+                "type": "5",
+                "linkto": "",
+                "param": {
+                    "app_ad_in_subtype": "2",
+                    "channel_type": "2",
+                    "title": "新品尝鲜",
+                    "keyword": "新品尝鲜"
+                }
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
 
 
 http://xjb.ushengsheng.com/shop.php?m=Index&a=index&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
@@ -35,7 +88,210 @@ height	960
 network	2
 
 
-{"info":{"extra":{"large2g":"_160x160.jpg","large3g":"_250x250.jpg","largewifi":"","small2g":"_80x80.jpg","small3g":"_160x160.jpg","smallwifi":""},"data":{"theme":[{"id":"1","title":"TOP 100 \u70ed\u5356\u5b9d\u8d1d","goods":[{"title":"","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/532ff2f73c5cf.jpg","relaction":"m=topic&a=list&id=8&tl=TOP \u70ed\u5356"},{"title":"\u5e7b\u9b45\u98de\u673a\u676f","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/5345134469475.jpg","relaction":"m=shop&a=detail&id=920&tl="},{"title":"\u9707\u52a8\u4f38\u7f29\u8f6c\u73e0\u68d2","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/534513338a3c0.jpg","relaction":"m=shop&a=detail&id=1&tl="},{"title":"\u5ef6\u65f6\u9707\u52a8\u5957\u73af","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/5345139ad108f.jpg","relaction":"m=shop&a=detail&id=854&tl="},{"title":"\u51b0\u611f\u9897\u7c92\u5957\u5957","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/5346048d64c67.jpg","relaction":"m=shop&a=detail&id=765&tl="},{"title":"\u857e\u4e1d\u900f\u660e\u4e09\u70b9\u5f0f","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/5345125d0cd38.jpg","relaction":"m=shop&a=detail&id=625&tl="}]},{"id":"7","title":"\u5468\u5e74\u5e86\u60c5\u8da3\u5185\u8863\u7279\u5356\u533a","goods":[{"title":"","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/534e28fee9558.jpg","relaction":"m=topic&a=list&id=9&tl=\u60c5\u8da3\u5185\u8863\u5468\u5e74\u5e86"},{"title":"\u900f\u660e\u857e\u4e1d\u86cb\u7cd5\u88d9","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/534d007b009a8.jpg","relaction":"m=shop&a=detail&id=187&tl="},{"title":"\u900f\u660e\u8584\u7eb1\u6027\u611f\u7761\u88d9","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/534d0092efb14.jpg","relaction":"m=shop&a=detail&id=185&tl="},{"title":"\u857e\u4e1d\u540a\u5e26\u7761\u88d9","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/534d0d62a7961.jpg","relaction":"m=shop&a=detail&id=367&tl="},{"title":"\u6726\u80e7\u900f\u660e\u9732\u4e73\u7761\u8863","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/534d00ea82008.jpg","relaction":"m=shop&a=detail&id=125&tl="},{"title":"\u857e\u4e1d\u82b1\u8fb9\u4e09\u70b9\u5f0f","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/534d01193f9d2.jpg","relaction":"m=shop&a=detail&id=102&tl="}]},{"id":"6","title":"\u5468\u5e74\u5e86\u5957\u5957\u8c03\u60c5\u7279\u5356\u533a","goods":[{"title":"","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/534e28b994347.jpg","relaction":"m=topic&a=list&id=11&tl=\u5957\u5957\u8c03\u60c5\u5468\u5e74\u5e86"},{"title":"\u5f02\u6027\u52a9\u60c5\u9999\u6c34","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/534d0953c066c.jpg","relaction":"m=shop&a=detail&id=769&tl="},{"title":"\u8010\u6c0f\u5ef6\u65f6\u6e7f\u5dfe","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/534d095eb4756.jpg","relaction":"m=shop&a=detail&id=161&tl="},{"title":"\u675c\u857e\u65af\u7d27\u7ef7\u6301\u4e45","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/534d09a1b2b57.jpg","relaction":"m=shop&a=detail&id=405&tl="},{"title":"\u53d8\u5f62\u91d1\u521a\u72fc\u7259\u595724\u53ea","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/534e250e7a174.jpg","relaction":"m=shop&a=detail&id=765&tl="},{"title":"\u5c1a\u724c8\u54081\u767e\u53d824\u53ea","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/534d0a2a00acd.jpg","relaction":"m=shop&a=detail&id=30&tl="}]},{"id":"3","title":"\u5468\u5e74\u5e86\u60c5\u8da3\u73a9\u5177\u7279\u5356\u533a","goods":[{"title":"","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/534e2926d8842.jpg","relaction":"m=topic&a=list&id=10&tl=\u5468\u5e74\u5e86\u60c5\u8da3\u73a9\u5177\u4e13\u5356\u533a"},{"title":"\u5b9e\u4f53\u7f8e\u81c0\u5012\u6a21","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/534d06cab4620.jpg","relaction":"m=shop&a=detail&id=781&tl="},{"title":"5\u5a07\u5a18\u7535\u52a8\u98de\u673a\u676f","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/534d06e540700.jpg","relaction":"m=shop&a=detail&id=214&tl="},{"title":"\u9634\u8482\u53cc\u523a\u6fc0\u9707\u52a8\u68d2","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/534d06fe3704c.jpg","relaction":"m=shop&a=detail&id=166&tl="},{"title":"\u5168\u65b9\u4f4d\u6309\u6469\u4e73\u623f","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/534d0710de5a1.jpg","relaction":"m=shop&a=detail&id=423&tl="},{"title":"\u9065\u63a7\u53d8\u9891\u9707\u52a8\u8df3\u86cb","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/534d0724dc8e7.jpg","relaction":"m=shop&a=detail&id=935&tl="}]}],"pref":[{"id":"3","title":"\u5305\u90ae\u4f18\u60e0","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/52a589ae82f7b.jpg","relaction":"m=url&a=redirect&tl=\u5305\u90ae\u4f18\u60e0&ul=http:\/\/www.ushengsheng.com\/post\/baoyou.html"},{"id":2,"title":"\u65b0\u6f6e\u5957\u5957","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/53102e46b9450.jpg","relaction":"m=shop&a=search&kw=\u65b0\u6f6e\u5957\u5957&tl=\u65b0\u6f6e\u5957\u5957"},{"id":1,"title":"\u6027\u798f\u5973\u4eba","url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/53102e7779e55.jpg","relaction":"m=shop&a=search&kw=\u6027\u798f\u5973\u4eba&tl=\u6027\u798f\u5973\u4eba"}],"recommend":{"id":1,"title":"\u65b0\u54c1\u5c1d\u9c9c","relaction":"m=shop&a=search&kw=\u65b0\u54c1\u5c1d\u9c9c&tl=","img":[{"pic_url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/534bb236d0978.jpg","title":"\u9a6c\u4e0a\u9ad8\u6f6e","relaction":"m=shop&a=detail&id=969&tl="},{"pic_url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/534bb7823672c.jpg","title":"\u9542\u7a7a\u6346\u7ed1","relaction":"m=shop&a=detail&id=970&tl="},{"pic_url":"http:\/\/xingjiabi.b0.upaiyun.com\/images\/shop\/theme\/534bb80432ff8.jpg","title":"\u771f\u4eba\u4f53\u9a8c","relaction":"m=shop&a=detail&id=964&tl="}]}}},"response_status":"success","msg":""}
+{
+    "info": {
+        "extra": {
+            "large2g": "_160x160.jpg",
+            "large3g": "_250x250.jpg",
+            "largewifi": "",
+            "small2g": "_80x80.jpg",
+            "small3g": "_160x160.jpg",
+            "smallwifi": ""
+        },
+        "data": {
+            "theme": [
+                {
+                    "id": "1",
+                    "title": "TOP 100 热卖宝贝",
+                    "goods": [
+                        {
+                            "title": "",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/532ff2f73c5cf.jpg",
+                            "relaction": "m=topic&a=list&id=8&tl=TOP 热卖"
+                        },
+                        {
+                            "title": "幻魅飞机杯",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/5345134469475.jpg",
+                            "relaction": "m=shop&a=detail&id=920&tl="
+                        },
+                        {
+                            "title": "震动伸缩转珠棒",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/534513338a3c0.jpg",
+                            "relaction": "m=shop&a=detail&id=1&tl="
+                        },
+                        {
+                            "title": "延时震动套环",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/5345139ad108f.jpg",
+                            "relaction": "m=shop&a=detail&id=854&tl="
+                        },
+                        {
+                            "title": "冰感颗粒套套",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/5346048d64c67.jpg",
+                            "relaction": "m=shop&a=detail&id=765&tl="
+                        },
+                        {
+                            "title": "蕾丝透明三点式",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/5345125d0cd38.jpg",
+                            "relaction": "m=shop&a=detail&id=625&tl="
+                        }
+                    ]
+                },
+                {
+                    "id": "7",
+                    "title": "周年庆情趣内衣特卖区",
+                    "goods": [
+                        {
+                            "title": "",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/534e28fee9558.jpg",
+                            "relaction": "m=topic&a=list&id=9&tl=情趣内衣周年庆"
+                        },
+                        {
+                            "title": "透明蕾丝蛋糕裙",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/534d007b009a8.jpg",
+                            "relaction": "m=shop&a=detail&id=187&tl="
+                        },
+                        {
+                            "title": "透明薄纱性感睡裙",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/534d0092efb14.jpg",
+                            "relaction": "m=shop&a=detail&id=185&tl="
+                        },
+                        {
+                            "title": "蕾丝吊带睡裙",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/534d0d62a7961.jpg",
+                            "relaction": "m=shop&a=detail&id=367&tl="
+                        },
+                        {
+                            "title": "朦胧透明露乳睡衣",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/534d00ea82008.jpg",
+                            "relaction": "m=shop&a=detail&id=125&tl="
+                        },
+                        {
+                            "title": "蕾丝花边三点式",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/534d01193f9d2.jpg",
+                            "relaction": "m=shop&a=detail&id=102&tl="
+                        }
+                    ]
+                },
+                {
+                    "id": "6",
+                    "title": "周年庆套套调情特卖区",
+                    "goods": [
+                        {
+                            "title": "",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/534e28b994347.jpg",
+                            "relaction": "m=topic&a=list&id=11&tl=套套调情周年庆"
+                        },
+                        {
+                            "title": "异性助情香水",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/534d0953c066c.jpg",
+                            "relaction": "m=shop&a=detail&id=769&tl="
+                        },
+                        {
+                            "title": "耐氏延时湿巾",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/534d095eb4756.jpg",
+                            "relaction": "m=shop&a=detail&id=161&tl="
+                        },
+                        {
+                            "title": "杜蕾斯紧绷持久",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/534d09a1b2b57.jpg",
+                            "relaction": "m=shop&a=detail&id=405&tl="
+                        },
+                        {
+                            "title": "变形金刚狼牙套24只",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/534e250e7a174.jpg",
+                            "relaction": "m=shop&a=detail&id=765&tl="
+                        },
+                        {
+                            "title": "尚牌8合1百变24只",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/534d0a2a00acd.jpg",
+                            "relaction": "m=shop&a=detail&id=30&tl="
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "title": "周年庆情趣玩具特卖区",
+                    "goods": [
+                        {
+                            "title": "",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/534e2926d8842.jpg",
+                            "relaction": "m=topic&a=list&id=10&tl=周年庆情趣玩具专卖区"
+                        },
+                        {
+                            "title": "实体美臀倒模",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/534d06cab4620.jpg",
+                            "relaction": "m=shop&a=detail&id=781&tl="
+                        },
+                        {
+                            "title": "5娇娘电动飞机杯",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/534d06e540700.jpg",
+                            "relaction": "m=shop&a=detail&id=214&tl="
+                        },
+                        {
+                            "title": "阴蒂双刺激震动棒",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/534d06fe3704c.jpg",
+                            "relaction": "m=shop&a=detail&id=166&tl="
+                        },
+                        {
+                            "title": "全方位按摩乳房",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/534d0710de5a1.jpg",
+                            "relaction": "m=shop&a=detail&id=423&tl="
+                        },
+                        {
+                            "title": "遥控变频震动跳蛋",
+                            "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/534d0724dc8e7.jpg",
+                            "relaction": "m=shop&a=detail&id=935&tl="
+                        }
+                    ]
+                }
+            ],
+            "pref": [
+                {
+                    "id": "3",
+                    "title": "包邮优惠",
+                    "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/52a589ae82f7b.jpg",
+                    "relaction": "m=url&a=redirect&tl=包邮优惠&ul=http://www.ushengsheng.com/post/baoyou.html"
+                },
+                {
+                    "id": 2,
+                    "title": "新潮套套",
+                    "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/53102e46b9450.jpg",
+                    "relaction": "m=shop&a=search&kw=新潮套套&tl=新潮套套"
+                },
+                {
+                    "id": 1,
+                    "title": "性福女人",
+                    "url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/53102e7779e55.jpg",
+                    "relaction": "m=shop&a=search&kw=性福女人&tl=性福女人"
+                }
+            ],
+            "recommend": {
+                "id": 1,
+                "title": "新品尝鲜",
+                "relaction": "m=shop&a=search&kw=新品尝鲜&tl=",
+                "img": [
+                    {
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/534bb236d0978.jpg",
+                        "title": "马上高潮",
+                        "relaction": "m=shop&a=detail&id=969&tl="
+                    },
+                    {
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/534bb7823672c.jpg",
+                        "title": "镂空捆绑",
+                        "relaction": "m=shop&a=detail&id=970&tl="
+                    },
+                    {
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/images/shop/theme/534bb80432ff8.jpg",
+                        "title": "真人体验",
+                        "relaction": "m=shop&a=detail&id=964&tl="
+                    }
+                ]
+            }
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
 
 http://xjb.ushengsheng.com/shop.php?m=Members&a=reg&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
 
@@ -51,7 +307,14 @@ width	640
 height	960
 network	2
 
-{"info":{"extra":null,"data":null},"response_status":"success","msg":""}
+{
+    "info": {
+        "extra": null,
+        "data": null
+    },
+    "response_status": "success",
+    "msg": ""
+}
 
 http://xjb.ushengsheng.com/shop.php?m=common&a=isNeedToScore&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
 
@@ -67,7 +330,16 @@ width	640
 height	960
 network	2
 
-{"info":{"extra":null,"data":{"is_need":"1"}},"response_status":"success","msg":""}
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "is_need": "1"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
 
 
 
@@ -87,7 +359,39 @@ height	960
 network	2
 
 
-{"info":{"extra":null,"data":{"app":{"app_key":"21040542","app_name":"xjbqqdg"},"iphone_remind_mark_minutes":"1.5","iphone_remind_mark_content":"\u4eb2\uff0c\u7ed9\u4eba\u5bb6\u4e00\u4e2a\u597d\u8bc4\u561b~","need_login_days":"4","need_alert_days":"15","alert_content":"\u5f81\u670d\u2661 \u5973\u795e\u2661 \u7684\u65e0\u53cc\u795e\u5668\uff0c\u52a9\u60a8\u8f7b\u677e\u9a7e\u9a6d\u6fc0\u60c5\u65f6\u523b\uff01","umeng_enable":true,"flurry_enable":true,"taobao_loginurl":"https:\/\/oauth.taobao.com\/authorize?response_type=code&client_id=21040542&redirect_uri=http:\/\/xingjiabi.ushengsheng.com\/callback\/api?fun=oauth_callback&state=-2-3614d23991ccbffe7f697a32d979b783&scope=item,promotion,item,usergrade&view=wap","taobao_logoffurl":"http:\/\/login.m.taobao.com\/logout.htm?sid=","taobao_logoffurl2":"http:\/\/login.m.taobao.com\/logout.htm","ad_change_interval":"3","customer_service_tel":"4000-975-976","customer_service_info":"9:00~18:00","tb_hosting_enable":true,"upload_img_limit":"8","tb_url_schema":"taobao:\/\/","default_wifi_style":"grid","default_3g_style":"grid","default_tab":"shop","estad_enable":"1"}},"response_status":"success","msg":""}
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "app": {
+                "app_key": "21040542",
+                "app_name": "xjbqqdg"
+            },
+            "iphone_remind_mark_minutes": "1.5",
+            "iphone_remind_mark_content": "亲，给人家一个好评嘛~",
+            "need_login_days": "4",
+            "need_alert_days": "15",
+            "alert_content": "征服♡ 女神♡ 的无双神器，助您轻松驾驭激情时刻！",
+            "umeng_enable": true,
+            "flurry_enable": true,
+            "taobao_loginurl": "https://oauth.taobao.com/authorize?response_type=code&client_id=21040542&redirect_uri=http://xingjiabi.ushengsheng.com/callback/api?fun=oauth_callback&state=-2-3614d23991ccbffe7f697a32d979b783&scope=item,promotion,item,usergrade&view=wap",
+            "taobao_logoffurl": "http://login.m.taobao.com/logout.htm?sid=",
+            "taobao_logoffurl2": "http://login.m.taobao.com/logout.htm",
+            "ad_change_interval": "3",
+            "customer_service_tel": "4000-975-976",
+            "customer_service_info": "9:00~18:00",
+            "tb_hosting_enable": true,
+            "upload_img_limit": "8",
+            "tb_url_schema": "taobao://",
+            "default_wifi_style": "grid",
+            "default_3g_style": "grid",
+            "default_tab": "shop",
+            "estad_enable": "1"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
 
 
 http://xjb.ushengsheng.com/shop.php?m=Common&a=syncAddressInfo&rv=1&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
@@ -107,7 +411,14 @@ height	960
 network	2
 
 
-{"info":{"extra":null,"data":null},"response_status":"success","msg":""}
+{
+    "info": {
+        "extra": null,
+        "data": null
+    },
+    "response_status": "success",
+    "msg": ""
+}
 
 
 进入广告
@@ -148,7 +459,122 @@ height	960
 network	2
 
 
-{"info":{"extra":{"list2g":"_160x160.jpg","list3g":"_160x160.jpg","listwifi":"_250x250.jpg","grid2g":"_160x160.jpg","grid3g":"_250x250.jpg","gridwifi":"_400x400.jpg"},"data":[{"id":"972","title":"\u6e05\u65b0\u62b9\u80f8\u8d85\u67d4\u540a\u5e26\u88d9 \u857e\u4e1d\u900f\u660e\u516c\u4e3b\u98ce\u7761\u8863\u301004.14\u65b0\u54c1\u5c1d\u9c9c\u3011","cid":"4","org_price":"49.00","price":"23.00","pic_url":"http:\/\/img03.taobaocdn.com\/imgextra\/i3\/468359490\/T20QeeXHFaXXXXXXXX-468359490.jpg","volume":"39","recentvolume":"43"},{"id":"970","title":"\u751c\u7f8e\u4f18\u96c5\u857e\u4e1d\u82b1\u8fb9\u8fde\u4f53\u8863 \u6027\u611f\u9542\u7a7a\u6346\u7ed1\u5957\u88c5\u301004.14\u65b0\u54c1\u5c1d\u9c9c\u3011","cid":"4","org_price":"99.00","price":"38.00","pic_url":"http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T27CeeXFdXXXXXXXXX-468359490.jpg","volume":"79","recentvolume":"79"},{"id":"969","title":"\u5a01\u5a01\u65af\u5fb7\u66fc3\u500d\u9ad8\u6f6e \u8d85\u8584\u6da6\u6ed1\u6c34\u6ce2\u7eb9\u5b89\u5168\u5957\u301004.14\u65b0\u54c1\u5c1d\u9c9c\u3011","cid":"1","org_price":"39.00","price":"19.00","pic_url":"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2ejqmXKFaXXXXXXXX-468359490.jpg","volume":"249","recentvolume":"254"},{"id":"968","title":"\u79d2\u89c1\u9ad8\u6f6e\u50ac\u60c5\u51dd\u9732 \u5973\u7528\u5f3a\u6548\u52a9\u60c5\u5174 \u76f8\u604b\u7269\u8bed\u301004.14\u65b0\u54c1\u5c1d\u9c9c\u3011","cid":"6","org_price":"69.00","price":"49.00","pic_url":"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2c_moXIBXXXXXXXXX-468359490.jpg","volume":"110","recentvolume":"118"},{"id":"967","title":"\u6027\u611f\u6df1V\u9542\u7a7a\u5305\u81c0\u4ea4\u53c9\u7f51\u683c\u9732\u80f8\u8d85\u5f39\u4fee\u8eab\u663e\u7626\u8fde\u4f53\u8863\u301004.14\u65b0\u54c1\u5c1d\u9c9c\u3011","cid":"4","org_price":"79.00","price":"29.00","pic_url":"http:\/\/img03.taobaocdn.com\/imgextra\/i3\/468359490\/T26I9gXN0XXXXXXXXX-468359490.jpg","volume":"23","recentvolume":"32"},{"id":"966","title":"\u659c\u80a9\u4fee\u8eab\u6761\u7eb9\u9542\u7a7a\u591c\u5e97\u670d S\u66f2\u7ebf\u5305\u81c0\u7f51\u8863 \u301004.14\u65b0\u54c1\u5c1d\u9c9c\u3011","cid":"4","org_price":"95.00","price":"46.00","pic_url":"http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T2W61gXNXXXXXXXXXX-468359490.jpg","volume":"4","recentvolume":"6"},{"id":"965","title":"\u82f1\u56fd\u8fdb\u53e3TYBO\u9b45\u5f71\u4e8c\u4ee3\u5973\u6027\u81ea\u6170\u5668\u60c5\u8da3\u9707\u52a8\u6309\u6469AV\u68d2\u65b0\u54c1\u5c1d\u9c9c\u3010\u5468\u5e74\u5e86\u3011","cid":"3","org_price":"350.00","price":"236.00","pic_url":"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2WMGpXH8aXXXXXXXX-468359490.jpg","volume":"1","recentvolume":"8"},{"id":"964","title":"\u60c5\u6c90\u98de\u673a\u676f\u7537\u7528\u81ea\u6170\u676f\u5904\u5973\u9634\u4ea4\u53e3\u4ea4\u7537\u7528\u81ea\u6170\u5668\u3010\u65b0\u54c1\u5c1d\u9c9c\u3011","cid":"2","org_price":"88.00","price":"58.00","pic_url":"http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T2vjieXHBaXXXXXXXX-468359490.jpg","volume":"141","recentvolume":"146"},{"id":"960","title":"\u5996\u5a06\u5973\u795e\uff01\u591a\u8272\u5305\u809a\u5168\u857e\u4e1d\u82b1\u7eb9\u5e26\u94a2\u6258\u6c14\u8d28\u6027\u611f\u5185\u8863\u3010\u65b0\u54c1\u5c1d\u9c9c\u3011","cid":"4","org_price":"79.00","price":"39.00","pic_url":"http:\/\/img03.taobaocdn.com\/imgextra\/i3\/468359490\/T2AcFjXLJXXXXXXXXX-468359490.jpg","volume":"270","recentvolume":"276"},{"id":"959","title":"\u73a9\u7206\u6f6e\u54c1 \u53d6\u60a6\u524d\u5217\u817a\u6309\u6469\u5668\u301003.31\u65b0\u54c1\u5c1d\u9c9c\u3011","cid":"2","org_price":"79.00","price":"39.00","pic_url":"http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T2TkXjXJVXXXXXXXXX-468359490.jpg","volume":"100","recentvolume":"107"}]},"response_status":"success","msg":""}
+{
+    "info": {
+        "extra": {
+            "list2g": "_160x160.jpg",
+            "list3g": "_160x160.jpg",
+            "listwifi": "_250x250.jpg",
+            "grid2g": "_160x160.jpg",
+            "grid3g": "_250x250.jpg",
+            "gridwifi": "_400x400.jpg"
+        },
+        "data": [
+            {
+                "id": "972",
+                "title": "清新抹胸超柔吊带裙 蕾丝透明公主风睡衣【04.14新品尝鲜】",
+                "cid": "4",
+                "org_price": "49.00",
+                "price": "23.00",
+                "pic_url": "http://img03.taobaocdn.com/imgextra/i3/468359490/T20QeeXHFaXXXXXXXX-468359490.jpg",
+                "volume": "39",
+                "recentvolume": "43"
+            },
+            {
+                "id": "970",
+                "title": "甜美优雅蕾丝花边连体衣 性感镂空捆绑套装【04.14新品尝鲜】",
+                "cid": "4",
+                "org_price": "99.00",
+                "price": "38.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T27CeeXFdXXXXXXXXX-468359490.jpg",
+                "volume": "79",
+                "recentvolume": "79"
+            },
+            {
+                "id": "969",
+                "title": "威威斯德曼3倍高潮 超薄润滑水波纹安全套【04.14新品尝鲜】",
+                "cid": "1",
+                "org_price": "39.00",
+                "price": "19.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2ejqmXKFaXXXXXXXX-468359490.jpg",
+                "volume": "249",
+                "recentvolume": "254"
+            },
+            {
+                "id": "968",
+                "title": "秒见高潮催情凝露 女用强效助情兴 相恋物语【04.14新品尝鲜】",
+                "cid": "6",
+                "org_price": "69.00",
+                "price": "49.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2c_moXIBXXXXXXXXX-468359490.jpg",
+                "volume": "110",
+                "recentvolume": "118"
+            },
+            {
+                "id": "967",
+                "title": "性感深V镂空包臀交叉网格露胸超弹修身显瘦连体衣【04.14新品尝鲜】",
+                "cid": "4",
+                "org_price": "79.00",
+                "price": "29.00",
+                "pic_url": "http://img03.taobaocdn.com/imgextra/i3/468359490/T26I9gXN0XXXXXXXXX-468359490.jpg",
+                "volume": "23",
+                "recentvolume": "32"
+            },
+            {
+                "id": "966",
+                "title": "斜肩修身条纹镂空夜店服 S曲线包臀网衣 【04.14新品尝鲜】",
+                "cid": "4",
+                "org_price": "95.00",
+                "price": "46.00",
+                "pic_url": "http://img04.taobaocdn.com/imgextra/i4/468359490/T2W61gXNXXXXXXXXXX-468359490.jpg",
+                "volume": "4",
+                "recentvolume": "6"
+            },
+            {
+                "id": "965",
+                "title": "英国进口TYBO魅影二代女性自慰器情趣震动按摩AV棒新品尝鲜【周年庆】",
+                "cid": "3",
+                "org_price": "350.00",
+                "price": "236.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2WMGpXH8aXXXXXXXX-468359490.jpg",
+                "volume": "1",
+                "recentvolume": "8"
+            },
+            {
+                "id": "964",
+                "title": "情沐飞机杯男用自慰杯处女阴交口交男用自慰器【新品尝鲜】",
+                "cid": "2",
+                "org_price": "88.00",
+                "price": "58.00",
+                "pic_url": "http://img04.taobaocdn.com/imgextra/i4/468359490/T2vjieXHBaXXXXXXXX-468359490.jpg",
+                "volume": "141",
+                "recentvolume": "146"
+            },
+            {
+                "id": "960",
+                "title": "妖娆女神！多色包肚全蕾丝花纹带钢托气质性感内衣【新品尝鲜】",
+                "cid": "4",
+                "org_price": "79.00",
+                "price": "39.00",
+                "pic_url": "http://img03.taobaocdn.com/imgextra/i3/468359490/T2AcFjXLJXXXXXXXXX-468359490.jpg",
+                "volume": "270",
+                "recentvolume": "276"
+            },
+            {
+                "id": "959",
+                "title": "玩爆潮品 取悦前列腺按摩器【03.31新品尝鲜】",
+                "cid": "2",
+                "org_price": "79.00",
+                "price": "39.00",
+                "pic_url": "http://img04.taobaocdn.com/imgextra/i4/468359490/T2TkXjXJVXXXXXXXXX-468359490.jpg",
+                "volume": "100",
+                "recentvolume": "107"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
 
 新品尝鲜
 
@@ -170,7 +596,122 @@ width	640
 height	960
 network	2
 
-{"info":{"extra":{"list2g":"_160x160.jpg","list3g":"_160x160.jpg","listwifi":"_250x250.jpg","grid2g":"_160x160.jpg","grid3g":"_250x250.jpg","gridwifi":"_400x400.jpg"},"data":[{"id":"972","title":"\u6e05\u65b0\u62b9\u80f8\u8d85\u67d4\u540a\u5e26\u88d9 \u857e\u4e1d\u900f\u660e\u516c\u4e3b\u98ce\u7761\u8863\u301004.14\u65b0\u54c1\u5c1d\u9c9c\u3011","cid":"4","org_price":"49.00","price":"23.00","pic_url":"http:\/\/img03.taobaocdn.com\/imgextra\/i3\/468359490\/T20QeeXHFaXXXXXXXX-468359490.jpg","volume":"39","recentvolume":"43"},{"id":"970","title":"\u751c\u7f8e\u4f18\u96c5\u857e\u4e1d\u82b1\u8fb9\u8fde\u4f53\u8863 \u6027\u611f\u9542\u7a7a\u6346\u7ed1\u5957\u88c5\u301004.14\u65b0\u54c1\u5c1d\u9c9c\u3011","cid":"4","org_price":"99.00","price":"38.00","pic_url":"http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T27CeeXFdXXXXXXXXX-468359490.jpg","volume":"79","recentvolume":"79"},{"id":"969","title":"\u5a01\u5a01\u65af\u5fb7\u66fc3\u500d\u9ad8\u6f6e \u8d85\u8584\u6da6\u6ed1\u6c34\u6ce2\u7eb9\u5b89\u5168\u5957\u301004.14\u65b0\u54c1\u5c1d\u9c9c\u3011","cid":"1","org_price":"39.00","price":"19.00","pic_url":"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2ejqmXKFaXXXXXXXX-468359490.jpg","volume":"249","recentvolume":"254"},{"id":"968","title":"\u79d2\u89c1\u9ad8\u6f6e\u50ac\u60c5\u51dd\u9732 \u5973\u7528\u5f3a\u6548\u52a9\u60c5\u5174 \u76f8\u604b\u7269\u8bed\u301004.14\u65b0\u54c1\u5c1d\u9c9c\u3011","cid":"6","org_price":"69.00","price":"49.00","pic_url":"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2c_moXIBXXXXXXXXX-468359490.jpg","volume":"110","recentvolume":"118"},{"id":"967","title":"\u6027\u611f\u6df1V\u9542\u7a7a\u5305\u81c0\u4ea4\u53c9\u7f51\u683c\u9732\u80f8\u8d85\u5f39\u4fee\u8eab\u663e\u7626\u8fde\u4f53\u8863\u301004.14\u65b0\u54c1\u5c1d\u9c9c\u3011","cid":"4","org_price":"79.00","price":"29.00","pic_url":"http:\/\/img03.taobaocdn.com\/imgextra\/i3\/468359490\/T26I9gXN0XXXXXXXXX-468359490.jpg","volume":"23","recentvolume":"32"},{"id":"966","title":"\u659c\u80a9\u4fee\u8eab\u6761\u7eb9\u9542\u7a7a\u591c\u5e97\u670d S\u66f2\u7ebf\u5305\u81c0\u7f51\u8863 \u301004.14\u65b0\u54c1\u5c1d\u9c9c\u3011","cid":"4","org_price":"95.00","price":"46.00","pic_url":"http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T2W61gXNXXXXXXXXXX-468359490.jpg","volume":"4","recentvolume":"6"},{"id":"965","title":"\u82f1\u56fd\u8fdb\u53e3TYBO\u9b45\u5f71\u4e8c\u4ee3\u5973\u6027\u81ea\u6170\u5668\u60c5\u8da3\u9707\u52a8\u6309\u6469AV\u68d2\u65b0\u54c1\u5c1d\u9c9c\u3010\u5468\u5e74\u5e86\u3011","cid":"3","org_price":"350.00","price":"236.00","pic_url":"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2WMGpXH8aXXXXXXXX-468359490.jpg","volume":"1","recentvolume":"8"},{"id":"964","title":"\u60c5\u6c90\u98de\u673a\u676f\u7537\u7528\u81ea\u6170\u676f\u5904\u5973\u9634\u4ea4\u53e3\u4ea4\u7537\u7528\u81ea\u6170\u5668\u3010\u65b0\u54c1\u5c1d\u9c9c\u3011","cid":"2","org_price":"88.00","price":"58.00","pic_url":"http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T2vjieXHBaXXXXXXXX-468359490.jpg","volume":"141","recentvolume":"146"},{"id":"960","title":"\u5996\u5a06\u5973\u795e\uff01\u591a\u8272\u5305\u809a\u5168\u857e\u4e1d\u82b1\u7eb9\u5e26\u94a2\u6258\u6c14\u8d28\u6027\u611f\u5185\u8863\u3010\u65b0\u54c1\u5c1d\u9c9c\u3011","cid":"4","org_price":"79.00","price":"39.00","pic_url":"http:\/\/img03.taobaocdn.com\/imgextra\/i3\/468359490\/T2AcFjXLJXXXXXXXXX-468359490.jpg","volume":"270","recentvolume":"276"},{"id":"959","title":"\u73a9\u7206\u6f6e\u54c1 \u53d6\u60a6\u524d\u5217\u817a\u6309\u6469\u5668\u301003.31\u65b0\u54c1\u5c1d\u9c9c\u3011","cid":"2","org_price":"79.00","price":"39.00","pic_url":"http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T2TkXjXJVXXXXXXXXX-468359490.jpg","volume":"100","recentvolume":"107"}]},"response_status":"success","msg":""}
+{
+    "info": {
+        "extra": {
+            "list2g": "_160x160.jpg",
+            "list3g": "_160x160.jpg",
+            "listwifi": "_250x250.jpg",
+            "grid2g": "_160x160.jpg",
+            "grid3g": "_250x250.jpg",
+            "gridwifi": "_400x400.jpg"
+        },
+        "data": [
+            {
+                "id": "972",
+                "title": "清新抹胸超柔吊带裙 蕾丝透明公主风睡衣【04.14新品尝鲜】",
+                "cid": "4",
+                "org_price": "49.00",
+                "price": "23.00",
+                "pic_url": "http://img03.taobaocdn.com/imgextra/i3/468359490/T20QeeXHFaXXXXXXXX-468359490.jpg",
+                "volume": "39",
+                "recentvolume": "43"
+            },
+            {
+                "id": "970",
+                "title": "甜美优雅蕾丝花边连体衣 性感镂空捆绑套装【04.14新品尝鲜】",
+                "cid": "4",
+                "org_price": "99.00",
+                "price": "38.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T27CeeXFdXXXXXXXXX-468359490.jpg",
+                "volume": "79",
+                "recentvolume": "79"
+            },
+            {
+                "id": "969",
+                "title": "威威斯德曼3倍高潮 超薄润滑水波纹安全套【04.14新品尝鲜】",
+                "cid": "1",
+                "org_price": "39.00",
+                "price": "19.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2ejqmXKFaXXXXXXXX-468359490.jpg",
+                "volume": "249",
+                "recentvolume": "254"
+            },
+            {
+                "id": "968",
+                "title": "秒见高潮催情凝露 女用强效助情兴 相恋物语【04.14新品尝鲜】",
+                "cid": "6",
+                "org_price": "69.00",
+                "price": "49.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2c_moXIBXXXXXXXXX-468359490.jpg",
+                "volume": "110",
+                "recentvolume": "118"
+            },
+            {
+                "id": "967",
+                "title": "性感深V镂空包臀交叉网格露胸超弹修身显瘦连体衣【04.14新品尝鲜】",
+                "cid": "4",
+                "org_price": "79.00",
+                "price": "29.00",
+                "pic_url": "http://img03.taobaocdn.com/imgextra/i3/468359490/T26I9gXN0XXXXXXXXX-468359490.jpg",
+                "volume": "23",
+                "recentvolume": "32"
+            },
+            {
+                "id": "966",
+                "title": "斜肩修身条纹镂空夜店服 S曲线包臀网衣 【04.14新品尝鲜】",
+                "cid": "4",
+                "org_price": "95.00",
+                "price": "46.00",
+                "pic_url": "http://img04.taobaocdn.com/imgextra/i4/468359490/T2W61gXNXXXXXXXXXX-468359490.jpg",
+                "volume": "4",
+                "recentvolume": "6"
+            },
+            {
+                "id": "965",
+                "title": "英国进口TYBO魅影二代女性自慰器情趣震动按摩AV棒新品尝鲜【周年庆】",
+                "cid": "3",
+                "org_price": "350.00",
+                "price": "236.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2WMGpXH8aXXXXXXXX-468359490.jpg",
+                "volume": "1",
+                "recentvolume": "8"
+            },
+            {
+                "id": "964",
+                "title": "情沐飞机杯男用自慰杯处女阴交口交男用自慰器【新品尝鲜】",
+                "cid": "2",
+                "org_price": "88.00",
+                "price": "58.00",
+                "pic_url": "http://img04.taobaocdn.com/imgextra/i4/468359490/T2vjieXHBaXXXXXXXX-468359490.jpg",
+                "volume": "141",
+                "recentvolume": "146"
+            },
+            {
+                "id": "960",
+                "title": "妖娆女神！多色包肚全蕾丝花纹带钢托气质性感内衣【新品尝鲜】",
+                "cid": "4",
+                "org_price": "79.00",
+                "price": "39.00",
+                "pic_url": "http://img03.taobaocdn.com/imgextra/i3/468359490/T2AcFjXLJXXXXXXXXX-468359490.jpg",
+                "volume": "270",
+                "recentvolume": "276"
+            },
+            {
+                "id": "959",
+                "title": "玩爆潮品 取悦前列腺按摩器【03.31新品尝鲜】",
+                "cid": "2",
+                "org_price": "79.00",
+                "price": "39.00",
+                "pic_url": "http://img04.taobaocdn.com/imgextra/i4/468359490/T2TkXjXJVXXXXXXXXX-468359490.jpg",
+                "volume": "100",
+                "recentvolume": "107"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
 
 
 http://xjb.ushengsheng.com/shop.php?m=Shop&a=getPromotionList&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
@@ -208,7 +749,19 @@ height	960
 network	2
 
 
-{"info":{"extra":{"detail2g":"_250x250.jpg","detail3g":"_400x400.jpg","detailwifi":""},"data":{"id":"972","cid":"4","title":"\u6e05\u65b0\u62b9\u80f8\u8d85\u67d4\u540a\u5e26\u88d9 \u857e\u4e1d\u900f\u660e\u516c\u4e3b\u98ce\u7761\u8863\u301004.14\u65b0\u54c1\u5c1d\u9c9c\u3011","volume":"39","recentvolume":"43","org_price":"49.00","price":"23.00","status":"1","stamper":"","gallery":["http:\/\/img03.taobaocdn.com\/imgextra\/i3\/468359490\/T20QeeXHFaXXXXXXXX-468359490.jpg","http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T2.WKhXFdXXXXXXXXX-468359490.jpg","http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T2QKKfXUNXXXXXXXXX-468359490.jpg"],"attr_list":[{"attr_id":"19","goods_attr_id":"10661","attr_name":"\u54c1\u724c","attr_value":"\u5176\u4ed6\u54c1\u724c","attr_price":"0.00","attr_type":"0"},{"attr_id":"20","goods_attr_id":"10662","attr_name":"\u9762\u6599\u5206\u7c7b","attr_value":"\u9488\u7ec7","attr_price":"0.00","attr_type":"0"},{"attr_id":"21","goods_attr_id":"10663","attr_name":"\u6b3e\u5f0f","attr_value":"\u675f\u80f8\u5f0f","attr_price":"0.00","attr_type":"0"},{"attr_id":"22","goods_attr_id":"10664","attr_name":"\u8d27\u53f7","attr_value":"NS0207","attr_price":"0.00","attr_type":"0"},{"attr_id":"23","goods_attr_id":"10665","attr_name":"\u989c\u8272","attr_value":"\u767d\u8272","attr_price":"0.00","attr_type":"1"}]}},"response_status":"success","msg":""}
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "promotion_ico": "http://xingjiabi.b0.upaiyun.com/ico/promotion.png",
+            "promotion": "银行汇款满168包邮 支付宝满100包邮 货到付款满168包邮",
+            "service_ico": "http://xingjiabi.b0.upaiyun.com/ico/service7.png",
+            "service": "7天无理由退换货"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
 
 
 http://xjb.ushengsheng.com/shop.php?m=Shop&a=getRecommendGoods&posid=972&cid=4&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
@@ -228,7 +781,82 @@ width	640
 height	960
 network	2
 
-{"info":{"extra":{"grid2g":"_80x80.jpg","grid3g":"_160x160.jpg","gridwifi":"_250x250.jpg"},"data":[{"id":"125","title":"\u6726\u80e7\u900f\u660e\u9732\u4e73\u5f00\u6863\u857e\u4e1d\u5927\u7801\u77ed\u88d9\u7761\u8863\u3010\u5468\u5e74\u5e86\u3011","price":"18.00","pic_url":"http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T2xvurXJVXXXXXXXXX-468359490.jpg","cid":"4"},{"id":"302","title":"\u3010\u5e74\u5ea6\u76db\u5178\u3011\u4e45\u6155\u96c5\u9edb~\u9ad8\u8d35\u8bf1\u60d1\u900f\u89c6\u540a\u5e26\u7761\u88d9","price":"22.00","pic_url":"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2thy1Xt0aXXXXXXXX-468359490.jpg","cid":"4"},{"id":"406","title":"\u65e5\u5f0f\u5370\u82b1\u548c\u670d\u4e09\u70b9\u5f0f\u4e8c\u4ef6\u5957\u5f00\u895f\u7761\u88d9\u3010\u5468\u5e74\u5e86\u3011","price":"19.00","pic_url":"http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T2T49qXRxXXXXXXXXX-468359490.jpg","cid":"4"},{"id":"307","title":"\u6027\u611f\u5206\u4f53\u8bf1\u60d1\u5f00\u88c6\u900f\u89c6\u6fc0\u60c5\u4e09\u70b9\u5f0f\u5185\u8863\u3010\u5468\u5e74\u5e86\u3011","price":"16.00","pic_url":"http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T2qP9pXFhaXXXXXXXX-468359490.jpg","cid":"4"},{"id":"173","title":"\u857e\u4e1d\u82b1\u8fb9\u900f\u660e\u6027\u611f\u7761\u88d9\u8bf1\u60d1\u7761\u8863\u3010\u5468\u5e74\u5e86\u3011","price":"19.00","pic_url":"http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T2LDurXRJXXXXXXXXX-468359490.jpg","cid":"4"},{"id":"301","title":"\u4e45\u6155\u96c5\u9edb \u6fc0\u60c5\u4e09\u70b9\u5f0f\u857e\u4e1d\u82b1\u8fb9\u6027\u611f\u7761\u88d9\u3010\u5468\u5e74\u5e86\u3011","price":"22.00","pic_url":"http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T25_5pXFpaXXXXXXXX-468359490.jpg","cid":"4"},{"id":"299","title":"\u3010\u5e74\u5ea6\u76db\u5178\u3011\u4e45\u6155\u96c5\u9edb \u53ef\u7231\u900f\u660e\u857e\u4e1d\u67d4\u7eb1\u65d7\u888d\u7761\u888d","price":"22.00","pic_url":"http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T2SV52XBBXXXXXXXXX-468359490.jpg","cid":"4"},{"id":"106","title":"\u5973\u4f63\u5957\u88c5\u540e\u5f00\u5185\u8863\u8bf1\u60d1\u88d9\u4e94\u4ef6\u5957+\u5934\u9970+\u9888\u9970+T+\u56f4\u88d9\u3010\u5468\u5e74\u5e86\u3011","price":"19.00","pic_url":"http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T2DIKqXQFXXXXXXXXX-468359490.jpg","cid":"4"},{"id":"303","title":"\u4e45\u6155\u96c5\u9edb \u6df1V\u900f\u89c6\u5f00\u53c9\u4f18\u96c5\u957f\u88d9","price":"40.00","pic_url":"http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T2niDXXpRXXXXXXXXX-468359490.png","cid":"4"}]},"response_status":"success","msg":""}
+{
+    "info": {
+        "extra": {
+            "grid2g": "_80x80.jpg",
+            "grid3g": "_160x160.jpg",
+            "gridwifi": "_250x250.jpg"
+        },
+        "data": [
+            {
+                "id": "125",
+                "title": "朦胧透明露乳开档蕾丝大码短裙睡衣【周年庆】",
+                "price": "18.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2xvurXJVXXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "302",
+                "title": "【年度盛典】久慕雅黛~高贵诱惑透视吊带睡裙",
+                "price": "22.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2thy1Xt0aXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "406",
+                "title": "日式印花和服三点式二件套开襟睡裙【周年庆】",
+                "price": "19.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2T49qXRxXXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "307",
+                "title": "性感分体诱惑开裆透视激情三点式内衣【周年庆】",
+                "price": "16.00",
+                "pic_url": "http://img04.taobaocdn.com/imgextra/i4/468359490/T2qP9pXFhaXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "173",
+                "title": "蕾丝花边透明性感睡裙诱惑睡衣【周年庆】",
+                "price": "19.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2LDurXRJXXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "301",
+                "title": "久慕雅黛 激情三点式蕾丝花边性感睡裙【周年庆】",
+                "price": "22.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T25_5pXFpaXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "299",
+                "title": "【年度盛典】久慕雅黛 可爱透明蕾丝柔纱旗袍睡袍",
+                "price": "22.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2SV52XBBXXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "106",
+                "title": "女佣套装后开内衣诱惑裙五件套+头饰+颈饰+T+围裙【周年庆】",
+                "price": "19.00",
+                "pic_url": "http://img04.taobaocdn.com/imgextra/i4/468359490/T2DIKqXQFXXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "303",
+                "title": "久慕雅黛 深V透视开叉优雅长裙",
+                "price": "40.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2niDXXpRXXXXXXXXX-468359490.png",
+                "cid": "4"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
 
 
 进入模块
@@ -250,5 +878,128 @@ width	640
 height	960
 network	2
 
-{"info":{"extra":{"list2g":"_160x160.jpg","list3g":"_160x160.jpg","listwifi":"_250x250.jpg","grid2g":"_160x160.jpg","grid3g":"_250x250.jpg","gridwifi":"_400x400.jpg"},"data":[{"id":"311","title":"\u8d85\u6027\u611f\u9542\u7a7a\u7d27\u8eab\u56db\u9762\u5f00\u6863\u8fde\u4f53\u889c\u4e1d\u889c\u3010\u5468\u5e74\u5e86\u3011","pic_url":"http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T2I0qrXJlXXXXXXXXX-468359490.jpg","org_price":"20.00","price":"8.80","volume":"35444","recentvolume":"1366"},{"id":"185","title":"\u900f\u660e\u857e\u4e1d\u8584\u7eb1\u6027\u611f\u7761\u8863\u88d9\u3010\u5468\u5e74\u5e86\u3011","pic_url":"http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T2KL5rXJVXXXXXXXXX-468359490.jpg","org_price":"48.00","price":"19.00","volume":"11088","recentvolume":"562"},{"id":"751","title":"X-Box \u6027\u798f\u9b54\u76d238\u53d8\u9891\u78e8\u7802\u9632\u6c34\u9065\u63a7\u65e0\u7ebf\u8df3\u86cb","pic_url":"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2CXZSXjdaXXXXXXXX_!!468359490.jpg","org_price":"69.00","price":"38.00","volume":"15511","recentvolume":"603"},{"id":"579","title":"\u4fbf\u643a\u53e3\u888b\u8ff7\u4f60AV\u68d2","pic_url":"http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T2p4VXXt8aXXXXXXXX_!!468359490.jpg","org_price":"20.00","price":"12.00","volume":"10924","recentvolume":"591"},{"id":"581","title":"\u6b27\u7c73\u52a0 \u591c\u5e97\u679c\u51bb\u88c5\u907f\u5b55\u5957\u968f\u673a\u5355\u7247 \u8d85\u8584\u5927\u6cb9\u91cf \u6e05\u9999\u5b9c\u4eba","pic_url":"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2.uSSXyBaXXXXXXXX-468359490.jpg","org_price":"18.00","price":"1.20","volume":"51743","recentvolume":"5880"},{"id":"405","title":"\u675c\u857e\u65af\u7d27\u7ef7\u6301\u4e45\u88c5 12\u53ea\u5b89\u5168\u5957 \u8d85\u7d27\u8d34\u8d85\u654f\u611f\u3010\u5468\u5e74\u5e86\u3011","pic_url":"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2grinXPXaXXXXXXXX-468359490.jpg","org_price":"65.00","price":"29.00","volume":"19956","recentvolume":"409"},{"id":"307","title":"\u6027\u611f\u5206\u4f53\u8bf1\u60d1\u5f00\u88c6\u900f\u89c6\u6fc0\u60c5\u4e09\u70b9\u5f0f\u5185\u8863\u3010\u5468\u5e74\u5e86\u3011","pic_url":"http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T2qP9pXFhaXXXXXXXX-468359490.jpg","org_price":"48.00","price":"16.00","volume":"31422","recentvolume":"1206"},{"id":"125","title":"\u6726\u80e7\u900f\u660e\u9732\u4e73\u5f00\u6863\u857e\u4e1d\u5927\u7801\u77ed\u88d9\u7761\u8863\u3010\u5468\u5e74\u5e86\u3011","pic_url":"http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T2xvurXJVXXXXXXXXX-468359490.jpg","org_price":"58.00","price":"18.00","volume":"17611","recentvolume":"679"},{"id":"914","title":"EVO\u7535\u52a8\u9634\u830e\u589e\u5927\u5668 \u52a9\u52c3\u5668\u3010\u5468\u5e74\u5e86\u3011","pic_url":"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2L15pXH0aXXXXXXXX-468359490.jpg","org_price":"269.00","price":"158.00","volume":"2052","recentvolume":"995"},{"id":"920","title":"\u4e45\u5174\u5e7b\u9b45\u771f\u4eba\u5012\u6a21\u624b\u52a8\u98de\u673a\u676f\u3010\u65b0\u54c1\u5c1d\u9c9c\u3011","pic_url":"http:\/\/img03.taobaocdn.com\/imgextra\/i3\/468359490\/T2abGQXtdaXXXXXXXX-468359490.jpg","org_price":"88.00","price":"48.00","volume":"2018","recentvolume":"820"},{"id":"109","title":"JOKER\u5916\u7528\u5ef6\u65f6\u55b7\u5242 \u65e5\u672c\u53f2\u4e0a\u6700\u4e45 \u6700\u53d7\u6b22\u8fce\u3010\u5468\u5e74\u5e86\u3011","pic_url":"http:\/\/img03.taobaocdn.com\/imgextra\/i3\/468359490\/T2ie1qXQxXXXXXXXXX-468359490.jpg","org_price":"138.00","price":"58.00","volume":"47795","recentvolume":"2849"},{"id":"679","title":"\u5370\u5ea6\u795e\u6cb9 \u5370\u5ea6\u79d8\u65b9\u4e45\u6218\u4e0d\u5012 \u6740\u83cc\u9632\u75c5\u5ef6\u65f6\u91d1\u521a\u3010\u5468\u5e74\u5e86\u3011","pic_url":"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2abmpXKVaXXXXXXXX-468359490.jpg","org_price":"12.00","price":"4.00","volume":"36647","recentvolume":"3344"}]},"response_status":"success","msg":""}
+{
+    "info": {
+        "extra": {
+            "list2g": "_160x160.jpg",
+            "list3g": "_160x160.jpg",
+            "listwifi": "_250x250.jpg",
+            "grid2g": "_160x160.jpg",
+            "grid3g": "_250x250.jpg",
+            "gridwifi": "_400x400.jpg"
+        },
+        "data": [
+            {
+                "id": "311",
+                "title": "超性感镂空紧身四面开档连体袜丝袜【周年庆】",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2I0qrXJlXXXXXXXXX-468359490.jpg",
+                "org_price": "20.00",
+                "price": "8.80",
+                "volume": "35444",
+                "recentvolume": "1366"
+            },
+            {
+                "id": "185",
+                "title": "透明蕾丝薄纱性感睡衣裙【周年庆】",
+                "pic_url": "http://img04.taobaocdn.com/imgextra/i4/468359490/T2KL5rXJVXXXXXXXXX-468359490.jpg",
+                "org_price": "48.00",
+                "price": "19.00",
+                "volume": "11088",
+                "recentvolume": "562"
+            },
+            {
+                "id": "751",
+                "title": "X-Box 性福魔盒38变频磨砂防水遥控无线跳蛋",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2CXZSXjdaXXXXXXXX_!!468359490.jpg",
+                "org_price": "69.00",
+                "price": "38.00",
+                "volume": "15511",
+                "recentvolume": "603"
+            },
+            {
+                "id": "579",
+                "title": "便携口袋迷你AV棒",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2p4VXXt8aXXXXXXXX_!!468359490.jpg",
+                "org_price": "20.00",
+                "price": "12.00",
+                "volume": "10924",
+                "recentvolume": "591"
+            },
+            {
+                "id": "581",
+                "title": "欧米加 夜店果冻装避孕套随机单片 超薄大油量 清香宜人",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2.uSSXyBaXXXXXXXX-468359490.jpg",
+                "org_price": "18.00",
+                "price": "1.20",
+                "volume": "51743",
+                "recentvolume": "5880"
+            },
+            {
+                "id": "405",
+                "title": "杜蕾斯紧绷持久装 12只安全套 超紧贴超敏感【周年庆】",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2grinXPXaXXXXXXXX-468359490.jpg",
+                "org_price": "65.00",
+                "price": "29.00",
+                "volume": "19956",
+                "recentvolume": "409"
+            },
+            {
+                "id": "307",
+                "title": "性感分体诱惑开裆透视激情三点式内衣【周年庆】",
+                "pic_url": "http://img04.taobaocdn.com/imgextra/i4/468359490/T2qP9pXFhaXXXXXXXX-468359490.jpg",
+                "org_price": "48.00",
+                "price": "16.00",
+                "volume": "31422",
+                "recentvolume": "1206"
+            },
+            {
+                "id": "125",
+                "title": "朦胧透明露乳开档蕾丝大码短裙睡衣【周年庆】",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2xvurXJVXXXXXXXXX-468359490.jpg",
+                "org_price": "58.00",
+                "price": "18.00",
+                "volume": "17611",
+                "recentvolume": "679"
+            },
+            {
+                "id": "914",
+                "title": "EVO电动阴茎增大器 助勃器【周年庆】",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2L15pXH0aXXXXXXXX-468359490.jpg",
+                "org_price": "269.00",
+                "price": "158.00",
+                "volume": "2052",
+                "recentvolume": "995"
+            },
+            {
+                "id": "920",
+                "title": "久兴幻魅真人倒模手动飞机杯【新品尝鲜】",
+                "pic_url": "http://img03.taobaocdn.com/imgextra/i3/468359490/T2abGQXtdaXXXXXXXX-468359490.jpg",
+                "org_price": "88.00",
+                "price": "48.00",
+                "volume": "2018",
+                "recentvolume": "820"
+            },
+            {
+                "id": "109",
+                "title": "JOKER外用延时喷剂 日本史上最久 最受欢迎【周年庆】",
+                "pic_url": "http://img03.taobaocdn.com/imgextra/i3/468359490/T2ie1qXQxXXXXXXXXX-468359490.jpg",
+                "org_price": "138.00",
+                "price": "58.00",
+                "volume": "47795",
+                "recentvolume": "2849"
+            },
+            {
+                "id": "679",
+                "title": "印度神油 印度秘方久战不倒 杀菌防病延时金刚【周年庆】",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2abmpXKVaXXXXXXXX-468359490.jpg",
+                "org_price": "12.00",
+                "price": "4.00",
+                "volume": "36647",
+                "recentvolume": "3344"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
 
