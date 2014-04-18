@@ -634,3 +634,58 @@ Pragma: no-cache
 Location: http://wappaygw.alipay.com/service/rest.htm?req_data=<auth_and_execute_req><request_token>201404185433e520ea7c2b7778555b5d898c8fe0</request_token></auth_and_execute_req>&service=alipay.wap.auth.authAndExecute&sec_id=MD5&partner=2088011894575583&format=xml&v=2.0&sign=e3a70239d353417d337f426c0773c1b2
 
 
+http://xjb.ushengsheng.com/shop.php?m=Accounts&a=reg_anonymit_user&platform=iphone&v=5.1.0&place=appstore&token=8b843fea89d94355055ddda2ea8a1446&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Accounts
+a	reg_anonymit_user
+platform	iphone
+v	5.1.0
+place	appstore
+token	8b843fea89d94355055ddda2ea8a1446
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "nickname": "游客6481750",
+            "ticket_id": "363d4000a518ab21e7392067c0416071",
+            "account_type": "2"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://xjb.ushengsheng.com/shop.php?m=Cart&a=getConsigneeInfo&ticket_id=363d4000a518ab21e7392067c0416071&platform=iphone&v=5.1.0&place=appstore&token=8b843fea89d94355055ddda2ea8a1446&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Cart
+a	getConsigneeInfo
+ticket_id	363d4000a518ab21e7392067c0416071
+platform	iphone
+v	5.1.0
+place	appstore
+token	8b843fea89d94355055ddda2ea8a1446
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "consignee": "李东",
+            "address": "碧桂园17b",
+            "mobile": "13646426253",
+            "baseaddr": "3449,3450,3463"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
