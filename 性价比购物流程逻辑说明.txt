@@ -1,0 +1,538 @@
+性价比逻辑说明
+
+http请求没有顺序，都是一打开界面就请求
+
+进入商品详情界面
+
+客户端会请求3条信息
+
+1请求优惠信息
+2请求商品信息
+3请求推荐商品列表
+
+http://xjb.ushengsheng.com/shop.php?m=Shop&a=getPromotionList&platform=iphone&v=5.1.0&place=appstore&token=8b843fea89d94355055ddda2ea8a1446&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Shop
+a	getPromotionList
+platform	iphone
+v	5.1.0
+place	appstore
+token	8b843fea89d94355055ddda2ea8a1446
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "promotion_ico": "http://xingjiabi.b0.upaiyun.com/ico/promotion.png",
+            "promotion": "银行汇款满168包邮 支付宝满100包邮 货到付款满168包邮",
+            "service_ico": "http://xingjiabi.b0.upaiyun.com/ico/service7.png",
+            "service": "7天无理由退换货"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://xjb.ushengsheng.com/shop.php?m=Shop&a=getProductDetail&pid=406&platform=iphone&v=5.1.0&place=appstore&token=8b843fea89d94355055ddda2ea8a1446&alias=xjb&appcode=1&width=640&height=960&network=2
+
+
+m	Shop
+a	getProductDetail
+pid	406
+platform	iphone
+v	5.1.0
+place	appstore
+token	8b843fea89d94355055ddda2ea8a1446
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+
+{
+    "info": {
+        "extra": {
+            "detail2g": "_250x250.jpg",
+            "detail3g": "_400x400.jpg",
+            "detailwifi": ""
+        },
+        "data": {
+            "id": "406",
+            "cid": "4",
+            "title": "日式印花和服三点式二件套开襟睡裙【周年庆】",
+            "volume": "16818",
+            "recentvolume": "637",
+            "org_price": "59.00",
+            "price": "19.00",
+            "status": "1",
+            "stamper": "",
+            "gallery": [
+                "http://img02.taobaocdn.com/imgextra/i2/468359490/T2T49qXRxXXXXXXXXX-468359490.jpg",
+                "http://img03.taobaocdn.com/imgextra/i3/468359490/T2NyVRXvVaXXXXXXXX-468359490.gif",
+                "http://img03.taobaocdn.com/imgextra/i3/468359490/T2RSpsXvXaXXXXXXXX-468359490.gif",
+                "http://img03.taobaocdn.com/imgextra/i3/468359490/T2fSKAXsVaXXXXXXXX-468359490.jpg",
+                "http://img01.taobaocdn.com/imgextra/i1/468359490/T2ltKvXp4aXXXXXXXX-468359490.jpg"
+            ],
+            "attr_list": [
+                {
+                    "attr_id": "19",
+                    "goods_attr_id": "4072",
+                    "attr_name": "品牌",
+                    "attr_value": "其它品牌",
+                    "attr_price": "0.00",
+                    "attr_type": "0"
+                },
+                {
+                    "attr_id": "20",
+                    "goods_attr_id": "4073",
+                    "attr_name": "面料分类",
+                    "attr_value": "梭织",
+                    "attr_price": "0.00",
+                    "attr_type": "0"
+                },
+                {
+                    "attr_id": "21",
+                    "goods_attr_id": "4074",
+                    "attr_name": "款式",
+                    "attr_value": "绳衣套装",
+                    "attr_price": "0.00",
+                    "attr_type": "0"
+                },
+                {
+                    "attr_id": "22",
+                    "goods_attr_id": "4075",
+                    "attr_name": "货号",
+                    "attr_value": "NS0292",
+                    "attr_price": "0.00",
+                    "attr_type": "0"
+                },
+                {
+                    "attr_id": "23",
+                    "goods_attr_id": "4076",
+                    "attr_name": "颜色",
+                    "attr_value": "浴袍+T裤+文胸【超值套装】",
+                    "attr_price": "0.00",
+                    "attr_type": "1"
+                }
+            ]
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://xjb.ushengsheng.com/shop.php?m=Shop&a=getRecommendGoods&posid=406&cid=4&platform=iphone&v=5.1.0&place=appstore&token=8b843fea89d94355055ddda2ea8a1446&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Shop
+a	getRecommendGoods
+posid	406
+cid	4
+platform	iphone
+v	5.1.0
+place	appstore
+token	8b843fea89d94355055ddda2ea8a1446
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "grid2g": "_80x80.jpg",
+            "grid3g": "_160x160.jpg",
+            "gridwifi": "_250x250.jpg"
+        },
+        "data": [
+            {
+                "id": "125",
+                "title": "朦胧透明露乳开档蕾丝大码短裙睡衣【周年庆】",
+                "price": "18.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2xvurXJVXXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "302",
+                "title": "【年度盛典】久慕雅黛~高贵诱惑透视吊带睡裙",
+                "price": "22.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2thy1Xt0aXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "406",
+                "title": "日式印花和服三点式二件套开襟睡裙【周年庆】",
+                "price": "19.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2T49qXRxXXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "307",
+                "title": "性感分体诱惑开裆透视激情三点式内衣【周年庆】",
+                "price": "16.00",
+                "pic_url": "http://img04.taobaocdn.com/imgextra/i4/468359490/T2qP9pXFhaXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "173",
+                "title": "蕾丝花边透明性感睡裙诱惑睡衣【周年庆】",
+                "price": "19.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2LDurXRJXXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "301",
+                "title": "久慕雅黛 激情三点式蕾丝花边性感睡裙【周年庆】",
+                "price": "22.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T25_5pXFpaXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "299",
+                "title": "【年度盛典】久慕雅黛 可爱透明蕾丝柔纱旗袍睡袍",
+                "price": "22.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2SV52XBBXXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "106",
+                "title": "女佣套装后开内衣诱惑裙五件套+头饰+颈饰+T+围裙【周年庆】",
+                "price": "19.00",
+                "pic_url": "http://img04.taobaocdn.com/imgextra/i4/468359490/T2DIKqXQFXXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "303",
+                "title": "久慕雅黛 深V透视开叉优雅长裙",
+                "price": "40.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2niDXXpRXXXXXXXXX-468359490.png",
+                "cid": "4"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+
+点击购物车
+
+动画展示加入到购物车，无任何协议发送
+
+点击立刻购买
+
+进入购物车界面 ，发送1条协议（性价比每次都发两遍一样的）
+1请求商品详情（服务器返回购买商品的所有可选属性）
+
+http://xjb.ushengsheng.com/shop.php?m=Cart&a=getProductsDetail
+
+pids	302,406,27
+platform	iphone
+v	5.1.0
+place	appstore
+token	8b843fea89d94355055ddda2ea8a1446
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": [
+            {
+                "id": "27",
+                "title": "69元抢购白金003+ppt享玩2盒 冈本安全套/避孕套超薄【周年庆】",
+                "price": "59.00",
+                "status": "1",
+                "cid": "1",
+                "attr_list": [
+                    {
+                        "attr_id": "10",
+                        "goods_attr_id": "10604",
+                        "attr_name": "规格",
+                        "attr_value": "003白金+ppt享玩共2盒￥69.00  ",
+                        "attr_price": "0.00",
+                        "attr_type": "1"
+                    },
+                    {
+                        "attr_id": "10",
+                        "goods_attr_id": "10605",
+                        "attr_name": "规格",
+                        "attr_value": "003芦荟+ppt享玩共2盒￥82.00  ",
+                        "attr_price": "13.00",
+                        "attr_type": "1"
+                    }
+                ]
+            },
+            {
+                "id": "302",
+                "title": "【年度盛典】久慕雅黛~高贵诱惑透视吊带睡裙",
+                "price": "22.00",
+                "status": "1",
+                "cid": "4",
+                "attr_list": [
+                    {
+                        "attr_id": "23",
+                        "goods_attr_id": "7138",
+                        "attr_name": "颜色",
+                        "attr_value": "絮洁白【含网袜】",
+                        "attr_price": "0.00",
+                        "attr_type": "1"
+                    },
+                    {
+                        "attr_id": "23",
+                        "goods_attr_id": "3308",
+                        "attr_name": "颜色",
+                        "attr_value": "性感黑【含网袜】",
+                        "attr_price": "0.00",
+                        "attr_type": "1"
+                    },
+                    {
+                        "attr_id": "23",
+                        "goods_attr_id": "3307",
+                        "attr_name": "颜色",
+                        "attr_value": "典雅紫【含网袜】",
+                        "attr_price": "0.00",
+                        "attr_type": "1"
+                    },
+                    {
+                        "attr_id": "23",
+                        "goods_attr_id": "3309",
+                        "attr_name": "颜色",
+                        "attr_value": "清纯粉【含网袜】",
+                        "attr_price": "0.00",
+                        "attr_type": "1"
+                    }
+                ]
+            },
+            {
+                "id": "406",
+                "title": "日式印花和服三点式二件套开襟睡裙【周年庆】",
+                "price": "19.00",
+                "status": "1",
+                "cid": "4",
+                "attr_list": [
+                    {
+                        "attr_id": "23",
+                        "goods_attr_id": "4076",
+                        "attr_name": "颜色",
+                        "attr_value": "浴袍+T裤+文胸【超值套装】",
+                        "attr_price": "0.00",
+                        "attr_type": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+
+点击结算
+
+转到结算界面，同时客户端发生3个http请求
+
+1请求付款列表
+2请求运费信息
+3第一次使用时会请求token相关的地址信息
+
+http://xjb.ushengsheng.com/shop.php?m=Cart&a=getPaymentList&platform=iphone&v=5.1.0&place=appstore&token=8b843fea89d94355055ddda2ea8a1446&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Cart
+a	getPaymentList
+platform	iphone
+v	5.1.0
+place	appstore
+token	8b843fea89d94355055ddda2ea8a1446
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+
+{
+    "info": {
+        "extra": null,
+        "data": [
+            {
+                "payment_way_id": "1",
+                "payment_way_name": "货到付款",
+                "payment_way_desp": "满168包邮"
+            },
+            {
+                "payment_way_id": "3",
+                "payment_way_name": "支付宝",
+                "payment_way_desp": "满100包邮"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://xjb.ushengsheng.com/shop.php?m=Cart&a=getPromotionDetail&totalprice=79.00&payment_id=1&platform=iphone&v=5.1.0&place=appstore&token=8b843fea89d94355055ddda2ea8a1446&alias=xjb&appcode=1&width=640&height=960&network=2
+
+
+m	Cart
+a	getPromotionDetail
+totalprice	79.00
+payment_id	1
+platform	iphone
+v	5.1.0
+place	appstore
+token	8b843fea89d94355055ddda2ea8a1446
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+
+{
+	"info": {
+		"extra": null,
+		"data": {
+			"promotion_totalprice": "79.00",
+			"discount_amount": "0.00",
+			"orderprice": "91.00",
+			"promotion_title": [],
+			"shipping_fee": "12.00",
+			"shipping_fee_reduce": "0.00",
+			"goods_amount_reduce": "0.00",
+			"payment_fee": "12.00"
+		}
+	},
+	"response_status": "success",
+	"msg": ""
+}
+
+
+提交订单
+客户端用post方式提交订单，服务器返回订单号，订单状态等信息
+如果是淘宝支付的话，客户端post请求服务器返回淘宝支付地址，跳转到此网页支付
+
+http://xjb.ushengsheng.com/shop.php?m=Cart&a=newOrder
+
+post
+
+order_json	{"city":"3450","consignee":"���涓�","mobile":"13646426253","memo":"","province":"3449","product_json":[{"title":"���骞村害�����搞��涔�������榛�~楂�璐佃�辨�����瑙����甯���¤��","attr_list":[{"attr_id":"23","goods_attr_id":"7138","attr_name":"棰����","attr_value":"绲�娲���姐�����缃�琚����","attr_price":0}],"price":"22","pid":"302","quantity":"1"},{"title":"��ュ����拌�卞�����涓���瑰��浜�浠跺��寮�瑗���¤�������ㄥ勾搴����","attr_list":[{"attr_id":"23","goods_attr_id":"4076","attr_name":"棰����","attr_value":"娴磋�� T瑁� �����搞��瓒���煎��瑁����","attr_price":0}],"price":"19","pid":"406","quantity":"3"}],"ticket_id":"2e6bd2101f9993307dd18f0c19dbce63","address":"纰ф�����17b","shipping_fee":"12.00","promotion_totalprice":"79.00","area":"3463","payment_id":"1"}
+
+{
+    "city": "3450",
+    "consignee": "���涓�",
+    "mobile": "13646426253",
+    "memo": "",
+    "province": "3449",
+    "product_json": [
+        {
+            "title": "���骞村害�����搞��涔�������榛�~楂�璐佃�辨�����瑙����甯���¤��",
+            "attr_list": [
+                {
+                    "attr_id": "23",
+                    "goods_attr_id": "7138",
+                    "attr_name": "棰����",
+                    "attr_value": "绲�娲���姐�����缃�琚����",
+                    "attr_price": 0
+                }
+            ],
+            "price": "22",
+            "pid": "302",
+            "quantity": "1"
+        },
+        {
+            "title": "��ュ����拌�卞�����涓���瑰��浜�浠跺��寮�瑗���¤�������ㄥ勾搴����",
+            "attr_list": [
+                {
+                    "attr_id": "23",
+                    "goods_attr_id": "4076",
+                    "attr_name": "棰����",
+                    "attr_value": "娴磋�� T瑁� �����搞��瓒���煎��瑁����",
+                    "attr_price": 0
+                }
+            ],
+            "price": "19",
+            "pid": "406",
+            "quantity": "3"
+        }
+    ],
+    "ticket_id": "2e6bd2101f9993307dd18f0c19dbce63",
+    "address": "纰ф�����17b",
+    "shipping_fee": "12.00",
+    "promotion_totalprice": "79.00",
+    "area": "3463",
+    "payment_id": "1"
+}
+
+
+platform	iphone
+v	5.1.0
+place	appstore
+token	8b843fea89d94355055ddda2ea8a1446
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "order_number": "6112055485023821153",
+            "orderprice": "91.00",
+            "create_time": "1397801934",
+            "order_status": "等待处理",
+            "payment_name": "货到付款",
+            "is_transfer": "false",
+            "payment_id": "1",
+            "payment_status": "0",
+            "alipay_submit_data": "",
+            "order_success_html": "<!doctype html><html><head><meta charset=\"UTF-8\"><style>        ul {margin-top: -5px; margin-left: -5px;}\r\n        li {color: #8C8C8C; font-size: 16px; line-height: 25px; padding-left: 5px; }\r\n        .price {color: #FF3933; font-weight: bold;}\r\n    </style></head><body><p><ul><li>我们将在24小时内为您发货！</li><li>预计3~5天内送达。</li><li>建议保持手机畅通，以便配送时联系！</li></ul></p></body></html>",
+            "pay_success_html": ""
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+支付宝付款通知
+
+http://xjb.ushengsheng.com/shop.php?m=Alipaymd5&a=alipayto
+
+post
+
+subject	��т环姣�璁㈠��
+out_trade_no	6112140272080213371
+total_fee	26.00
+platform	iphone
+v	5.1.0
+place	appstore
+token	8b843fea89d94355055ddda2ea8a1446
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+HTTP/1.1 302 Moved Temporarily
+Server: nginx/1.4.5
+Date: Fri, 18 Apr 2014 06:33:04 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.3.3
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: http://wappaygw.alipay.com/service/rest.htm?req_data=<auth_and_execute_req><request_token>201404185433e520ea7c2b7778555b5d898c8fe0</request_token></auth_and_execute_req>&service=alipay.wap.auth.authAndExecute&sec_id=MD5&partner=2088011894575583&format=xml&v=2.0&sign=e3a70239d353417d337f426c0773c1b2

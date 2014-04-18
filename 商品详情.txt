@@ -1,0 +1,211 @@
+商品详情
+
+http://xjb.ushengsheng.com/shop.php?m=Shop&a=getPromotionList&platform=iphone&v=5.1.0&place=appstore&token=8b843fea89d94355055ddda2ea8a1446&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Shop
+a	getPromotionList
+platform	iphone
+v	5.1.0
+place	appstore
+token	8b843fea89d94355055ddda2ea8a1446
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "promotion_ico": "http://xingjiabi.b0.upaiyun.com/ico/promotion.png",
+            "promotion": "银行汇款满168包邮 支付宝满100包邮 货到付款满168包邮",
+            "service_ico": "http://xingjiabi.b0.upaiyun.com/ico/service7.png",
+            "service": "7天无理由退换货"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://xjb.ushengsheng.com/shop.php?m=Shop&a=getProductDetail&pid=406&platform=iphone&v=5.1.0&place=appstore&token=8b843fea89d94355055ddda2ea8a1446&alias=xjb&appcode=1&width=640&height=960&network=2
+
+
+m	Shop
+a	getProductDetail
+pid	406
+platform	iphone
+v	5.1.0
+place	appstore
+token	8b843fea89d94355055ddda2ea8a1446
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+
+{
+    "info": {
+        "extra": {
+            "detail2g": "_250x250.jpg",
+            "detail3g": "_400x400.jpg",
+            "detailwifi": ""
+        },
+        "data": {
+            "id": "406",
+            "cid": "4",
+            "title": "日式印花和服三点式二件套开襟睡裙【周年庆】",
+            "volume": "16818",
+            "recentvolume": "637",
+            "org_price": "59.00",
+            "price": "19.00",
+            "status": "1",
+            "stamper": "",
+            "gallery": [
+                "http://img02.taobaocdn.com/imgextra/i2/468359490/T2T49qXRxXXXXXXXXX-468359490.jpg",
+                "http://img03.taobaocdn.com/imgextra/i3/468359490/T2NyVRXvVaXXXXXXXX-468359490.gif",
+                "http://img03.taobaocdn.com/imgextra/i3/468359490/T2RSpsXvXaXXXXXXXX-468359490.gif",
+                "http://img03.taobaocdn.com/imgextra/i3/468359490/T2fSKAXsVaXXXXXXXX-468359490.jpg",
+                "http://img01.taobaocdn.com/imgextra/i1/468359490/T2ltKvXp4aXXXXXXXX-468359490.jpg"
+            ],
+            "attr_list": [
+                {
+                    "attr_id": "19",
+                    "goods_attr_id": "4072",
+                    "attr_name": "品牌",
+                    "attr_value": "其它品牌",
+                    "attr_price": "0.00",
+                    "attr_type": "0"
+                },
+                {
+                    "attr_id": "20",
+                    "goods_attr_id": "4073",
+                    "attr_name": "面料分类",
+                    "attr_value": "梭织",
+                    "attr_price": "0.00",
+                    "attr_type": "0"
+                },
+                {
+                    "attr_id": "21",
+                    "goods_attr_id": "4074",
+                    "attr_name": "款式",
+                    "attr_value": "绳衣套装",
+                    "attr_price": "0.00",
+                    "attr_type": "0"
+                },
+                {
+                    "attr_id": "22",
+                    "goods_attr_id": "4075",
+                    "attr_name": "货号",
+                    "attr_value": "NS0292",
+                    "attr_price": "0.00",
+                    "attr_type": "0"
+                },
+                {
+                    "attr_id": "23",
+                    "goods_attr_id": "4076",
+                    "attr_name": "颜色",
+                    "attr_value": "浴袍+T裤+文胸【超值套装】",
+                    "attr_price": "0.00",
+                    "attr_type": "1"
+                }
+            ]
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://xjb.ushengsheng.com/shop.php?m=Shop&a=getRecommendGoods&posid=406&cid=4&platform=iphone&v=5.1.0&place=appstore&token=8b843fea89d94355055ddda2ea8a1446&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Shop
+a	getRecommendGoods
+posid	406
+cid	4
+platform	iphone
+v	5.1.0
+place	appstore
+token	8b843fea89d94355055ddda2ea8a1446
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "grid2g": "_80x80.jpg",
+            "grid3g": "_160x160.jpg",
+            "gridwifi": "_250x250.jpg"
+        },
+        "data": [
+            {
+                "id": "125",
+                "title": "朦胧透明露乳开档蕾丝大码短裙睡衣【周年庆】",
+                "price": "18.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2xvurXJVXXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "302",
+                "title": "【年度盛典】久慕雅黛~高贵诱惑透视吊带睡裙",
+                "price": "22.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2thy1Xt0aXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "406",
+                "title": "日式印花和服三点式二件套开襟睡裙【周年庆】",
+                "price": "19.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2T49qXRxXXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "307",
+                "title": "性感分体诱惑开裆透视激情三点式内衣【周年庆】",
+                "price": "16.00",
+                "pic_url": "http://img04.taobaocdn.com/imgextra/i4/468359490/T2qP9pXFhaXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "173",
+                "title": "蕾丝花边透明性感睡裙诱惑睡衣【周年庆】",
+                "price": "19.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2LDurXRJXXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "301",
+                "title": "久慕雅黛 激情三点式蕾丝花边性感睡裙【周年庆】",
+                "price": "22.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T25_5pXFpaXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "299",
+                "title": "【年度盛典】久慕雅黛 可爱透明蕾丝柔纱旗袍睡袍",
+                "price": "22.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2SV52XBBXXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "106",
+                "title": "女佣套装后开内衣诱惑裙五件套+头饰+颈饰+T+围裙【周年庆】",
+                "price": "19.00",
+                "pic_url": "http://img04.taobaocdn.com/imgextra/i4/468359490/T2DIKqXQFXXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "303",
+                "title": "久慕雅黛 深V透视开叉优雅长裙",
+                "price": "40.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2niDXXpRXXXXXXXXX-468359490.png",
+                "cid": "4"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
