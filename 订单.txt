@@ -1,0 +1,1110 @@
+
+注册游客
+http://xjb.ushengsheng.com/shop.php?m=Accounts&a=reg_anonymit_user&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Accounts
+a	reg_anonymit_user
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "nickname": "游客7093924",
+            "ticket_id": "2b528903fec4b873b80133aa9bf2b1f2",
+            "account_type": "2"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+
+得到收件人信息
+http://xjb.ushengsheng.com/shop.php?m=Cart&a=getConsigneeInfo&ticket_id=2b528903fec4b873b80133aa9bf2b1f2&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Cart
+a	getConsigneeInfo
+ticket_id	2b528903fec4b873b80133aa9bf2b1f2
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+
+{
+	"info": {
+		"extra": null,
+		"data": {
+			"consignee": "",
+			"address": "",
+			"mobile": "",
+			"baseaddr": null
+		}
+	},
+	"response_status": "success",
+	"msg": ""
+}
+
+新订单
+http://xjb.ushengsheng.com/shop.php?m=Cart&a=newOrder
+
+order_json	{"city":"3450","consignee":"���涓�","mobile":"13646426253","memo":"","province":"3449","product_json":[{"title":"ManMiao婕�娓洪��������绮炬��涔�璁�缁�������椋���烘��","attr_list":[{"attr_id":"35","goods_attr_id":"3390","attr_name":"瑙����","attr_value":"ManMiao婕�娓洪��������绮�","attr_price":0}],"price":"188","pid":"282","quantity":"1"},{"title":"AV濂充��17宀�灏�濂冲�����������濮�濡瑰����ㄥ��妯�","attr_list":[{"attr_id":"35","goods_attr_id":"6660","attr_name":"瑙����","attr_value":"���������灞�缁����涓�浠� 澶�濂�","attr_price":0}],"price":"48","pid":"96","quantity":"1"},{"title":"AV濂充��NPG骞舵�ㄤ�����浜洪�磋�����妯�","attr_list":[{"attr_id":"35","goods_attr_id":"6766","attr_name":"瑙����","attr_value":"骞舵�ㄤ��������","attr_price":0}],"price":"68","pid":"732","quantity":"1"}],"ticket_id":"2b528903fec4b873b80133aa9bf2b1f2","address":"纰ф�����17���","shipping_fee":"0.00","promotion_totalprice":"304.00","area":"3460","payment_id":"1"}
+{
+    "city": "3450",
+    "consignee": "���涓�",
+    "mobile": "13646426253",
+    "memo": "",
+    "province": "3449",
+    "product_json": [
+        {
+            "title": "ManMiao婕�娓洪��������绮炬��涔�璁�缁�������椋���烘��",
+            "attr_list": [
+                {
+                    "attr_id": "35",
+                    "goods_attr_id": "3390",
+                    "attr_name": "瑙����",
+                    "attr_value": "ManMiao婕�娓洪��������绮�",
+                    "attr_price": 0
+                }
+            ],
+            "price": "188",
+            "pid": "282",
+            "quantity": "1"
+        },
+        {
+            "title": "AV濂充��17宀�灏�濂冲�����������濮�濡瑰����ㄥ��妯�",
+            "attr_list": [
+                {
+                    "attr_id": "35",
+                    "goods_attr_id": "6660",
+                    "attr_name": "瑙����",
+                    "attr_value": "���������灞�缁����涓�浠� 澶�濂�",
+                    "attr_price": 0
+                }
+            ],
+            "price": "48",
+            "pid": "96",
+            "quantity": "1"
+        },
+        {
+            "title": "AV濂充��NPG骞舵�ㄤ�����浜洪�磋�����妯�",
+            "attr_list": [
+                {
+                    "attr_id": "35",
+                    "goods_attr_id": "6766",
+                    "attr_name": "瑙����",
+                    "attr_value": "骞舵�ㄤ��������",
+                    "attr_price": 0
+                }
+            ],
+            "price": "68",
+            "pid": "732",
+            "quantity": "1"
+        }
+    ],
+    "ticket_id": "2b528903fec4b873b80133aa9bf2b1f2",
+    "address": "纰ф�����17���",
+    "shipping_fee": "0.00",
+    "promotion_totalprice": "304.00",
+    "area": "3460",
+    "payment_id": "1"
+}
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "order_number": "6154739752237713378",
+            "orderprice": "304.00",
+            "create_time": "1398228777",
+            "order_status": "等待处理",
+            "payment_name": "货到付款",
+            "is_transfer": "false",
+            "payment_id": "1",
+            "payment_status": "0",
+            "alipay_submit_data": "",
+            "order_success_html": "<!doctype html><html><head><meta charset=\"UTF-8\"><style>        ul {margin-top: -5px; margin-left: -5px;}\r\n        li {color: #8C8C8C; font-size: 16px; line-height: 25px; padding-left: 5px; }\r\n        .price {color: #FF3933; font-weight: bold;}\r\n    </style></head><body><p><ul><li>我们将在24小时内为您发货！</li><li>预计3~5天内送达。</li><li>建议保持手机畅通，以便配送时联系！</li></ul></p></body></html>",
+            "pay_success_html": ""
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+新订单
+http://xjb.ushengsheng.com/shop.php?m=Cart&a=newOrder
+
+order_json	{"city":"3450","consignee":"���涓�","mobile":"13646426253","memo":"","province":"3449","product_json":[{"title":"寤舵�剁��绫�榫�澶磋��缁����","attr_list":[{"attr_id":"35","goods_attr_id":"10596","attr_name":"瑙����","attr_value":"������绗�涓�娆� ��舵�典�������� ���1���娌�","attr_price":0}],"price":"26","pid":"267","quantity":"1"},{"title":"��╃��娼����4D榛����甯�棣���充豢�����������ㄣ����ヨ�捐����ㄣ��","attr_list":[{"attr_id":"35","goods_attr_id":"9380","attr_name":"瑙����","attr_value":"4D棣���抽�����-��板�规��","attr_price":0}],"price":"45","pid":"905","quantity":"1"}],"ticket_id":"2b528903fec4b873b80133aa9bf2b1f2","address":"纰ф�����17���","shipping_fee":"12.00","promotion_totalprice":"71.00","area":"3460","payment_id":"1"}
+{
+    "city": "3450",
+    "consignee": "���涓�",
+    "mobile": "13646426253",
+    "memo": "",
+    "province": "3449",
+    "product_json": [
+        {
+            "title": "寤舵�剁��绫�榫�澶磋��缁����",
+            "attr_list": [
+                {
+                    "attr_id": "35",
+                    "goods_attr_id": "10596",
+                    "attr_name": "瑙����",
+                    "attr_value": "������绗�涓�娆� ��舵�典�������� ���1���娌�",
+                    "attr_price": 0
+                }
+            ],
+            "price": "26",
+            "pid": "267",
+            "quantity": "1"
+        },
+        {
+            "title": "��╃��娼����4D榛����甯�棣���充豢�����������ㄣ����ヨ�捐����ㄣ��",
+            "attr_list": [
+                {
+                    "attr_id": "35",
+                    "goods_attr_id": "9380",
+                    "attr_name": "瑙����",
+                    "attr_value": "4D棣���抽�����-��板�规��",
+                    "attr_price": 0
+                }
+            ],
+            "price": "45",
+            "pid": "905",
+            "quantity": "1"
+        }
+    ],
+    "ticket_id": "2b528903fec4b873b80133aa9bf2b1f2",
+    "address": "纰ф�����17���",
+    "shipping_fee": "12.00",
+    "promotion_totalprice": "71.00",
+    "area": "3460",
+    "payment_id": "1"
+}
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "order_number": "6154755957803502520",
+            "orderprice": "83.00",
+            "create_time": "1398228939",
+            "order_status": "等待处理",
+            "payment_name": "货到付款",
+            "is_transfer": "false",
+            "payment_id": "1",
+            "payment_status": "0",
+            "alipay_submit_data": "",
+            "order_success_html": "<!doctype html><html><head><meta charset=\"UTF-8\"><style>        ul {margin-top: -5px; margin-left: -5px;}\r\n        li {color: #8C8C8C; font-size: 16px; line-height: 25px; padding-left: 5px; }\r\n        .price {color: #FF3933; font-weight: bold;}\r\n    </style></head><body><p><ul><li>我们将在24小时内为您发货！</li><li>预计3~5天内送达。</li><li>建议保持手机畅通，以便配送时联系！</li></ul></p></body></html>",
+            "pay_success_html": ""
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+查看订单
+http://xjb.ushengsheng.com/shop.php?m=User&a=getMyOrderDetail&ticket_id=2b528903fec4b873b80133aa9bf2b1f2&order_number=6154755957803502520&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+
+m	User
+a	getMyOrderDetail
+ticket_id	2b528903fec4b873b80133aa9bf2b1f2
+order_number	6154755957803502520
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "thumb_size": "_100x100.jpg"
+        },
+        "data": {
+            "order_number": "6154755957803502520",
+            "order_status": "等待确认",
+            "pay_status": "0",
+            "shipping_status": "0",
+            "consignee": "李东",
+            "address": "碧桂园17号",
+            "baseaddr": "北京北京市房山区",
+            "mobile": "13646426253",
+            "goods_amount": "71.00",
+            "payment_id": "1",
+            "payment_name": "货到付款",
+            "payment_status": "0",
+            "is_new_style": "1",
+            "payment_fee": "12.00",
+            "orderprice": "83.00",
+            "memo": "",
+            "create_time": "1398228939",
+            "is_transfer": "false",
+            "promotion": null,
+            "goods_number": "2",
+            "status": "0",
+            "payment_notice": "",
+            "goods_list": [
+                {
+                    "goods_name": "延时秘籍龟头训练器",
+                    "goods_number": "1",
+                    "goods_price": "26.00",
+                    "goods_attr": "[规格]：萝莉第一次 阶段一适合 送1包油",
+                    "pic_url": "http://img.taobaocdn.com/imgextra/http://img04.taobaocdn.com/imgextra/i4/468359490/T2psJZXc8eXXXXXXXX_!!468359490.jpg"
+                },
+                {
+                    "goods_name": "玩爆潮品4D黑腔带香味仿真型名器【春蕾行动】",
+                    "goods_number": "1",
+                    "goods_price": "45.00",
+                    "goods_attr": "[规格]：4D香味黑腔-台妹款",
+                    "pic_url": "http://img04.taobaocdn.com/imgextra/i4/468359490/T2bvNEXshaXXXXXXXX-468359490.jpg"
+                }
+            ]
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+订单反馈
+http://xjb.ushengsheng.com/shop.php?m=Common&a=submitFeedback
+post
+
+feed_json	{"order_sn":"6154755957803502520","content":"蹇����"}
+ticket_id	2b528903fec4b873b80133aa9bf2b1f2
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": null
+    },
+    "response_status": "success",
+    "msg": "提交反馈成功"
+}
+
+删除订单
+http://xjb.ushengsheng.com/shop.php?m=User&a=delMyOrder&ticket_id=2b528903fec4b873b80133aa9bf2b1f2&order_number=6154755957803502520&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+
+m	User
+a	delMyOrder
+ticket_id	2b528903fec4b873b80133aa9bf2b1f2
+order_number	6154755957803502520
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": null
+    },
+    "response_status": "success",
+    "msg": "操作成功"
+}
+
+http://xjb.ushengsheng.com/shop.php?m=User&a=getMyOrderList&ticket_id=2b528903fec4b873b80133aa9bf2b1f2&page=1&limit=15&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	User
+a	getMyOrderList
+ticket_id	2b528903fec4b873b80133aa9bf2b1f2
+page	1
+limit	15
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "thumb_size": "_100x100.jpg"
+        },
+        "data": [
+            {
+                "order_number": "6154739752237713378",
+                "orderprice": "304.00",
+                "create_time": "1398228777",
+                "order_status": "等待确认",
+                "pay_status": "0",
+                "shipping_status": "0",
+                "payment_id": "1",
+                "is_new_style": "1",
+                "payment_status": "0",
+                "payment_name": "货到付款",
+                "is_transfer": "false",
+                "goods_number": "3",
+                "pic_url": "http://img03.taobaocdn.com/imgextra/i3/468359490/T2MAl5XxXaXXXXXXXX-468359490.jpg"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+查看订单
+http://xjb.ushengsheng.com/shop.php?m=User&a=getMyOrderDetail&ticket_id=2b528903fec4b873b80133aa9bf2b1f2&order_number=6154739752237713378&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	User
+a	getMyOrderDetail
+ticket_id	2b528903fec4b873b80133aa9bf2b1f2
+order_number	6154739752237713378
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "thumb_size": "_100x100.jpg"
+        },
+        "data": {
+            "order_number": "6154739752237713378",
+            "order_status": "等待确认",
+            "pay_status": "0",
+            "shipping_status": "0",
+            "consignee": "李东",
+            "address": "碧桂园17号",
+            "baseaddr": "北京北京市房山区",
+            "mobile": "13646426253",
+            "goods_amount": "304.00",
+            "payment_id": "1",
+            "payment_name": "货到付款",
+            "payment_status": "0",
+            "is_new_style": "1",
+            "payment_fee": "0.00",
+            "orderprice": "304.00",
+            "memo": "",
+            "create_time": "1398228777",
+            "is_transfer": "false",
+            "promotion": "满168包邮",
+            "goods_number": "3",
+            "status": "0",
+            "payment_notice": "",
+            "goods_list": [
+                {
+                    "goods_name": "ManMiao漫渺黑蜘蛛精持久训练免提飞机杯",
+                    "goods_number": "1",
+                    "goods_price": "188.00",
+                    "goods_attr": "[规格]：ManMiao漫渺黑蜘蛛精",
+                    "pic_url": "http://img03.taobaocdn.com/imgextra/i3/468359490/T2MAl5XxXaXXXXXXXX-468359490.jpg"
+                },
+                {
+                    "goods_name": "AV女优17岁少女小萝莉双姐妹名器倒模",
+                    "goods_number": "1",
+                    "goods_price": "48.00",
+                    "goods_attr": "[规格]：萝莉双层结构下付 处女",
+                    "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2Wav5XetXXXXXXXXX_!!468359490.jpg"
+                },
+                {
+                    "goods_name": "AV女优NPG并木优真人阴臀倒模",
+                    "goods_number": "1",
+                    "goods_price": "68.00",
+                    "goods_attr": "[规格]：并木优名器",
+                    "pic_url": "http://img04.taobaocdn.com/imgextra/i4/468359490/T2e_F8XlNaXXXXXXXX_!!468359490.jpg"
+                }
+            ]
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+查看订单
+http://xjb.ushengsheng.com/shop.php?m=User&a=getMyOrderDetail&ticket_id=2b528903fec4b873b80133aa9bf2b1f2&order_number=6154791084460902050&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	User
+a	getMyOrderDetail
+ticket_id	2b528903fec4b873b80133aa9bf2b1f2
+order_number	6154791084460902050
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "thumb_size": "_100x100.jpg"
+        },
+        "data": {
+            "order_number": "6154791084460902050",
+            "order_status": "等待确认",
+            "pay_status": "0",
+            "shipping_status": "0",
+            "consignee": "李东",
+            "address": "碧桂园17号",
+            "baseaddr": "北京北京市房山区",
+            "mobile": "13646426253",
+            "goods_amount": "99.00",
+            "payment_id": "1",
+            "payment_name": "货到付款",
+            "payment_status": "0",
+            "is_new_style": "1",
+            "payment_fee": "12.00",
+            "orderprice": "111.00",
+            "memo": "",
+            "create_time": "1398229290",
+            "is_transfer": "false",
+            "promotion": null,
+            "goods_number": "1",
+            "status": "0",
+            "payment_notice": "",
+            "goods_list": [
+                {
+                    "goods_name": "恒天宝隆3D美臀实体逼真阴臀倒模",
+                    "goods_number": "1",
+                    "goods_price": "99.00",
+                    "goods_attr": "[规格]：3D美臀",
+                    "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2qRFkXB0XXXXXXXXX_!!468359490.jpg"
+                }
+            ]
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+查看订单列表
+http://xjb.ushengsheng.com/shop.php?m=User&a=getMyOrderList&ticket_id=2b528903fec4b873b80133aa9bf2b1f2&page=1&limit=15&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	User
+a	getMyOrderList
+ticket_id	2b528903fec4b873b80133aa9bf2b1f2
+page	1
+limit	15
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "thumb_size": "_100x100.jpg"
+        },
+        "data": [
+            {
+                "order_number": "6154791084460902050",
+                "orderprice": "111.00",
+                "create_time": "1398229290",
+                "order_status": "等待确认",
+                "pay_status": "0",
+                "shipping_status": "0",
+                "payment_id": "1",
+                "is_new_style": "1",
+                "payment_status": "0",
+                "payment_name": "货到付款",
+                "is_transfer": "false",
+                "goods_number": "1",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2qRFkXB0XXXXXXXXX_!!468359490.jpg"
+            },
+            {
+                "order_number": "6154739752237713378",
+                "orderprice": "304.00",
+                "create_time": "1398228777",
+                "order_status": "等待确认",
+                "pay_status": "0",
+                "shipping_status": "0",
+                "payment_id": "1",
+                "is_new_style": "1",
+                "payment_status": "0",
+                "payment_name": "货到付款",
+                "is_transfer": "false",
+                "goods_number": "3",
+                "pic_url": "http://img03.taobaocdn.com/imgextra/i3/468359490/T2MAl5XxXaXXXXXXXX-468359490.jpg"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+查看订单
+http://xjb.ushengsheng.com/shop.php?m=User&a=getMyOrderDetail&ticket_id=2b528903fec4b873b80133aa9bf2b1f2&order_number=6154739752237713378&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	User
+a	getMyOrderDetail
+ticket_id	2b528903fec4b873b80133aa9bf2b1f2
+order_number	6154739752237713378
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "thumb_size": "_100x100.jpg"
+        },
+        "data": {
+            "order_number": "6154739752237713378",
+            "order_status": "等待确认",
+            "pay_status": "0",
+            "shipping_status": "0",
+            "consignee": "李东",
+            "address": "碧桂园17号",
+            "baseaddr": "北京北京市房山区",
+            "mobile": "13646426253",
+            "goods_amount": "304.00",
+            "payment_id": "1",
+            "payment_name": "货到付款",
+            "payment_status": "0",
+            "is_new_style": "1",
+            "payment_fee": "0.00",
+            "orderprice": "304.00",
+            "memo": "",
+            "create_time": "1398228777",
+            "is_transfer": "false",
+            "promotion": "满168包邮",
+            "goods_number": "3",
+            "status": "0",
+            "payment_notice": "",
+            "goods_list": [
+                {
+                    "goods_name": "ManMiao漫渺黑蜘蛛精持久训练免提飞机杯",
+                    "goods_number": "1",
+                    "goods_price": "188.00",
+                    "goods_attr": "[规格]：ManMiao漫渺黑蜘蛛精",
+                    "pic_url": "http://img03.taobaocdn.com/imgextra/i3/468359490/T2MAl5XxXaXXXXXXXX-468359490.jpg"
+                },
+                {
+                    "goods_name": "AV女优17岁少女小萝莉双姐妹名器倒模",
+                    "goods_number": "1",
+                    "goods_price": "48.00",
+                    "goods_attr": "[规格]：萝莉双层结构下付 处女",
+                    "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2Wav5XetXXXXXXXXX_!!468359490.jpg"
+                },
+                {
+                    "goods_name": "AV女优NPG并木优真人阴臀倒模",
+                    "goods_number": "1",
+                    "goods_price": "68.00",
+                    "goods_attr": "[规格]：并木优名器",
+                    "pic_url": "http://img04.taobaocdn.com/imgextra/i4/468359490/T2e_F8XlNaXXXXXXXX_!!468359490.jpg"
+                }
+            ]
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+
+
+新订单
+http://xjb.ushengsheng.com/shop.php?m=Cart&a=newOrder
+
+
+order_json	{"city":"3450","consignee":"���涓�","mobile":"13646426253","memo":"","province":"3449","product_json":[{"title":"婕�娓虹�借�������搁��寮�杈圭��杈圭��3D��芥ā��������靛�ㄩ����烘�����蹇�璺充��楠����","attr_list":[{"attr_id":"35","goods_attr_id":"9813","attr_name":"瑙����","attr_value":"��借�查����ㄦ�鹃����烘��","attr_price":0}],"price":"259","pid":"803","quantity":"1"}],"ticket_id":"2b528903fec4b873b80133aa9bf2b1f2","address":"纰ф�����17���","shipping_fee":"0.00","promotion_totalprice":"259.00","area":"3460","payment_id":"3"}
+{
+    "city": "3450",
+    "consignee": "���涓�",
+    "mobile": "13646426253",
+    "memo": "",
+    "province": "3449",
+    "product_json": [
+        {
+            "title": "婕�娓虹�借�������搁��寮�杈圭��杈圭��3D��芥ā��������靛�ㄩ����烘�����蹇�璺充��楠����",
+            "attr_list": [
+                {
+                    "attr_id": "35",
+                    "goods_attr_id": "9813",
+                    "attr_name": "瑙����",
+                    "attr_value": "��借�查����ㄦ�鹃����烘��",
+                    "attr_price": 0
+                }
+            ],
+            "price": "259",
+            "pid": "803",
+            "quantity": "1"
+        }
+    ],
+    "ticket_id": "2b528903fec4b873b80133aa9bf2b1f2",
+    "address": "纰ф�����17���",
+    "shipping_fee": "0.00",
+    "promotion_totalprice": "259.00",
+    "area": "3460",
+    "payment_id": "3"
+}
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "order_number": "6154809461255115032",
+            "orderprice": "259.00",
+            "create_time": "1398229474",
+            "order_status": "等待处理",
+            "payment_name": "支付宝",
+            "is_transfer": "false",
+            "payment_id": "3",
+            "payment_status": "0",
+            "alipay_submit_data": "_input_charset=\"utf-8\"&body=\"一笔来自性价比的订单\"&notify_url=\"http%3A%2F%2Fxjb.ushengsheng.com%2Fshop.php%2FAlipay%2FnotifyCallback\"&out_trade_no=\"6154809461255115032\"&partner=\"2088011894575583\"&payment_type=\"1\"&seller_id=\"xmhaibao@163.com\"&service=\"mobile.securitypay.pay\"&subject=\"性价比订单\"&total_fee=\"259.00\"&sign=\"Je8UGjLQwjS8I8rqADxLTpjf5Pek22sEXbnbOTamqNQQVV0LoNCucVcJ5Q9Cr%2BgtSaRP5PxkvUIaOpbifj6CliLbabKXEBGu4RUndo%2BO1iwWt9mFMrHokleDvbivogV5og1MrqvpS1J7sbZunDmfUJKtj52gW0BZFK%2F3bawa0a8%3D\"&sign_type=\"RSA\"",
+            "order_success_html": "<!doctype html><html><head><meta charset=\"UTF-8\"><style>        ul {margin-top: -5px; margin-left: -5px;}\r\n        li {color: #8C8C8C; font-size: 16px; line-height: 25px; padding-left: 5px; }\r\n        .price {color: #FF3933; font-weight: bold;}\r\n    </style></head><body><p><ul><li>您需支付<span class=\"price\">￥259.00</span></li><li>我们将在24小时内为您发货！</li><li>预计3~5天内送达。</li><li>超过1小时未支付，订单将自动取消。</li></ul></p></body></html>",
+            "pay_success_html": "<!doctype html><html><head><meta charset=\"UTF-8\"><style>        ul {margin-top: -5px; margin-left: -5px;}\r\n        li {color: #8C8C8C; font-size: 16px; line-height: 25px; padding-left: 5px; }\r\n        .price {color: #FF3933; font-weight: bold;}\r\n    </style></head><body><p><ul><li>付款金额<span class=\"price\">￥259.00</span></li><li>我们将在24小时内为您发货！</li><li>预计3~5天内送达。</li></ul></p></body></html>"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+支付宝
+http://xjb.ushengsheng.com/shop.php?m=Alipaymd5&a=alipayto
+
+post
+
+subject	��т环姣�璁㈠��
+out_trade_no	6154809461255115032
+total_fee	259.00
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+	HTTP/1.1 302 Moved Temporarily
+Server	nginx/1.4.5
+Date	Wed, 23 Apr 2014 05:04:37 GMT
+Content-Type	text/html
+Transfer-Encoding	chunked
+Connection	keep-alive
+X-Powered-By	PHP/5.3.3
+Expires	Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control	no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma	no-cache
+Location	http://wappaygw.alipay.com/service/rest.htm?req_data=<auth_and_execute_req><request_token>20140423e55c4aa33268c810c06c711181080395</request_token></auth_and_execute_req>&service=alipay.wap.auth.authAndExecute&sec_id=MD5&partner=2088011894575583&format=xml&v=2.0&sign=bf2c4afce134d475ddb7a57f6f12433b
+
+查看订单
+http://xjb.ushengsheng.com/shop.php?m=User&a=getMyOrderDetail&ticket_id=2b528903fec4b873b80133aa9bf2b1f2&order_number=6154809461255115032&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	User
+a	getMyOrderDetail
+ticket_id	2b528903fec4b873b80133aa9bf2b1f2
+order_number	6154809461255115032
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "thumb_size": "_100x100.jpg"
+        },
+        "data": {
+            "order_number": "6154809461255115032",
+            "order_status": "未付款",
+            "pay_status": "0",
+            "shipping_status": "0",
+            "consignee": "李东",
+            "address": "碧桂园17号",
+            "baseaddr": "北京北京市房山区",
+            "mobile": "13646426253",
+            "goods_amount": "259.00",
+            "payment_id": "3",
+            "payment_name": "支付宝",
+            "payment_status": "0",
+            "is_new_style": "1",
+            "payment_fee": "0.00",
+            "orderprice": "259.00",
+            "memo": "",
+            "create_time": "1398229474",
+            "is_transfer": "false",
+            "promotion": "满100包邮",
+            "goods_number": "1",
+            "status": "0",
+            "payment_notice": "",
+            "goods_list": [
+                {
+                    "goods_name": "漫渺白蜘蛛吸附式边看边玩3D国模通道电动飞机杯【心跳体验】",
+                    "goods_number": "1",
+                    "goods_price": "259.00",
+                    "goods_attr": "[规格]：白色震动款飞机杯",
+                    "pic_url": "http://img04.taobaocdn.com/imgextra/i4/468359490/T2RHJFXsRXXXXXXXXX_!!468359490.jpg"
+                }
+            ]
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+查看订单列表
+http://xjb.ushengsheng.com/shop.php?m=User&a=getMyOrderList&ticket_id=2b528903fec4b873b80133aa9bf2b1f2&page=1&limit=15&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+
+m	User
+a	getMyOrderList
+ticket_id	2b528903fec4b873b80133aa9bf2b1f2
+page	1
+limit	15
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "thumb_size": "_100x100.jpg"
+        },
+        "data": [
+            {
+                "order_number": "6154809461255115032",
+                "orderprice": "259.00",
+                "create_time": "1398229474",
+                "order_status": "未付款",
+                "pay_status": "0",
+                "shipping_status": "0",
+                "payment_id": "3",
+                "is_new_style": "1",
+                "payment_status": "0",
+                "payment_name": "支付宝",
+                "is_transfer": "false",
+                "goods_number": "1",
+                "pic_url": "http://img04.taobaocdn.com/imgextra/i4/468359490/T2RHJFXsRXXXXXXXXX_!!468359490.jpg"
+            },
+            {
+                "order_number": "6154791084460902050",
+                "orderprice": "111.00",
+                "create_time": "1398229290",
+                "order_status": "等待确认",
+                "pay_status": "0",
+                "shipping_status": "0",
+                "payment_id": "1",
+                "is_new_style": "1",
+                "payment_status": "0",
+                "payment_name": "货到付款",
+                "is_transfer": "false",
+                "goods_number": "1",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2qRFkXB0XXXXXXXXX_!!468359490.jpg"
+            },
+            {
+                "order_number": "6154739752237713378",
+                "orderprice": "304.00",
+                "create_time": "1398228777",
+                "order_status": "等待确认",
+                "pay_status": "0",
+                "shipping_status": "0",
+                "payment_id": "1",
+                "is_new_style": "1",
+                "payment_status": "0",
+                "payment_name": "货到付款",
+                "is_transfer": "false",
+                "goods_number": "3",
+                "pic_url": "http://img03.taobaocdn.com/imgextra/i3/468359490/T2MAl5XxXaXXXXXXXX-468359490.jpg"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+查看订单
+http://xjb.ushengsheng.com/shop.php?m=User&a=getMyOrderDetail&ticket_id=2b528903fec4b873b80133aa9bf2b1f2&order_number=6154791084460902050&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+
+m	User
+a	getMyOrderDetail
+ticket_id	2b528903fec4b873b80133aa9bf2b1f2
+order_number	6154791084460902050
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "thumb_size": "_100x100.jpg"
+        },
+        "data": {
+            "order_number": "6154791084460902050",
+            "order_status": "等待确认",
+            "pay_status": "0",
+            "shipping_status": "0",
+            "consignee": "李东",
+            "address": "碧桂园17号",
+            "baseaddr": "北京北京市房山区",
+            "mobile": "13646426253",
+            "goods_amount": "99.00",
+            "payment_id": "1",
+            "payment_name": "货到付款",
+            "payment_status": "0",
+            "is_new_style": "1",
+            "payment_fee": "12.00",
+            "orderprice": "111.00",
+            "memo": "",
+            "create_time": "1398229290",
+            "is_transfer": "false",
+            "promotion": null,
+            "goods_number": "1",
+            "status": "0",
+            "payment_notice": "",
+            "goods_list": [
+                {
+                    "goods_name": "恒天宝隆3D美臀实体逼真阴臀倒模",
+                    "goods_number": "1",
+                    "goods_price": "99.00",
+                    "goods_attr": "[规格]：3D美臀",
+                    "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2qRFkXB0XXXXXXXXX_!!468359490.jpg"
+                }
+            ]
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+查看订单
+http://xjb.ushengsheng.com/shop.php?m=User&a=getMyOrderDetail&ticket_id=2b528903fec4b873b80133aa9bf2b1f2&order_number=6154809461255115032&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	User
+a	getMyOrderDetail
+ticket_id	2b528903fec4b873b80133aa9bf2b1f2
+order_number	6154809461255115032
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "thumb_size": "_100x100.jpg"
+        },
+        "data": {
+            "order_number": "6154809461255115032",
+            "order_status": "未付款",
+            "pay_status": "0",
+            "shipping_status": "0",
+            "consignee": "李东",
+            "address": "碧桂园17号",
+            "baseaddr": "北京北京市房山区",
+            "mobile": "13646426253",
+            "goods_amount": "259.00",
+            "payment_id": "3",
+            "payment_name": "支付宝",
+            "payment_status": "0",
+            "is_new_style": "1",
+            "payment_fee": "0.00",
+            "orderprice": "259.00",
+            "memo": "",
+            "create_time": "1398229474",
+            "is_transfer": "false",
+            "promotion": "满100包邮",
+            "goods_number": "1",
+            "status": "0",
+            "payment_notice": "",
+            "goods_list": [
+                {
+                    "goods_name": "漫渺白蜘蛛吸附式边看边玩3D国模通道电动飞机杯【心跳体验】",
+                    "goods_number": "1",
+                    "goods_price": "259.00",
+                    "goods_attr": "[规格]：白色震动款飞机杯",
+                    "pic_url": "http://img04.taobaocdn.com/imgextra/i4/468359490/T2RHJFXsRXXXXXXXXX_!!468359490.jpg"
+                }
+            ]
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+删除订单（用户删除订单返回订单列表界面，会发送订单列表请求）
+http://xjb.ushengsheng.com/shop.php?m=User&a=delMyOrder&ticket_id=2b528903fec4b873b80133aa9bf2b1f2&order_number=6154809461255115032&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	User
+a	delMyOrder
+ticket_id	2b528903fec4b873b80133aa9bf2b1f2
+order_number	6154809461255115032
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": null
+    },
+    "response_status": "success",
+    "msg": "操作成功"
+}
+
+查看订单列表
+http://xjb.ushengsheng.com/shop.php?m=User&a=getMyOrderList&ticket_id=2b528903fec4b873b80133aa9bf2b1f2&page=1&limit=15&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	User
+a	getMyOrderList
+ticket_id	2b528903fec4b873b80133aa9bf2b1f2
+page	1
+limit	15
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "thumb_size": "_100x100.jpg"
+        },
+        "data": [
+            {
+                "order_number": "6154791084460902050",
+                "orderprice": "111.00",
+                "create_time": "1398229290",
+                "order_status": "等待确认",
+                "pay_status": "0",
+                "shipping_status": "0",
+                "payment_id": "1",
+                "is_new_style": "1",
+                "payment_status": "0",
+                "payment_name": "货到付款",
+                "is_transfer": "false",
+                "goods_number": "1",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2qRFkXB0XXXXXXXXX_!!468359490.jpg"
+            },
+            {
+                "order_number": "6154739752237713378",
+                "orderprice": "304.00",
+                "create_time": "1398228777",
+                "order_status": "等待确认",
+                "pay_status": "0",
+                "shipping_status": "0",
+                "payment_id": "1",
+                "is_new_style": "1",
+                "payment_status": "0",
+                "payment_name": "货到付款",
+                "is_transfer": "false",
+                "goods_number": "3",
+                "pic_url": "http://img03.taobaocdn.com/imgextra/i3/468359490/T2MAl5XxXaXXXXXXXX-468359490.jpg"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
