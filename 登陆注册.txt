@@ -1,0 +1,279 @@
+登陆注册
+http://xjb.ushengsheng.com/shop.php?m=Common&a=getSysconfig&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Common
+a	getSysconfig
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "app": {
+                "app_key": "21040542",
+                "app_name": "xjbqqdg"
+            },
+            "iphone_remind_mark_minutes": "1.5",
+            "iphone_remind_mark_content": "亲，给人家一个好评嘛~",
+            "need_login_days": "4",
+            "need_alert_days": "15",
+            "alert_content": "征服♡ 女神♡ 的无双神器，助您轻松驾驭激情时刻！",
+            "umeng_enable": true,
+            "flurry_enable": true,
+            "taobao_loginurl": "https://oauth.taobao.com/authorize?response_type=code&client_id=21040542&redirect_uri=http://xingjiabi.ushengsheng.com/callback/api?fun=oauth_callback&state=-2-3614d23991ccbffe7f697a32d979b783&scope=item,promotion,item,usergrade&view=wap",
+            "taobao_logoffurl": "http://login.m.taobao.com/logout.htm?sid=",
+            "taobao_logoffurl2": "http://login.m.taobao.com/logout.htm",
+            "ad_change_interval": "3",
+            "customer_service_tel": "4000-975-976",
+            "customer_service_info": "9:00~18:00",
+            "tb_hosting_enable": true,
+            "upload_img_limit": "8",
+            "tb_url_schema": "taobao://",
+            "default_wifi_style": "grid",
+            "default_3g_style": "grid",
+            "default_tab": "shop",
+            "estad_enable": "1"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://xjb.ushengsheng.com/shop.php?m=Common&a=syncAddressInfo&rv=1&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Common
+a	syncAddressInfo
+rv	1
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{"info":{"extra":null,"data":null},"response_status":"success","msg":""}
+
+http://xjb.ushengsheng.com/shop.php?m=Members&a=submitDeviceToken&device_token=5f635e2de9a97f7b7eff687b6c5874101ade05147630a78389855abfa9d92833&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Members
+a	submitDeviceToken
+device_token	5f635e2de9a97f7b7eff687b6c5874101ade05147630a78389855abfa9d92833
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{"info":{"extra":null,"data":null},"response_status":"success","msg":""}
+
+
+http://xjb.ushengsheng.com/shop.php?m=Accounts&a=accountReg
+
+post
+
+
+nickname	ÂøÉÂ¶Ç
+email	13646426253
+password	d8406e8445cc99a16ab984cc28f6931615c766fc
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": null
+    },
+    "response_status": "nickname_invalid",
+    "msg": "无效用户名"
+}
+
+{
+    "info": {
+        "extra": null,
+        "data": null
+    },
+    "response_status": "account_email_exists",
+    "msg": "账号会员已存在"
+}
+
+
+http://xjb.ushengsheng.com/shop.php?m=Accounts&a=accountReg
+
+post
+
+
+nickname	ÊàëÊòØÂøÉÂ¶Ç
+email	13646426254
+password	d8406e8445cc99a16ab984cc28f6931615c766fc
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "ticket_id": "f0bbba4c7baf19ce9b6f0a5c7db5e964",
+            "account_id": "1065347"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+成功后
+
+http://xjb.ushengsheng.com/shop.php?m=Accounts&a=getAccountInfoByUser&ticket_id=f0bbba4c7baf19ce9b6f0a5c7db5e964&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+
+m	Accounts
+a	getAccountInfoByUser
+ticket_id	f0bbba4c7baf19ce9b6f0a5c7db5e964
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "account_id": "1065347",
+            "email": "13646426254",
+            "account_name": "我是心如",
+            "sex_type": null,
+            "account_coin": "20",
+            "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+
+http://xjb.ushengsheng.com/shop.php?m=User&a=getMyOrderList&ticket_id=f0bbba4c7baf19ce9b6f0a5c7db5e964&page=1&limit=15&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	User
+a	getMyOrderList
+ticket_id	f0bbba4c7baf19ce9b6f0a5c7db5e964
+page	1
+limit	15
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "thumb_size": "_100x100.jpg"
+        },
+        "data": null
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://xjb.ushengsheng.com/shop.php?m=Accounts&a=accountLogin
+
+post
+
+email	13646426254
+password	d8406e8445cc99a16ab984cc28f6931615c766fc
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "ticket_id": "7ace93db7ce666453bd6e57b5b658066",
+            "nickname": "我是心如",
+            "account_id": "1065347",
+            "sex_type": null,
+            "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+成功后
+
+http://xjb.ushengsheng.com/shop.php?m=Accounts&a=getAccountInfoByUser&ticket_id=7ace93db7ce666453bd6e57b5b658066&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Accounts
+a	getAccountInfoByUser
+ticket_id	7ace93db7ce666453bd6e57b5b658066
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "email": "13646426254",
+            "account_id": "1065347",
+            "sex_type": "",
+            "account_name": "我是心如",
+            "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+            "account_coin": "20"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
