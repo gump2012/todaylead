@@ -177,7 +177,7 @@ network	2
             "account_name": "我是心如",
             "sex_type": null,
             "account_coin": "20",
-            "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png"
+            "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png”(140*140)
         }
     },
     "response_status": "success",
