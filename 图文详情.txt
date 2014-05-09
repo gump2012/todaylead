@@ -1,0 +1,68 @@
+http://xjb.ushengsheng.com/shop.php?m=Shop&a=getProductIntroHtml&pid=551&platform=iphone&v=5.1.0&place=appstore&token=8b843fea89d94355055ddda2ea8a1446&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m
+Shop
+a
+getProductIntroHtml
+pid
+551
+platform
+iphone
+v
+5.1.0
+place
+appstore
+token
+8b843fea89d94355055ddda2ea8a1446
+alias
+xjb
+appcode
+1
+width
+640
+height
+960
+network
+2
+
+
+{
+	"info": {
+		"extra": null,
+		"data": {
+			"content": "<meta name='viewport' content='width=device-width'\/><script type='text\/javascript'>function resize(image){var oldwidth = image.clientWidth;var oldheight = image.clientHeight;if(image.clientWidth>document.body.clientWidth){image.style['width'] = document.body.clientWidth + 'px';image.style['height'] =document.body.clientWidth\/oldwidth*oldheight + 'px';image.style['margin'] = 0;document.body.style['margin'] = 0;}else if(image.clientWidth<document.body.clientWidth\/2){image.style['width'] = document.body.clientWidth\/2 + 'px';image.style['height'] =document.body.clientWidth\/(2*oldwidth)*oldheight + 'px';}}<\/script><p style=\"text-align:center;\">\r\n\t<br \/>\r\n<\/p>\r\n<p style=\"text-align:center;\">\r\n\t<strong><span style=\"font-size:24px;\"><strong><strong><span style=\"font-size:18px;\"><img src=\"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2idAaXOpaXXXXXXXX-468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T2Ytr8XFBXXXXXXXXX-468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T21yieXpXaXXXXXXXX-468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img.taobaocdn.com\/imgextra\/http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T2NkYxXa8bXXXXXXXX_!!468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img.taobaocdn.com\/imgextra\/http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T24PIBXfVaXXXXXXXX_!!468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img.taobaocdn.com\/imgextra\/http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T2q.kBXj8XXXXXXXXX_!!468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img.taobaocdn.com\/imgextra\/http:\/\/img03.taobaocdn.com\/imgextra\/i3\/468359490\/T2P07CXdFXXXXXXXXX_!!468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img.taobaocdn.com\/imgextra\/http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T2WWQCXlJXXXXXXXXX_!!468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img.taobaocdn.com\/imgextra\/http:\/\/img03.taobaocdn.com\/imgextra\/i3\/468359490\/T2hzneXdNbXXXXXXXX_!!468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img.taobaocdn.com\/imgextra\/http:\/\/img03.taobaocdn.com\/imgextra\/i3\/468359490\/T2QhkBXn8XXXXXXXXX_!!468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img.taobaocdn.com\/imgextra\/http:\/\/img03.taobaocdn.com\/imgextra\/i3\/468359490\/T2mjAlXlJaXXXXXXXX_!!468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T2wZYZXGBaXXXXXXXX-468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2pwvZXHlaXXXXXXXX-468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2zcL4XP4XXXXXXXXX-468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T2fB6uXFhXXXXXXXXX-468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T28w6qXRtXXXXXXXXX-468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2MPfqXQhXXXXXXXXX-468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><strong><strong><span style=\"font-size:18px;\"><img src=\"http:\/\/img03.taobaocdn.com\/imgextra\/i3\/468359490\/T2AxcxXhVXXXXXXXXX_!!468359490.gif_620x10000.jpg\" onload=\"resize(this);\" \/><\/span><\/strong><\/strong><\/span><\/strong><br \/>\r\n<\/strong><\/span> <\/strong> \r\n<\/p>"
+		}
+	},
+	"response_status": "success",
+	"msg": ""
+}
+
+
+
+http://xjb.ushengsheng.com/shop.php?m=Shop&a=getProductIntroHtml&pid=463&platform=iphone&v=5.1.0&place=appstore&token=8b843fea89d94355055ddda2ea8a1446&alias=xjb&appcode=1&width=640&height=960&network=2
+
+
+m	Shop
+a	getProductIntroHtml
+pid	463
+platform	iphone
+v	5.1.0
+place	appstore
+token	8b843fea89d94355055ddda2ea8a1446
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+
+{
+	"info": {
+		"extra": null,
+		"data": {
+			"content": "<meta name='viewport' content='width=device-width'\/><script type='text\/javascript'>function resize(image){var oldwidth = image.clientWidth;var oldheight = image.clientHeight;if(image.clientWidth>document.body.clientWidth){image.style['width'] = document.body.clientWidth + 'px';image.style['height'] =document.body.clientWidth\/oldwidth*oldheight + 'px';image.style['margin'] = 0;document.body.style['margin'] = 0;}else if(image.clientWidth<document.body.clientWidth\/2){image.style['width'] = document.body.clientWidth\/2 + 'px';image.style['height'] =document.body.clientWidth\/(2*oldwidth)*oldheight + 'px';}}<\/script><p style=\"text-align:center;\">\r\n\t<img src=\"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2MLDZXIlaXXXXXXXX-468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T2Ytr8XFBXXXXXXXXX-468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/> \r\n<\/p>\r\n<p style=\"text-align:center;\">\r\n\t<br \/>\r\n<\/p>\r\n<p style=\"text-align:center;\">\r\n\t<span><\/span> \r\n<\/p>\r\n<p style=\"text-align:center;\">\r\n\t<span><\/span> \r\n<\/p>\r\n<p style=\"text-align:center;\">\r\n\t<img src=\"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2rkFfXitOXXXXXXXX_!!468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/> \r\n<\/p>\r\n<p style=\"text-align:center;\" align=\"center\">\r\n\t<img src=\"http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T2EBcvXbdXXXXXXXXX_!!468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/> \r\n<\/p>\r\n<p style=\"text-align:center;\">\r\n\t<img src=\"http:\/\/img03.taobaocdn.com\/imgextra\/i3\/468359490\/T2KmH4XPXXXXXXXXXX-468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2e.QjXdlbXXXXXXXX_!!468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/> \r\n<\/p>\r\n<p align=\"center\">\r\n\t<img src=\"http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T2wZYZXGBaXXXXXXXX-468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2pwvZXHlaXXXXXXXX-468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2zcL4XP4XXXXXXXXX-468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T2fB6uXFhXXXXXXXXX-468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img02.taobaocdn.com\/imgextra\/i2\/468359490\/T28w6qXRtXXXXXXXXX-468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img01.taobaocdn.com\/imgextra\/i1\/468359490\/T2MPfqXQhXXXXXXXXX-468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/><img src=\"http:\/\/img.taobaocdn.com\/imgextra\/http:\/\/img04.taobaocdn.com\/imgextra\/i4\/468359490\/T2fdyeXn0cXXXXXXXX_!!468359490.jpg_620x10000.jpg\" onload=\"resize(this);\" \/> \r\n<\/p>\r\n<p style=\"text-align:center;\">\r\n\t<br \/>\r\n<\/p>"
+		}
+	},
+	"response_status": "success",
+	"msg": ""
+}
