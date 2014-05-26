@@ -1,0 +1,266 @@
+http://oc.umeng.com/check_config_update
+post
+{"sdk_version":"2.2.1.OpenUDID","type":"online_config","sdk_type":"iOS","channel":"appstore","appkey":"5000d9b45270157a2c0000a8","package":"cn.ishengsheng.xingjiabi","time":"17:07:22","report_policy":1,"last_config_time":"Tue Apr 15 14:02:36 CST 2014"}
+
+{
+	"config_update": "No"
+}
+
+http://xjb.ushengsheng.com/shop.php?m=Cart&a=getPaymentList&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Cart
+a	getPaymentList
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": [
+            {
+                "payment_way_id": "1",
+                "payment_way_name": "货到付款",
+                "payment_way_desp": "满168包邮"
+            },
+            {
+                "payment_way_id": "3",
+                "payment_way_name": "支付宝",
+                "payment_way_desp": "满100包邮"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+
+http://xjb.ushengsheng.com/shop.php?m=Cart&a=getPromotionDetail&totalprice=28.00&payment_id=1&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Cart
+a	getPromotionDetail
+totalprice	28.00
+payment_id	1
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+	"info": {
+		"extra": null,
+		"data": {
+			"promotion_totalprice": "28.00",
+			"discount_amount": "0.00",
+			"orderprice": "40.00",
+			"promotion_title": [],
+			"shipping_fee": "12.00",
+			"shipping_fee_reduce": "0.00",
+			"goods_amount_reduce": "0.00",
+			"payment_fee": "12.00"
+		}
+	},
+	"response_status": "success",
+	"msg": ""
+}
+
+http://xjb.ushengsheng.com/shop.php?m=Cart&a=getPromotionDetail&totalprice=28.00&payment_id=3&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+
+m	Cart
+a	getPromotionDetail
+totalprice	28.00
+payment_id	3
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+	"info": {
+		"extra": null,
+		"data": {
+			"promotion_totalprice": "28.00",
+			"discount_amount": "0.00",
+			"orderprice": "38.00",
+			"promotion_title": [],
+			"shipping_fee": "10.00",
+			"shipping_fee_reduce": "0.00",
+			"goods_amount_reduce": "0.00",
+			"payment_fee": "10.00"
+		}
+	},
+	"response_status": "success",
+	"msg": ""
+}
+
+http://xjb.ushengsheng.com/shop.php?m=Cart&a=newOrder
+post
+
+order_json	{"city":"2268","consignee":"���涓�","mobile":"18661630138","memo":"","province":"2182","product_json":[{"title":"AV濂充��濂充����舵�������ㄩ�撮�����妯℃����撮�肩��","attr_list":[{"attr_id":"35","goods_attr_id":"8650","attr_name":"瑙����","attr_value":"OL��介�����浣���ら�ュ�����锟�28.00","attr_price":0}],"price":"28","pid":"105","quantity":"1"}],"ticket_id":"7ace93db7ce666453bd6e57b5b658066","address":"���姘磋矾183��蜂��绉����������婢�搴�3��锋ゼ1303","shipping_fee":"10.00","promotion_totalprice":"28.00","area":"2274","payment_id":"3"}
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "order_number": "6441372597442214741",
+            "orderprice": "38.00",
+            "create_time": "1401095105",
+            "order_status": "等待处理",
+            "payment_name": "支付宝",
+            "is_transfer": "false",
+            "payment_id": "3",
+            "payment_status": "0",
+            "alipay_submit_data": "_input_charset=\"utf-8\"&body=\"一笔来自性价比的订单\"&notify_url=\"http%3A%2F%2Fxjb.ushengsheng.com%2Fshop.php%2FAlipay%2FnotifyCallback\"&out_trade_no=\"6441372597442214741\"&partner=\"2088011894575583\"&payment_type=\"1\"&seller_id=\"xmhaibao@163.com\"&service=\"mobile.securitypay.pay\"&subject=\"性价比订单\"&total_fee=\"38.00\"&sign=\"e9RUuCisNipqQ2MO%2B%2Fb7KWfj0aODKo6rHtWOnTU51C3Si2uyBaJ8%2FoRWlg2dpD2Vg6ryLHb%2BM5N7qREdO1xiY9NZnfypiQVyk2YavYDrVTphXEVxwWumn0gPlI%2B8cu4AvL7sKQQLmGuHg9LXi6XwlHoqk3DUwDY0He7iFfPLQF8%3D\"&sign_type=\"RSA\"",
+            "order_success_html": "<!doctype html>\r\n<html>\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <style>\r\n        ul {margin-top: -5px; margin-left: -5px;}\r\n        li {color: #8C8C8C; font-size: 16px; line-height: 25px; padding-left: 5px; }\r\n        .price {color: #FF3933; font-weight: bold;}\r\n    </style>\r\n</head>\r\n<body>\r\n<p>\r\n<ul>\r\n    <li>您需支付<span class=\"price\">￥38.00</span></li>\r\n    <li>我们将在24小时内为您发货！</li>\r\n    <li>预计3~5天内送达。</li>\r\n    <li>超过1小时未支付，订单将自动取消。</li>\r\n</ul>\r\n</p>\r\n</body>\r\n</html>",
+            "pay_success_html": "<!doctype html>\r\n<html>\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <style>\r\n        ul {margin-top: -5px; margin-left: -5px;}\r\n        li {color: #8C8C8C; font-size: 16px; line-height: 25px; padding-left: 5px; }\r\n        .price {color: #FF3933; font-weight: bold;}\r\n    </style>\r\n</head>\r\n<body>\r\n<p>\r\n<ul>\r\n    <li>付款金额<span class=\"price\">￥38.00</span></li>\r\n    <li>我们将在24小时内为您发货！</li>\r\n    <li>预计3~5天内送达。</li>\r\n</ul>\r\n</p>\r\n</body>\r\n</html>"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://xjb.ushengsheng.com/shop.php/Alipay/notifyCallback
+
+{
+    "city": "2268",
+    "consignee": "���涓�",
+    "mobile": "18661630138",
+    "memo": "",
+    "province": "2182",
+    "product_json": [
+        {
+            "title": "AV濂充��濂充����舵�������ㄩ�撮�����妯℃����撮�肩��",
+            "attr_list": [
+                {
+                    "attr_id": "35",
+                    "goods_attr_id": "8650",
+                    "attr_name": "瑙����",
+                    "attr_value": "OL��介�����浣���ら�ュ�����锟�28.00",
+                    "attr_price": 0
+                }
+            ],
+            "price": "28",
+            "pid": "105",
+            "quantity": "1"
+        }
+    ],
+    "ticket_id": "7ace93db7ce666453bd6e57b5b658066",
+    "address": "���姘磋矾183��蜂��绉����������婢�搴�3��锋ゼ1303",
+    "shipping_fee": "10.00",
+    "promotion_totalprice": "28.00",
+    "area": "2274",
+    "payment_id": "3"
+}
+
+http://xjb.ushengsheng.com/shop.php?m=Alipaymd5&a=alipayto
+post
+
+subject	��т环姣�璁㈠��
+out_trade_no	6441372597442214741
+total_fee	38.00
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+	HTTP/1.1 302 Moved Temporarily
+Server	nginx/1.4.5
+Date	Mon, 26 May 2014 09:05:08 GMT
+Content-Type	text/html
+Transfer-Encoding	chunked
+Connection	keep-alive
+X-Powered-By	PHP/5.3.3
+Expires	Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control	no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma	no-cache
+Location	http://wappaygw.alipay.com/service/rest.htm?req_data=<auth_and_execute_req><request_token>20140526c8ce84d12e6cf16d62678583c076336a</request_token></auth_and_execute_req>&service=alipay.wap.auth.authAndExecute&sec_id=MD5&partner=2088011894575583&format=xml&v=2.0&sign=443fab1d2e9159986ac3fefe78d77897
+
+http://xjb.ushengsheng.com/shop.php?m=User&a=getMyOrderDetail&ticket_id=7ace93db7ce666453bd6e57b5b658066&order_number=6441372597442214741&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	User
+a	getMyOrderDetail
+ticket_id	7ace93db7ce666453bd6e57b5b658066
+order_number	6441372597442214741
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "thumb_size": "_100x100.jpg"
+        },
+        "data": {
+            "order_number": "6441372597442214741",
+            "order_status": "已确认",
+            "pay_status": "1",
+            "shipping_status": "0",
+            "consignee": "李东",
+            "address": "金水路183号万科生态城澜庭3号楼1303",
+            "baseaddr": "山东省青岛市李沧区",
+            "mobile": "18661630138",
+            "goods_amount": "28.00",
+            "payment_id": "3",
+            "payment_name": "支付宝",
+            "payment_status": "1",
+            "is_new_style": "1",
+            "payment_fee": "10.00",
+            "orderprice": "38.00",
+            "memo": "",
+            "create_time": "1401095105",
+            "is_transfer": "false",
+            "promotion": null,
+            "goods_number": "1",
+            "status": "2",
+            "payment_notice": "已支付",
+            "goods_list": [
+                {
+                    "goods_name": "AV女优女优制服名器阴道倒模极致逼真",
+                    "goods_number": "1",
+                    "goods_price": "28.00",
+                    "goods_attr": "[规格]：OL白领【佐藤遥希】￥28.00",
+                    "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T28U5yXBJaXXXXXXXX-468359490.jpg"
+                }
+            ]
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
