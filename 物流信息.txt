@@ -1,0 +1,253 @@
+http://xjb.ushengsheng.com/shop.php?m=User&a=getMyOrderList&ticket_id=7ace93db7ce666453bd6e57b5b658066&page=1&limit=15&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	User
+a	getMyOrderList
+ticket_id	7ace93db7ce666453bd6e57b5b658066
+page	1
+limit	15
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "thumb_size": "_100x100.jpg"
+        },
+        "data": [
+            {
+                "order_number": "6442130626899318443",
+                "orderprice": "22.00",
+                "create_time": "1401102686",
+                "order_status": "已取消",
+                "pay_status": "0",
+                "shipping_status": "0",
+                "payment_id": "3",
+                "is_new_style": "1",
+                "payment_status": "0",
+                "payment_name": "支付宝",
+                "is_transfer": "false",
+                "goods_number": "1",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2yHMcXfdbXXXXXXXX-468359490.jpg"
+            },
+            {
+                "order_number": "6441372597442214741",
+                "orderprice": "38.00",
+                "create_time": "1401095105",
+                "order_status": "已发货",
+                "pay_status": "1",
+                "shipping_status": "1",
+                "payment_id": "3",
+                "is_new_style": "1",
+                "payment_status": "1",
+                "payment_name": "支付宝",
+                "is_transfer": "false",
+                "goods_number": "1",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T28U5yXBJaXXXXXXXX-468359490.jpg"
+            },
+            {
+                "order_number": "6209194869683114840",
+                "orderprice": "150.00",
+                "create_time": "1398773328",
+                "order_status": "已取消",
+                "pay_status": "0",
+                "shipping_status": "1",
+                "payment_id": "1",
+                "is_new_style": "1",
+                "payment_status": "0",
+                "payment_name": "货到付款",
+                "is_transfer": "false",
+                "goods_number": "1",
+                "pic_url": "http://img03.taobaocdn.com/imgextra/i3/468359490/T2taVOXEtXXXXXXXXX-468359490.jpg"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+http://xjb.ushengsheng.com/shop.php?m=User&a=getMyOrderDetail&ticket_id=7ace93db7ce666453bd6e57b5b658066&order_number=6441372597442214741&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+
+m	User
+a	getMyOrderDetail
+ticket_id	7ace93db7ce666453bd6e57b5b658066
+order_number	6441372597442214741
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "thumb_size": "_100x100.jpg"
+        },
+        "data": {
+            "order_number": "6441372597442214741",
+            "order_status": "已发货",
+            "pay_status": "1",
+            "shipping_status": "1",
+            "consignee": "李东",
+            "address": "金水路183号万科生态城澜庭3号楼1303",
+            "baseaddr": "山东省青岛市李沧区",
+            "mobile": "18661630138",
+            "goods_amount": "28.00",
+            "payment_id": "3",
+            "payment_name": "支付宝",
+            "payment_status": "1",
+            "is_new_style": "1",
+            "payment_fee": "10.00",
+            "orderprice": "38.00",
+            "memo": "",
+            "create_time": "1401095105",
+            "is_transfer": "false",
+            "promotion": null,
+            "goods_number": "1",
+            "status": "3",
+            "payment_notice": "已支付",
+            "goods_list": [
+                {
+                    "goods_name": "AV女优女优制服名器阴道倒模极致逼真",
+                    "goods_number": "1",
+                    "goods_price": "28.00",
+                    "goods_attr": "[规格]：OL白领【佐藤遥希】￥28.00",
+                    "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T28U5yXBJaXXXXXXXX-468359490.jpg"
+                }
+            ]
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://xjb.ushengsheng.com/shop.php?m=User&a=getOrderShippingDetail&ticket_id=7ace93db7ce666453bd6e57b5b658066&order_number=6441372597442214741&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	User
+a	getOrderShippingDetail
+ticket_id	7ace93db7ce666453bd6e57b5b658066
+order_number	6441372597442214741
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" /> 
+    <title>物流信息</title>
+    <style>
+        *{margin:0;padding:0;}
+        body{font-family:微软雅黑;font-size:12px;background:#E6E6E6;color:#6E6E6E;}
+        .content{margin:3%;background-color:#FFFFFF;-webkit-border-radius:5px}
+        .content div{background:url(http://xingjiabi.b0.upaiyun.com/ico/shipline1.png) repeat-x 0 2px;padding:5%;margin:0 3px;}
+        ul{border-bottom:1px dotted #E6E6E6;padding-bottom:3%;}
+        li{list-style:none;font-size:1.25em;height:1.4em;}
+        li.sub{color:#ADADAD;}
+
+        table {border-spacing:0;}
+        .info-timeline{width:100%;}
+        .info-timeline td{padding:10px;color:#878787;background-color:#fbfbfb !important}
+        .info-timeline .status-default{width:30px;background:url("http://img04.taobaocdn.com/imgextra/i4/468359490/T2i9YtXrhaXXXXXXXX-468359490.jpg") -50px center no-repeat #fbfbfb}
+        .info-timeline .status-first{background:url("http://img04.taobaocdn.com/imgextra/i4/468359490/T2i9YtXrhaXXXXXXXX-468359490.jpg") 0px center no-repeat #fbfbfb}
+        .info-timeline .status-check{background:url("http://img04.taobaocdn.com/imgextra/i4/468359490/T2i9YtXrhaXXXXXXXX-468359490.jpg") -150px center no-repeat #fbfbfb}
+        .info-timeline .status-wait{background:url("http://img04.taobaocdn.com/imgextra/i4/468359490/T2i9YtXrhaXXXXXXXX-468359490.jpg") -100px center no-repeat #fbfbfb}
+        .info-timeline .last td{color:#FF8c00;border-bottom:none;background-color:#ffffff !important}
+    </style>
+</head>
+<body>
+    <div class="content">
+        <div>
+            <ul>
+                <li>快递公司：圆通速递</li>
+                <li>运单编号：3679897750</li>
+            </ul>
+            <table class="info-timeline">
+                <tr class="last" >
+                        <td class=""></td>
+                        <td>
+                            货物刚从仓库发出，暂时没有物流信息                            <br/>
+                                                    </td>
+                    </tr>            </table>
+        </div>
+    </div>
+</body>
+</html>
+
+
+http://xjb.ushengsheng.com/shop.php?m=User&a=getOrderShippingDetail&ticket_id=7ace93db7ce666453bd6e57b5b658066&order_number=6441372597442214741&platform=iphone&v=5.1.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	User
+a	getOrderShippingDetail
+ticket_id	7ace93db7ce666453bd6e57b5b658066
+order_number	6441372597442214741
+platform	iphone
+v	5.1.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" /> 
+    <title>物流信息</title>
+    <style>
+        *{margin:0;padding:0;}
+        body{font-family:微软雅黑;font-size:12px;background:#E6E6E6;color:#6E6E6E;}
+        .content{margin:3%;background-color:#FFFFFF;-webkit-border-radius:5px}
+        .content div{background:url(http://xingjiabi.b0.upaiyun.com/ico/shipline1.png) repeat-x 0 2px;padding:5%;margin:0 3px;}
+        ul{border-bottom:1px dotted #E6E6E6;padding-bottom:3%;}
+        li{list-style:none;font-size:1.25em;height:1.4em;}
+        li.sub{color:#ADADAD;}
+
+        table {border-spacing:0;}
+        .info-timeline{width:100%;}
+        .info-timeline td{padding:10px;color:#878787;background-color:#fbfbfb !important}
+        .info-timeline .status-default{width:30px;background:url("http://img04.taobaocdn.com/imgextra/i4/468359490/T2i9YtXrhaXXXXXXXX-468359490.jpg") -50px center no-repeat #fbfbfb}
+        .info-timeline .status-first{background:url("http://img04.taobaocdn.com/imgextra/i4/468359490/T2i9YtXrhaXXXXXXXX-468359490.jpg") 0px center no-repeat #fbfbfb}
+        .info-timeline .status-check{background:url("http://img04.taobaocdn.com/imgextra/i4/468359490/T2i9YtXrhaXXXXXXXX-468359490.jpg") -150px center no-repeat #fbfbfb}
+        .info-timeline .status-wait{background:url("http://img04.taobaocdn.com/imgextra/i4/468359490/T2i9YtXrhaXXXXXXXX-468359490.jpg") -100px center no-repeat #fbfbfb}
+        .info-timeline .last td{color:#FF8c00;border-bottom:none;background-color:#ffffff !important}
+    </style>
+</head>
+<body>
+    <div class="content">
+        <div>
+            <ul>
+                <li>快递公司：圆通速递</li>
+                <li>运单编号：3679897750</li>
+            </ul>
+            <table class="info-timeline">
+                <tr class="last" >
+                        <td class=""></td>
+                        <td>
+                            货物刚从仓库发出，暂时没有物流信息                            <br/>
+                                                    </td>
+                    </tr>            </table>
+        </div>
+    </div>
+</body>
+</html>
