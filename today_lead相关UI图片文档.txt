@@ -1,0 +1,67 @@
+全局图片页面:
+	左上角返回箭头: btn_back
+	
+mainframe:
+	下方四个按钮:
+		icon_bottom_cod_n
+		icon_bottom_cod_c
+		icon_bottom_category_n
+		icon_bottom_category_c
+		icon_bottom_shopcar_n
+		icon_bottom_shopcar_c
+		icon_bottom_my_n
+		icon_bottom_my_c
+
+商品详情页面:
+	属性按钮:
+		bg_white_solidline
+			bg_white_solidline_n
+			bg_white_solidline_p
+		btn_forum_category_spinner_arrow
+	立即购买按钮:
+		icon_buy_small
+	加入购物车按钮:
+		icon_shopcar_small
+	其本参数:
+		icon_cod_commonparam
+	购物车:
+		icon_shopcar_count_n
+		icon_shopcar_count_p
+	其他:
+		icon_cod_volume
+
+分类商品页面:
+	右上角按钮:
+		btn_tab_switch_list
+		btn_tab_switch_grid
+		
+购物车页面:
+	钩:
+		cb_circle_big_n
+		cb_circle_big_p
+	没有肉容时显示的图片:
+		icon_shopcar_none
+	
+提交订单页面:
+	钩:
+		cb_circle_big_n
+		cb_circle_big_p
+	性价比图:
+		icon_address_tip
+
+提交订单成功页面:
+	钩:
+		icon_cod_success_check
+
+订单详情页面:
+	右上角按钮:
+		btn_order_detail_top
+
+个人中心页面:
+	我的订单:
+		pc_my_order
+	电话:
+		icon_mine_phone
+	帮助:
+		icon_user_help
+	
