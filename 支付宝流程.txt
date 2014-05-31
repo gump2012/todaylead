@@ -264,3 +264,33 @@ network	2
     "response_status": "success",
     "msg": ""
 }
+
+去支付
+
+http://xjb.ushengsheng.com/shop.php?m=Alipaymd5&a=alipayto
+post
+
+subject	ÊÄß‰ª∑ÊØîËÆ¢Âçï
+out_trade_no	6483217312965318697
+total_fee	60.00
+platform	iphone
+v	5.1.0
+place	appstore
+token	b12bf036245e5911db4ccf0b6f824e93
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+	HTTP/1.1 302 Moved Temporarily
+Server	nginx/1.4.5
+Date	Sat, 31 May 2014 05:23:34 GMT
+Content-Type	text/html
+Transfer-Encoding	chunked
+Connection	keep-alive
+X-Powered-By	PHP/5.3.3
+Expires	Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control	no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma	no-cache
+Location	http://wappaygw.alipay.com/service/rest.htm?req_data=<auth_and_execute_req><request_token>201405319aa4b108fb48a862627fb8f8ea20f4c2</request_token></auth_and_execute_req>&service=alipay.wap.auth.authAndExecute&sec_id=MD5&partner=2088011894575583&format=xml&v=2.0&sign=111c477cf70c4a95b87238aa397507bd
