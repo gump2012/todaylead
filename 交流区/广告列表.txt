@@ -1,0 +1,2487 @@
+广告列表
+http://forum.ushengsheng.com/shop.php?m=Ad&a=getForumSlide&appname=xingjiabi&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Ad
+a	getForumSlide
+appname	xingjiabi
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "grid2g": "_240x480.jpg",
+            "grid3g": "",
+            "gridwifi": ""
+        },
+        "data": [
+            {
+                "id": "1230",
+                "img_url": "http://xingjiabi.b0.upaiyun.com/images/shop/cate/53b9ff9ed91ee.jpg",
+                "param": {
+                    "m": "forum",
+                    "a": "detail",
+                    "tl": "",
+                    "cid": "18",
+                    "id": "105774"
+                }
+            },
+            {
+                "id": "1190",
+                "img_url": "http://xingjiabi.b0.upaiyun.com/images/shop/cate/53b679e5ee63d.jpg",
+                "param": {
+                    "m": "forum",
+                    "a": "detail",
+                    "tl": "",
+                    "cid": "24",
+                    "id": "126131"
+                }
+            },
+            {
+                "id": "1277",
+                "img_url": "http://xingjiabi.b0.upaiyun.com/images/shop/cate/53b64caa9b410.jpg",
+                "param": {
+                    "m": "forum",
+                    "a": "detail",
+                    "tl": "",
+                    "cid": "15",
+                    "id": "126263"
+                }
+            },
+            {
+                "id": "1186",
+                "img_url": "http://xingjiabi.b0.upaiyun.com/images/shop/cate/53ba6cda5cb2b.jpg",
+                "param": {
+                    "m": "forum",
+                    "a": "detail",
+                    "tl": "",
+                    "cid": "23",
+                    "id": "128089"
+                }
+            },
+            {
+                "id": "1159",
+                "img_url": "http://xingjiabi.b0.upaiyun.com/images/shop/cate/53b36cd8097ad.jpg",
+                "param": {
+                    "m": "web",
+                    "a": "url",
+                    "tl": "xy助手",
+                    "ul": "http://tg.xyzs.com/iphone/hdxingjiabi.html"
+                }
+            },
+            {
+                "id": "1240",
+                "img_url": "http://xingjiabi.b0.upaiyun.com/images/shop/cate/53ba64ae36aae.jpg",
+                "param": {
+                    "m": "forum",
+                    "a": "detail",
+                    "tl": "",
+                    "cid": "21",
+                    "id": "128499"
+                }
+            },
+            {
+                "id": "1184",
+                "img_url": "http://xingjiabi.b0.upaiyun.com/images/shop/cate/53ba608ab16c5.jpg",
+                "param": {
+                    "m": "forum",
+                    "a": "detail",
+                    "tl": "",
+                    "cid": "14",
+                    "id": "124975"
+                }
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+点击一个广告
+
+http://xjb.ushengsheng.com/shop.php?m=Forum&a=getRecommendGoods&posid=105774&cid=18&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Forum
+a	getRecommendGoods
+posid	105774
+cid	18
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+	"info": {
+		"extra": {
+			"grid2g": "_80x80.jpg",
+			"grid3g": "_160x160.jpg",
+			"gridwifi": "_250x250.jpg"
+		},
+		"data": null
+	},
+	"response_status": "success",
+	"msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewsWithReply&post_id=105774&page=1&is_poster=0&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewsWithReply
+post_id	105774
+page	1
+is_poster	0
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "review_remain_count": "127",
+            "review_list": [
+                {
+                    "id": "2346118",
+                    "floors": "3",
+                    "account_id": "214059",
+                    "nickname": "性价比小编-砖家",
+                    "content": "欢迎大家踊跃参加~~~~",
+                    "is_poster": "1",
+                    "create_time": "1402298567",
+                    "letter_enable": "1",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/214059avatar1389686814.jpg",
+                    "reply_list": [
+                        {
+                            "id": "32502",
+                            "is_poster": "0",
+                            "account_id": "1435751",
+                            "content": "西是真的么",
+                            "create_time": "1403948996",
+                            "at_account_id": "0",
+                            "nickname": "爱狗人士",
+                            "at_nickname": ""
+                        }
+                    ],
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2346124",
+                    "floors": "4",
+                    "account_id": "887474",
+                    "nickname": "性价比小编-湿帝",
+                    "content": "小伙伴们赶紧来参加咯！！！！每周都有大奖送粗哟！！！！",
+                    "is_poster": "0",
+                    "create_time": "1402298611",
+                    "letter_enable": "1",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/53955b98d4aed.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2346140",
+                    "floors": "6",
+                    "account_id": "1126820",
+                    "nickname": "性价比小编-菊长",
+                    "content": "只要大家不违背版规，都有可能获得奖励，每周选一名，人人都有机会",
+                    "is_poster": "0",
+                    "create_time": "1402298702",
+                    "letter_enable": "1",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/53965b7e0469b.jpg",
+                    "reply_list": [
+                        {
+                            "id": "15843",
+                            "is_poster": "0",
+                            "account_id": "1297069",
+                            "content": "你好",
+                            "create_time": "1402661755",
+                            "at_account_id": "0",
+                            "nickname": "爱爱爱erf",
+                            "at_nickname": ""
+                        },
+                        {
+                            "id": "15898",
+                            "is_poster": "0",
+                            "account_id": "1234050",
+                            "content": "手机",
+                            "create_time": "1402662678",
+                            "at_account_id": "0",
+                            "nickname": "造业务员",
+                            "at_nickname": ""
+                        }
+                    ],
+                    "remain_reply_num": "3"
+                },
+                {
+                    "id": "2346874",
+                    "floors": "7",
+                    "account_id": "1252333",
+                    "nickname": "惹事小妖精",
+                    "content": "我也想参加 无奈拿不到** 5555",
+                    "is_poster": "0",
+                    "create_time": "1402303225",
+                    "letter_enable": "1",
+                    "sex_type": "2",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/1252333avatar1402388390.png",
+                    "reply_list": [
+                        {
+                            "id": "11936",
+                            "is_poster": "0",
+                            "account_id": "829340",
+                            "content": "我们私底下可以约一下吗？",
+                            "create_time": "1402366508",
+                            "at_account_id": "0",
+                            "nickname": "恋花小生",
+                            "at_nickname": ""
+                        },
+                        {
+                            "id": "12156",
+                            "is_poster": "0",
+                            "account_id": "1361075",
+                            "content": "我们两个凑凑",
+                            "create_time": "1402380945",
+                            "at_account_id": "0",
+                            "nickname": "议夜七次狼",
+                            "at_nickname": ""
+                        }
+                    ],
+                    "remain_reply_num": "8"
+                },
+                {
+                    "id": "2347483",
+                    "floors": "8",
+                    "account_id": "1095835",
+                    "nickname": "华装的小丑",
+                    "content": "感觉很容易拿**的样子。",
+                    "is_poster": "0",
+                    "create_time": "1402307642",
+                    "letter_enable": "1",
+                    "sex_type": null,
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2347487",
+                    "floors": "9",
+                    "account_id": "1114505",
+                    "nickname": "请叫我小红领巾",
+                    "content": "我也要谈人生谈理想吃小龙虾~~~我要参加！！！小编记得让我过",
+                    "is_poster": "0",
+                    "create_time": "1402307657",
+                    "letter_enable": "1",
+                    "sex_type": "0",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/53956b5cb04f2.jpg",
+                    "reply_list": [
+                        {
+                            "id": "15900",
+                            "is_poster": "0",
+                            "account_id": "1234050",
+                            "content": "手机",
+                            "create_time": "1402662701",
+                            "at_account_id": "0",
+                            "nickname": "造业务员",
+                            "at_nickname": ""
+                        },
+                        {
+                            "id": "15999",
+                            "is_poster": "0",
+                            "account_id": "1152630",
+                            "content": "噶",
+                            "create_time": "1402670889",
+                            "at_account_id": "0",
+                            "nickname": "16642538",
+                            "at_nickname": ""
+                        }
+                    ],
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2347491",
+                    "floors": "10",
+                    "account_id": "1114327",
+                    "nickname": "嗷嗷厂长",
+                    "content": "每周都有，还有点希望...飘过",
+                    "is_poster": "0",
+                    "create_time": "1402307700",
+                    "letter_enable": "1",
+                    "sex_type": "0",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/539585694eaf2.jpg",
+                    "reply_list": [
+                        {
+                            "id": "15905",
+                            "is_poster": "0",
+                            "account_id": "1234050",
+                            "content": "手机",
+                            "create_time": "1402662754",
+                            "at_account_id": "0",
+                            "nickname": "造业务员",
+                            "at_nickname": ""
+                        }
+                    ],
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2347492",
+                    "floors": "11",
+                    "account_id": "1269938",
+                    "nickname": "孤王醉酒",
+                    "content": "支持这个活动，毕竟每周都有、",
+                    "is_poster": "0",
+                    "create_time": "1402307705",
+                    "letter_enable": "1",
+                    "sex_type": null,
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": [
+                        {
+                            "id": "15904",
+                            "is_poster": "0",
+                            "account_id": "1234050",
+                            "content": "手机",
+                            "create_time": "1402662743",
+                            "at_account_id": "0",
+                            "nickname": "造业务员",
+                            "at_nickname": ""
+                        }
+                    ],
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2347498",
+                    "floors": "12",
+                    "account_id": "1105357",
+                    "nickname": "猪猪立方体",
+                    "content": "我爱性价比！！！！活动真多！！！！！",
+                    "is_poster": "0",
+                    "create_time": "1402307741",
+                    "letter_enable": "1",
+                    "sex_type": "2",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": [
+                        {
+                            "id": "15902",
+                            "is_poster": "0",
+                            "account_id": "1234050",
+                            "content": "手机",
+                            "create_time": "1402662726",
+                            "at_account_id": "0",
+                            "nickname": "造业务员",
+                            "at_nickname": ""
+                        },
+                        {
+                            "id": "18673",
+                            "is_poster": "0",
+                            "account_id": "1396230",
+                            "content": "真的",
+                            "create_time": "1402886430",
+                            "at_account_id": "0",
+                            "nickname": "泡神来拉",
+                            "at_nickname": ""
+                        }
+                    ],
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2347531",
+                    "floors": "13",
+                    "account_id": "1114327",
+                    "nickname": "嗷嗷厂长",
+                    "content": "鞭哥，我发帖了，让我过~~~~",
+                    "is_poster": "0",
+                    "create_time": "1402308099",
+                    "letter_enable": "1",
+                    "sex_type": "0",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/539585694eaf2.jpg",
+                    "reply_list": [
+                        {
+                            "id": "15851",
+                            "is_poster": "0",
+                            "account_id": "1293330",
+                            "content": "你是美女吗？",
+                            "create_time": "1402662020",
+                            "at_account_id": "0",
+                            "nickname": "兔兔zwj",
+                            "at_nickname": ""
+                        },
+                        {
+                            "id": "15901",
+                            "is_poster": "0",
+                            "account_id": "1234050",
+                            "content": "手机",
+                            "create_time": "1402662715",
+                            "at_account_id": "0",
+                            "nickname": "造业务员",
+                            "at_nickname": ""
+                        }
+                    ],
+                    "remain_reply_num": "0"
+                }
+            ]
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?m=Forum&a=getForumPostInfoById&fid=105774&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Forum
+a	getForumPostInfoById
+fid	105774
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "detail2g": "_310x310.jpg",
+            "detail3g": "_400x400.jpg",
+            "detailwifi": "_620x10000.jpg"
+        },
+        "data": {
+            "id": "105774",
+            "title": "【活动】不约P我们还是好朋友",
+            "cid": "18",
+            "nickname": "性价比小编-砖家",
+            "account_id": "214059",
+            "content": "想和女神谈人生谈理想么？想和各种白富美一起看电影吃小龙虾么？想在马路上让各种小妹妹脸红心跳和你大喊“和你在一起好幸福”吗？来吧，快来交流区吧，新时代主题 #不约P我们还是好朋友# 抛开那些什么摇一摇甩一甩，用用你的真实行动争取属于你的幸福吧。<br /><br />\r\n\r\n#活动时间#<br /><br /> \r\n\r\n本活动长期有效<br /><br />\r\n\r\n#特别注意#<br />\r\n本活动只限男性用户参加<br /><br />\r\n\r\n#参与方式#<br />\r\n1、在“万有引力”版块发布以下内容：<br />\r\n手写ID照 （性价比+昵称）+地区+本人照片+你想说的话（例如：求陪同看电影、吃宵夜、读书、看演唱会） <br /> \r\n2、文字内容尽量幽默风趣，可以增加魅力指数和获奖概率哦。 <br /> \r\n3、个人照片可以没有，但必须有用户手写ID 照（性价比+昵称，手持纸张、手机、平板皆可。PS的无效）。<br />\r\n4、帖子标题需有：#不约P还是好朋友#<br /><br />\r\n\r\n#活动奖励#<br /><br />\r\n\r\n每周评选出 1 名用户，将获得价值 99 元的性价比大礼包<br /><br />\r\n\r\n#评选办法#<br />\r\n\r\n1、用户账号从注册开始未有违反交流区版规行为 （例如昵称、头像合法，未发过联系方式、约炮、涉黄、侮辱他人等）<br />\r\n2、小编查询用户账号历史记录无上述不良行为获奖有效。有上述行为将替换其他有效用户。<br />\r\n3、本周帖子人气（点击数）+有效评论数最高（扣除同一账号评论数后）<br />\r\n\r\n#注意事项#<br /><br />\r\n\r\n1、用户性价比账户务必绑定个人真实手机号码或者邮箱，伪邮箱、假电话号码获奖无效 。<br />\r\n2、结果将于每周一公布，小编们将会私信联系获奖用户，并发验证信息至用户邮箱或者手机号码上，确定后发放礼品。<br />\r\n3、网络盗图、违反社区规则等情况取消参与资格哦。<br />\r\n4、请不要发违规照片和文字内容。<br />\r\n5、在帖子回复淫秽、侮辱、人身攻击、色情字眼的一律封禁设备。 <br />\r\n6、请亲们不要恶意刷人气哦。<br /><br />\r\n\r\n#官方联系账号#<br /><br />\r\n\r\n性价比小编-砖家<br />\r\n性价比小编-菊长<br />\r\n性价比小编-湿帝<br /><br />\r\n\r\n请认准以上账号，谨防上当。",
+            "is_multimedia": "1",
+            "create_time": "1402297878",
+            "letter_enable": "1",
+            "stamper": "http://xingjiabi.b0.upaiyun.com/86acfc806e4a77ece90a377827379d05.jpg",
+            "is_anonymity": "0",
+            "is_recommend": "0",
+            "pic_list": [
+                {
+                    "pic_url": "http://xingjiabi.b0.upaiyun.com/nforum/201406/105774/747f8b5f8a432d003667a4f26227d891.jpg",
+                    "width": "715",
+                    "height": "486"
+                }
+            ],
+            "review_count": "158",
+            "lastreply_time": "1404794143",
+            "sex_type": "1",
+            "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/214059avatar1389686814.jpg",
+            "cname": "一起起床吧"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+点第二个广告
+http://xjb.ushengsheng.com/shop.php?m=Forum&a=getRecommendGoods&posid=126131&cid=24&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Forum
+a	getRecommendGoods
+posid	126131
+cid	24
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+	"info": {
+		"extra": {
+			"grid2g": "_80x80.jpg",
+			"grid3g": "_160x160.jpg",
+			"gridwifi": "_250x250.jpg"
+		},
+		"data": null
+	},
+	"response_status": "success",
+	"msg": ""
+}
+
+cid 为2的情况
+{
+    "info": {
+        "extra": {
+            "grid2g": "_80x80.jpg",
+            "grid3g": "_160x160.jpg",
+            "gridwifi": "_250x250.jpg"
+        },
+        "data": [
+            {
+                "id": "196",
+                "title": "【网纱诱惑】久慕雅黛经典 网格蕾丝花纹透视大码吊带性感睡裙",
+                "price": "68.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2bxeKXEBXXXXXXXXX-468359490.gif",
+                "cid": "4"
+            },
+            {
+                "id": "200",
+                "title": "经典紫色束胸吊带薄纱女神睡衣",
+                "price": "29.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i4/468359490/T2PK5BXDJXXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "202",
+                "title": "开襟露乳花边薄纱性感披肩短裙睡衣",
+                "price": "29.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2sdaYXvBaXXXXXXXX-468359490.gif",
+                "cid": "4"
+            },
+            {
+                "id": "206",
+                "title": "性感三点 蕾丝柔纱花边透明睡衣",
+                "price": "25.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i4/468359490/T2AVaGXAxaXXXXXXXX-468359490.gif",
+                "cid": "4"
+            },
+            {
+                "id": "209",
+                "title": "英式皇家学院学生制服诱惑",
+                "price": "36.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2mCpaXqBaXXXXXXXX_!!468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "211",
+                "title": "薄纱透明开裆连体衣连身衣",
+                "price": "29.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2FKNbXxdXXXXXXXXX_!!468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "218",
+                "title": "时尚派对！短裙制服诱惑 兔子服兔女郎【倾心衣夏】",
+                "price": "24.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i4/468359490/T2FAR9XA0aXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "221",
+                "title": "蕾丝透视露乳性感厨娘女佣装",
+                "price": "36.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2V19HXrXXXXXXXXXX-468359490.gif",
+                "cid": "4"
+            },
+            {
+                "id": "222",
+                "title": "蕾丝花边露腰可爱分体女佣服",
+                "price": "28.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2ib1SXRpXXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+cid为1
+{
+    "info": {
+        "extra": {
+            "grid2g": "_80x80.jpg",
+            "grid3g": "_160x160.jpg",
+            "gridwifi": "_250x250.jpg"
+        },
+        "data": [
+            {
+                "id": "535",
+                "title": "毛毛虫震动刺激套 震动器+毛毛虫+水溶性 倍力乐新潮套套 激情倍爽",
+                "price": "9.50",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i3/468359490/T2GgJ_XuJXXXXXXXXX-468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "536",
+                "title": "杜蕾斯 情迷装安全套3只/12只 超薄质地 出色的敏感度",
+                "price": "39.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T26tKKXw8aXXXXXXXX-468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "539",
+                "title": "杜蕾斯有型装 3只/12只安全套 有型、合体、舒适",
+                "price": "31.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2iwuqXvpXXXXXXXXX-468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "540",
+                "title": "杜蕾斯热感超薄装 3只/12只安全套 热感、超薄、超滑",
+                "price": "49.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2loxvXsXaXXXXXXXX-468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "554",
+                "title": "多乐士 梦幻超级纤薄避孕套12只装",
+                "price": "15.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i3/468359490/T2oB87XDxXXXXXXXXX-468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "555",
+                "title": "多乐士 梦幻持久耐力套12只装",
+                "price": "19.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2XGV.Xt4XXXXXXXXX-468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "567",
+                "title": "杜蕾斯双保险装 3只/12只安全套 适度增厚 润滑更安全",
+                "price": "45.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i4/468359490/T29A49XwtXXXXXXXXX-468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "576",
+                "title": "杜伊特 超级薄小号套10只装 更紧、更爽、时间更长",
+                "price": "16.00",
+                "pic_url": "http://img.taobaocdn.com/imgextra/http://img01.taobaocdn.com/imgextra/i1/468359490/T28_wJXkFaXXXXXXXX_!!468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "577",
+                "title": "新潮套套 倍力乐大号套10只装 加大尺码 给大男人更大的自信",
+                "price": "9.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2E5jwXe0bXXXXXXXX-468359490.jpg",
+                "cid": "1"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+cid 为 3
+{
+    "info": {
+        "extra": {
+            "grid2g": "_80x80.jpg",
+            "grid3g": "_160x160.jpg",
+            "gridwifi": "_250x250.jpg"
+        },
+        "data": [
+            {
+                "id": "195",
+                "title": "可爱蕾丝三点式套装 胸罩+吊袜带+网袜",
+                "price": "16.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T22l40XqpaXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "196",
+                "title": "【网纱诱惑】久慕雅黛经典 网格蕾丝花纹透视大码吊带性感睡裙",
+                "price": "68.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2bxeKXEBXXXXXXXXX-468359490.gif",
+                "cid": "4"
+            },
+            {
+                "id": "200",
+                "title": "经典紫色束胸吊带薄纱女神睡衣",
+                "price": "29.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i4/468359490/T2PK5BXDJXXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "202",
+                "title": "开襟露乳花边薄纱性感披肩短裙睡衣",
+                "price": "29.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2sdaYXvBaXXXXXXXX-468359490.gif",
+                "cid": "4"
+            },
+            {
+                "id": "206",
+                "title": "性感三点 蕾丝柔纱花边透明睡衣",
+                "price": "25.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i4/468359490/T2AVaGXAxaXXXXXXXX-468359490.gif",
+                "cid": "4"
+            },
+            {
+                "id": "209",
+                "title": "英式皇家学院学生制服诱惑",
+                "price": "36.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2mCpaXqBaXXXXXXXX_!!468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "211",
+                "title": "薄纱透明开裆连体衣连身衣",
+                "price": "29.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2FKNbXxdXXXXXXXXX_!!468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "218",
+                "title": "时尚派对！短裙制服诱惑 兔子服兔女郎【倾心衣夏】",
+                "price": "24.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i4/468359490/T2FAR9XA0aXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "221",
+                "title": "蕾丝透视露乳性感厨娘女佣装",
+                "price": "36.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2V19HXrXXXXXXXXXX-468359490.gif",
+                "cid": "4"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+http://xjb.ushengsheng.com/shop.php?m=Forum&a=getRecommendGoods&posid=1&cid=3
+{
+    "info": {
+        "extra": {
+            "grid2g": "_80x80.jpg",
+            "grid3g": "_160x160.jpg",
+            "gridwifi": "_250x250.jpg"
+        },
+        "data": [
+            {
+                "id": "186",
+                "title": "紫恋英雄男士丁字裤T裤 猛男必备",
+                "price": "15.00",
+                "pic_url": "http://img.taobaocdn.com/imgextra/http://img01.taobaocdn.com/imgextra/i1/468359490/T2JccrXi4aXXXXXXXX_!!468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "187",
+                "title": "透明蕾丝蛋糕裙薄纱露背挂脖",
+                "price": "25.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2Zwh1XbNeXXXXXXXX_!!468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "192",
+                "title": "真丝冰丝性感蕾丝连衣裙可爱公主裙",
+                "price": "35.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2RKW2XelbXXXXXXXX_!!468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "195",
+                "title": "可爱蕾丝三点式套装 胸罩+吊袜带+网袜",
+                "price": "16.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T22l40XqpaXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "196",
+                "title": "【网纱诱惑】久慕雅黛经典 网格蕾丝花纹透视大码吊带性感睡裙",
+                "price": "68.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2bxeKXEBXXXXXXXXX-468359490.gif",
+                "cid": "4"
+            },
+            {
+                "id": "200",
+                "title": "经典紫色束胸吊带薄纱女神睡衣",
+                "price": "29.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i4/468359490/T2PK5BXDJXXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "202",
+                "title": "开襟露乳花边薄纱性感披肩短裙睡衣",
+                "price": "29.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2sdaYXvBaXXXXXXXX-468359490.gif",
+                "cid": "4"
+            },
+            {
+                "id": "206",
+                "title": "性感三点 蕾丝柔纱花边透明睡衣",
+                "price": "25.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i4/468359490/T2AVaGXAxaXXXXXXXX-468359490.gif",
+                "cid": "4"
+            },
+            {
+                "id": "209",
+                "title": "英式皇家学院学生制服诱惑",
+                "price": "36.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2mCpaXqBaXXXXXXXX_!!468359490.jpg",
+                "cid": "4"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+http://xjb.ushengsheng.com/shop.php?m=Forum&a=getRecommendGoods&posid=1&cid=1
+{
+    "info": {
+        "extra": {
+            "grid2g": "_80x80.jpg",
+            "grid3g": "_160x160.jpg",
+            "gridwifi": "_250x250.jpg"
+        },
+        "data": [
+            {
+                "id": "30",
+                "title": "尚牌8合1百变24只装 一罐多样 妙不可言您hold得住吗",
+                "price": "26.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i3/468359490/T2lqO_Xc8XXXXXXXXX_!!468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "116",
+                "title": "第六感全系列！螺纹\\冰火\\颗粒\\超薄超滑\\芦荟低价来袭",
+                "price": "12.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i4/468359490/T2AqluXTBXXXXXXXXX-468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "141",
+                "title": "超大颗粒G点套 前所未有的G点刺激 倍力乐 激情倍爽",
+                "price": "9.90",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2xzi5XfJXXXXXXXXX_!!468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "143",
+                "title": "正品冈本授权skin系列 10只装",
+                "price": "18.00",
+                "pic_url": "http://img.taobaocdn.com/imgextra/http://img01.taobaocdn.com/imgextra/i4/468359490/T2p0UsXXJXXXXXXXXX_!!468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "164",
+                "title": "杜蕾斯 至尊超薄全新包装3只/12只装 亲密0距离",
+                "price": "25.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i3/468359490/T2CCOSXthaXXXXXXXX-468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "175",
+                "title": "杜蕾斯超薄装避孕套 薄若未戴 更敏感",
+                "price": "42.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T243HCXAFaXXXXXXXX-468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "193",
+                "title": "斯香妮 情趣狼牙套 冰感/热感/冰热感24只装 激情倍爽",
+                "price": "19.80",
+                "pic_url": "http://img.taobaocdn.com/imgextra/http://img01.taobaocdn.com/imgextra/i4/468359490/T2tm.NXXJXXXXXXXXX_!!468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "215",
+                "title": "杜蕾斯活力12只装 杜蕾斯性价比之王 爆销500000件",
+                "price": "32.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2h_CRXF4aXXXXXXXX-468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "216",
+                "title": "手指抠抠套 潮吹入门必备 倍力乐 激情倍爽",
+                "price": "9.00",
+                "pic_url": "http://img.taobaocdn.com/imgextra/http://img01.taobaocdn.com/imgextra/i4/468359490/T2tt3rXl4XXXXXXXXX_!!468359490.jpg",
+                "cid": "1"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+http://xjb.ushengsheng.com/shop.php?m=Forum&a=getRecommendGoods&cid=1
+{
+    "info": {
+        "extra": {
+            "grid2g": "_80x80.jpg",
+            "grid3g": "_160x160.jpg",
+            "gridwifi": "_250x250.jpg"
+        },
+        "data": [
+            {
+                "id": "141",
+                "title": "超大颗粒G点套 前所未有的G点刺激 倍力乐 激情倍爽",
+                "price": "9.90",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2xzi5XfJXXXXXXXXX_!!468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "143",
+                "title": "正品冈本授权skin系列 10只装",
+                "price": "18.00",
+                "pic_url": "http://img.taobaocdn.com/imgextra/http://img01.taobaocdn.com/imgextra/i4/468359490/T2p0UsXXJXXXXXXXXX_!!468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "164",
+                "title": "杜蕾斯 至尊超薄全新包装3只/12只装 亲密0距离",
+                "price": "25.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i3/468359490/T2CCOSXthaXXXXXXXX-468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "175",
+                "title": "杜蕾斯超薄装避孕套 薄若未戴 更敏感",
+                "price": "42.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T243HCXAFaXXXXXXXX-468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "193",
+                "title": "斯香妮 情趣狼牙套 冰感/热感/冰热感24只装 激情倍爽",
+                "price": "19.80",
+                "pic_url": "http://img.taobaocdn.com/imgextra/http://img01.taobaocdn.com/imgextra/i4/468359490/T2tm.NXXJXXXXXXXXX_!!468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "215",
+                "title": "杜蕾斯活力12只装 杜蕾斯性价比之王 爆销500000件",
+                "price": "32.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2h_CRXF4aXXXXXXXX-468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "216",
+                "title": "手指抠抠套 潮吹入门必备 倍力乐 激情倍爽",
+                "price": "9.00",
+                "pic_url": "http://img.taobaocdn.com/imgextra/http://img01.taobaocdn.com/imgextra/i4/468359490/T2tt3rXl4XXXXXXXXX_!!468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "240",
+                "title": "杰士邦 极肤SKYN二代 丝质润滑 非橡胶超薄安全套",
+                "price": "47.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i3/468359490/T2WazLXh0XXXXXXXXX_!!468359490.jpg",
+                "cid": "1"
+            },
+            {
+                "id": "246",
+                "title": "新潮套套 倍力乐 黑金刚10只装避孕套 超长性爱时间",
+                "price": "9.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T24_p6XulXXXXXXXXX-468359490.jpg",
+                "cid": "1"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+http://xjb.ushengsheng.com/shop.php?m=Forum&a=getRecommendGoods&cid=6
+{
+    "info": {
+        "extra": {
+            "grid2g": "_80x80.jpg",
+            "grid3g": "_160x160.jpg",
+            "gridwifi": "_250x250.jpg"
+        },
+        "data": [
+            {
+                "id": "61",
+                "title": "VitaBilla唯它彼乐 艳紫缎面迷情性感睡衣",
+                "price": "28.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2EwHcXkBbXXXXXXXX_!!468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "64",
+                "title": "蕾丝薄纱露乳性感开襟高贵激情内衣",
+                "price": "18.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i4/468359490/T2_LNJXCxaXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "65",
+                "title": "日式印花和服性感套装女式内衣开襟大码【和服风情】",
+                "price": "28.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T23lKVXD4XXXXXXXXX-468359490.gif",
+                "cid": "4"
+            },
+            {
+                "id": "69",
+                "title": "情趣套装制服诱惑护士服",
+                "price": "29.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2YjmKXDhXXXXXXXXX-468359490.gif",
+                "cid": "4"
+            },
+            {
+                "id": "71",
+                "title": "可爱透明公主服黑色蕾丝白色短裙",
+                "price": "28.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i3/468359490/T2s7BEX4NXXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "72",
+                "title": "粉嫩透视兔女郎装粉兔子【新品尝鲜】",
+                "price": "26.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2dwmfXutaXXXXXXXX-468359490.gif",
+                "cid": "4"
+            },
+            {
+                "id": "75",
+                "title": "桃心诱惑粉色爱心性感透明绳衣马甲",
+                "price": "18.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T271SVXvpaXXXXXXXX-468359490.gif",
+                "cid": "4"
+            },
+            {
+                "id": "76",
+                "title": "古典印花旗袍性感诱惑短裙套装",
+                "price": "25.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i4/468359490/T26Fh4XsRaXXXXXXXX-468359490.gif",
+                "cid": "4"
+            },
+            {
+                "id": "77",
+                "title": "美国进口selebritee 性感条纹彩网包臀裙",
+                "price": "32.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2sH60XidaXXXXXXXX_!!468359490.jpg",
+                "cid": "4"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+http://xjb.ushengsheng.com/shop.php?m=Forum&a=getRecommendGoods&cid=7
+{
+    "info": {
+        "extra": {
+            "grid2g": "_80x80.jpg",
+            "grid3g": "_160x160.jpg",
+            "gridwifi": "_250x250.jpg"
+        },
+        "data": [
+            {
+                "id": "139",
+                "title": "百乐招蜂引蝶女用伸缩震动转珠棒-性福女人【终极快感】",
+                "price": "78.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i3/468359490/T2wj2_XOdXXXXXXXXX-468359490.jpg",
+                "cid": "3"
+            },
+            {
+                "id": "146",
+                "title": "360度旋转按摩头充电拍打式磨砂AV棒 送黑色按摩头套",
+                "price": "118.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i4/468359490/T2VYPzXalaXXXXXXXX_!!468359490.jpg",
+                "cid": "3"
+            },
+            {
+                "id": "149",
+                "title": "倍儿性360度摇摆超大吸盘仿真阳具",
+                "price": "36.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2hKbdXdRXXXXXXXXX_!!468359490.jpg",
+                "cid": "3"
+            },
+            {
+                "id": "154",
+                "title": "喵星人36变频15震动模式强力马达防水静音有线单跳蛋",
+                "price": "39.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2LqRDXCVaXXXXXXXX-468359490.jpg",
+                "cid": "3"
+            },
+            {
+                "id": "162",
+                "title": "超强刺激乳头夹-女用自慰器乳房挑逗按摩器 淑女最爱",
+                "price": "35.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i4/468359490/T2a1ziXaJXXXXXXXXX_!!468359490.jpg",
+                "cid": "3"
+            },
+            {
+                "id": "165",
+                "title": "爱世界banana二代完美防水震动棒-性福女人",
+                "price": "168.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2IERZXqJXXXXXXXXX-468359490.jpg",
+                "cid": "3"
+            },
+            {
+                "id": "166",
+                "title": "夏奇6频振动G点阴蒂双刺激震动棒-幸福女人【终极快感】",
+                "price": "69.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i4/468359490/T2hX9tXC8XXXXXXXXX-468359490.jpg",
+                "cid": "3"
+            },
+            {
+                "id": "171",
+                "title": "品色国际帝王之器360度正反旋转转珠棒",
+                "price": "98.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i3/468359490/T2vSQaXFRXXXXXXXXX-468359490.jpg",
+                "cid": "3"
+            },
+            {
+                "id": "177",
+                "title": "水间霸者强力30段变频震动静音防水跳蛋",
+                "price": "35.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2rhsVXn0aXXXXXXXX-468359490.jpg",
+                "cid": "3"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+http://xjb.ushengsheng.com/shop.php?m=Forum&a=getRecommendGoods&cid=5
+{
+    "info": {
+        "extra": {
+            "grid2g": "_80x80.jpg",
+            "grid3g": "_160x160.jpg",
+            "gridwifi": "_250x250.jpg"
+        },
+        "data": [
+            {
+                "id": "179",
+                "title": "夏奇兔子激情震动延时锁精环 震力不熟 小巧便携",
+                "price": "16.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2GEqNXwxaXXXXXXXX-468359490.jpg",
+                "cid": "6"
+            },
+            {
+                "id": "197",
+                "title": "雅润成人器具专用抗菌喷剂 强力渗透 持久深入杀菌",
+                "price": "15.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i4/468359490/T2LkpeXplaXXXXXXXX_!!468359490.jpg",
+                "cid": "6"
+            },
+            {
+                "id": "204",
+                "title": "杜蕾斯Play震震环 延时水晶套环 内含震动器",
+                "price": "39.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i3/468359490/T28J4NXC0aXXXXXXXX-468359490.jpg",
+                "cid": "6"
+            },
+            {
+                "id": "205",
+                "title": "骇客上体捆缚 束手缚颈项圈 SM另类挑逗必备",
+                "price": "35.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i4/468359490/T2ajJdXsFaXXXXXXXX_!!468359490.jpg",
+                "cid": "6"
+            },
+            {
+                "id": "208",
+                "title": "夏奇人造情人眼 超粘耐用人造羊眼圈套环",
+                "price": "16.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i4/468359490/T2314dXtxaXXXXXXXX_!!468359490.jpg",
+                "cid": "6"
+            },
+            {
+                "id": "232",
+                "title": "杜伊特 358倍延时液2013全面升级 真男人拒绝早泄",
+                "price": "19.00",
+                "pic_url": "http://img03.taobaocdn.com/imgextra/i3/468359490/TB2U4v3XVXXXXawXpXXXXXXXXXX-468359490.jpg",
+                "cid": "6"
+            },
+            {
+                "id": "242",
+                "title": "男女用束缚红绳 另类情趣生活 SM挑逗必备",
+                "price": "10.00",
+                "pic_url": "http://img03.taobaocdn.com/imgextra/i3/468359490/TB2FDP5XVXXXXctXXXXXXXXXXXX-468359490.jpg",
+                "cid": "6"
+            },
+            {
+                "id": "244",
+                "title": "JOKER C型环 假性包茎纠正器",
+                "price": "22.00",
+                "pic_url": "http://img.taobaocdn.com/imgextra/http://img02.taobaocdn.com/imgextra/i2/468359490/T2SGQaXX4XXXXXXXXX_!!468359490.png",
+                "cid": "6"
+            },
+            {
+                "id": "249",
+                "title": "激情精选十件套 另类玩具超值套装 SM情趣挑逗必备",
+                "price": "99.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i3/468359490/T2j3NuXBXaXXXXXXXX_!!468359490.jpg",
+                "cid": "6"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+性价比的交流区中的推荐商品完全是随机中带点小算法哇
+
+http://forum.ushengsheng.com/shop.php?m=Forum&a=getForumPostInfoById&fid=126131&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Forum
+a	getForumPostInfoById
+fid	126131
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "detail2g": "_310x310.jpg",
+            "detail3g": "_400x400.jpg",
+            "detailwifi": "_620x10000.jpg"
+        },
+        "data": {
+            "id": "126131",
+            "title": "【活动】好评即送100金币，还有惊喜礼品！",
+            "cid": "24",
+            "nickname": "性价比小编-叫兽 ",
+            "account_id": "118638",
+            "content": "亲，私信又没金币了？现在只要到应用商店给我们好评，就送100金币，人人有份，更有机会获得幸运小礼品。如果您的好评感动四位导师将晋级获得下一轮的奖励资格，心动名单仅限十个！好评容易，精辟不易，且评且珍惜！！！<br /> <br />\r\n\r\n\tiPhone用户——在AppStore给性价比五星好评+精彩评语 <br />\r\n\tAndroid用户——在任一应用市场给性价比五星好评+精彩评语 <br /> <br />\r\n\r\n\t参与方式：将五星好评截图+您的性价比账号名称发给性价比微信公众号「xingjiabi69」，即可获得金币<br /> <br />\r\n\r\n\t奖品： <br /> \r\n最佳评论奖（10名）：美国FunZone撸管神器 可乐蛋勃乐套自慰鸡蛋<br />\r\n幸运粉丝奖（20名）：斯香妮 变形金刚狼牙套24只装 激情装备3合一 <br />\r\n交流区金币（参与即得）：100个 <br /> <br />\r\n\r\n\t活动说明： <br />\r\n1、每位用户只能参与一次 <br />\r\n2、金币将在下一个工作日统一发放 <br />\r\n3、中奖名单将在活动结束后进行公示 ，所有费用由「性价比」公司提供<br />\r\n4、活动时间 2014年7月4日-2014年7月18日 24点<br /><br />\r\n\r\n\t本次活动最终解释权归「性价比」公司所有 <br /> <br />\r\n\r\n\t好评哦亲！",
+            "is_multimedia": "1",
+            "create_time": "1404445007",
+            "letter_enable": "1",
+            "stamper": "http://xingjiabi.b0.upaiyun.com/86acfc806e4a77ece90a377827379d05.jpg",
+            "is_anonymity": "0",
+            "is_recommend": "0",
+            "pic_list": [
+                {
+                    "pic_url": "http://xingjiabi.b0.upaiyun.com/nforum/201407/126131/a9dbe9c8684b0d5cf02a1e3fab7573d7.jpg",
+                    "width": "1000",
+                    "height": "808"
+                },
+                {
+                    "pic_url": "http://xingjiabi.b0.upaiyun.com/nforum/201407/126131/012868dd1779c73b3598248394d6dd04.jpg",
+                    "width": "437",
+                    "height": "435"
+                },
+                {
+                    "pic_url": "http://xingjiabi.b0.upaiyun.com/nforum/201407/126131/b7204137c2f6aa1118ec804c79cb6ffa.jpg",
+                    "width": "750",
+                    "height": "480"
+                },
+                {
+                    "pic_url": "http://xingjiabi.b0.upaiyun.com/nforum/201407/126131/7d4fdca2018ebf51a785a92ef0ea02f5.jpg",
+                    "width": "750",
+                    "height": "1173"
+                }
+            ],
+            "review_count": "101",
+            "lastreply_time": "1404793252",
+            "sex_type": "1",
+            "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/118638avatar1389334363.jpg",
+            "cname": "吃喝玩乐去哪睡"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewsWithReply&post_id=126131&page=1&is_poster=0&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewsWithReply
+post_id	126131
+page	1
+is_poster	0
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "review_remain_count": "87",
+            "review_list": [
+                {
+                    "id": "2627279",
+                    "floors": "1",
+                    "account_id": "773639",
+                    "content": "小野狼为性价比而生！",
+                    "is_poster": "0",
+                    "create_time": "1404468997",
+                    "letter_enable": "1",
+                    "nickname": "坏坏小野狼",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/773639avatar1397810236.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2628339",
+                    "floors": "3",
+                    "account_id": "389375",
+                    "content": "性价比真的爽歪歪",
+                    "is_poster": "0",
+                    "create_time": "1404476383",
+                    "letter_enable": "1",
+                    "nickname": "找知己",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2628719",
+                    "floors": "4",
+                    "account_id": "86998",
+                    "content": "性价比真棒",
+                    "is_poster": "0",
+                    "create_time": "1404478866",
+                    "letter_enable": "1",
+                    "nickname": "顺其自然_sh",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": [
+                        {
+                            "id": "44017",
+                            "is_poster": "0",
+                            "account_id": "1021712",
+                            "content": "我怎/么不`知道呵",
+                            "create_time": "1404652161",
+                            "at_account_id": "0",
+                            "nickname": "159777",
+                            "at_nickname": ""
+                        }
+                    ],
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2629032",
+                    "floors": "5",
+                    "account_id": "591685",
+                    "content": "我的最爱～～性价比～～",
+                    "is_poster": "0",
+                    "create_time": "1404480634",
+                    "letter_enable": "1",
+                    "nickname": "蛋蛋扁扁",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/591685avatar1401719014.jpg",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2629192",
+                    "floors": "6",
+                    "account_id": "1524829",
+                    "content": "有了性价比，每天早上一柱擎天。感谢性价比。。。",
+                    "is_poster": "0",
+                    "create_time": "1404481422",
+                    "letter_enable": "1",
+                    "nickname": "小强到处跑",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2629259",
+                    "floors": "7",
+                    "nickname": "罂粟花的美",
+                    "content": "咋发贴子呢",
+                    "account_id": "793337",
+                    "is_poster": "0",
+                    "create_time": "1404481654",
+                    "letter_enable": "1",
+                    "sex_type": null,
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2629561",
+                    "floors": "8",
+                    "account_id": "1502947",
+                    "content": "性价比真是为男人的天堂",
+                    "is_poster": "0",
+                    "create_time": "1404483202",
+                    "letter_enable": "1",
+                    "nickname": "约定你↑",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2629957",
+                    "floors": "10",
+                    "account_id": "1385150",
+                    "content": "前排混脸熟！！",
+                    "is_poster": "0",
+                    "create_time": "1404485280",
+                    "letter_enable": "1",
+                    "nickname": "lv柔情",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2630089",
+                    "floors": "11",
+                    "account_id": "1527456",
+                    "content": "赞",
+                    "is_poster": "0",
+                    "create_time": "1404486125",
+                    "letter_enable": "1",
+                    "nickname": "苞米碴子。",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": [
+                        {
+                            "id": "44021",
+                            "is_poster": "0",
+                            "account_id": "1021712",
+                            "content": "赞一个好😊",
+                            "create_time": "1404652276",
+                            "at_account_id": "0",
+                            "nickname": "159777",
+                            "at_nickname": ""
+                        }
+                    ],
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2630527",
+                    "floors": "12",
+                    "account_id": "210486",
+                    "content": "赞一个",
+                    "is_poster": "0",
+                    "create_time": "1404487866",
+                    "letter_enable": "1",
+                    "nickname": "jeremyzhu",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/210486avatar1400864038.jpg",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                }
+            ]
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewsWithReply&post_id=126131&page=2&is_poster=0&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewsWithReply
+post_id	126131
+page	2
+is_poster	0
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "review_remain_count": "77",
+            "review_list": [
+                {
+                    "id": "2630554",
+                    "floors": "13",
+                    "account_id": "1528132",
+                    "content": "赞",
+                    "is_poster": "0",
+                    "create_time": "1404487932",
+                    "letter_enable": "1",
+                    "nickname": "不s单纯",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2630725",
+                    "floors": "14",
+                    "account_id": "1115998",
+                    "content": "性价比我的最爱",
+                    "is_poster": "0",
+                    "create_time": "1404488601",
+                    "letter_enable": "1",
+                    "nickname": "钢炮小子",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2631404",
+                    "floors": "15",
+                    "account_id": "1488703",
+                    "content": "性价比。我爱你。真棒。",
+                    "is_poster": "0",
+                    "create_time": "1404491338",
+                    "letter_enable": "1",
+                    "nickname": "成都的大象",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2631771",
+                    "floors": "16",
+                    "account_id": "1511111",
+                    "content": "攒",
+                    "is_poster": "0",
+                    "create_time": "1404492834",
+                    "letter_enable": "1",
+                    "nickname": "Tomche",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2631838",
+                    "floors": "17",
+                    "account_id": "1490035",
+                    "content": "赞一个，，",
+                    "is_poster": "0",
+                    "create_time": "1404493085",
+                    "letter_enable": "1",
+                    "nickname": "何谓一往情深，",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2632274",
+                    "floors": "18",
+                    "account_id": "1351225",
+                    "content": "赞一个",
+                    "is_poster": "0",
+                    "create_time": "1404494970",
+                    "letter_enable": "1",
+                    "nickname": "激情9150",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2632541",
+                    "floors": "19",
+                    "account_id": "322082",
+                    "content": "最爱性价比、要发米哦",
+                    "is_poster": "0",
+                    "create_time": "1404496810",
+                    "letter_enable": "1",
+                    "nickname": "名字长好记",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2632845",
+                    "floors": "20",
+                    "account_id": "1179824",
+                    "content": "性价比给我带来了无限快乐！",
+                    "is_poster": "0",
+                    "create_time": "1404499402",
+                    "letter_enable": "1",
+                    "nickname": "风景这里独好",
+                    "sex_type": "2",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2633696",
+                    "floors": "21",
+                    "account_id": "1322655",
+                    "content": "好啊好",
+                    "is_poster": "0",
+                    "create_time": "1404511060",
+                    "letter_enable": "1",
+                    "nickname": "地心引力",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/1322655avatar1402165545.jpg",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2633782",
+                    "floors": "22",
+                    "account_id": "1533338",
+                    "content": "赞",
+                    "is_poster": "0",
+                    "create_time": "1404512194",
+                    "letter_enable": "1",
+                    "nickname": "安先生丶",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                }
+            ]
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+点击第三个广告
+http://forum.ushengsheng.com/shop.php?m=Forum&a=getForumPostInfoById&fid=126263&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Forum
+a	getForumPostInfoById
+fid	126263
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "detail2g": "_310x310.jpg",
+            "detail3g": "_400x400.jpg",
+            "detailwifi": "_620x10000.jpg"
+        },
+        "data": {
+            "id": "126263",
+            "title": "教您识别电话诈骗",
+            "cid": "15",
+            "nickname": "性价比小编-大湿",
+            "account_id": "413446",
+            "content": "近期众多个商城出现针对用户的电话诈骗现象，性价比商城在此友情提醒<\\br>\r\n1.性价比不会以其他任何形式向用户索取费用办理所谓的VIP卡，在您无法辨别的情况下，请第一时间联系性价比在线客服！<\\br>\r\n2.性价比不存在任何形式的视频及社交聊天服务，请勿轻易相信交流区中部分用户的私信等广告类消息。<\\br>\r\n3.网络信息莫轻信，交友请谨慎，性价比交流区无法确定用户真实信息。<\\br>",
+            "is_multimedia": "0",
+            "create_time": "1404455837",
+            "letter_enable": "1",
+            "stamper": "http://xingjiabi.b0.upaiyun.com/86acfc806e4a77ece90a377827379d05.jpg",
+            "is_anonymity": "0",
+            "is_recommend": "0",
+            "pic_list": null,
+            "review_count": "15",
+            "lastreply_time": "1404790740",
+            "sex_type": "",
+            "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/413446avatar1393571620.png",
+            "cname": "有图有金币"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewsWithReply&post_id=126263&page=1&is_poster=0&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewsWithReply
+post_id	126263
+page	1
+is_poster	0
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "review_remain_count": "3",
+            "review_list": [
+                {
+                    "id": "2625436",
+                    "floors": "2",
+                    "account_id": "555701",
+                    "content": "顶一下",
+                    "is_poster": "0",
+                    "create_time": "1404456337",
+                    "letter_enable": "1",
+                    "nickname": "qq121063",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/555701avatar1394174283.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2625488",
+                    "floors": "3",
+                    "account_id": "891131",
+                    "content": "支持下",
+                    "is_poster": "0",
+                    "create_time": "1404456692",
+                    "letter_enable": "1",
+                    "nickname": "索女飞天猪",
+                    "sex_type": "2",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/891131avatar1397099155.png",
+                    "reply_list": [
+                        {
+                            "id": "42432",
+                            "is_poster": "0",
+                            "account_id": "1556039",
+                            "content": "支持全力",
+                            "create_time": "1404601646",
+                            "at_account_id": "0",
+                            "nickname": "笑看人生路！",
+                            "at_nickname": ""
+                        },
+                        {
+                            "id": "49166",
+                            "is_poster": "0",
+                            "account_id": "367240",
+                            "content": "美女，你好亮丽",
+                            "create_time": "1404799378",
+                            "at_account_id": "0",
+                            "nickname": "①59",
+                            "at_nickname": ""
+                        }
+                    ],
+                    "remain_reply_num": "1"
+                },
+                {
+                    "id": "2625492",
+                    "floors": "4",
+                    "nickname": "心里枯，好久没糙了",
+                    "content": "小编 为什么我看不到评论。",
+                    "account_id": "1518422",
+                    "is_poster": "0",
+                    "create_time": "1404456721",
+                    "letter_enable": "1",
+                    "sex_type": null,
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": [
+                        {
+                            "id": "38840",
+                            "is_poster": "1",
+                            "account_id": "413446",
+                            "content": "是个什么情况，所有的评论都看不到嘛？还是你自己发",
+                            "create_time": "1404456824",
+                            "at_account_id": "0",
+                            "nickname": "性价比小编-大湿",
+                            "at_nickname": ""
+                        }
+                    ],
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2625497",
+                    "fid": "126263",
+                    "floors": "5",
+                    "account_id": "1094888",
+                    "nickname": "大将军gentle",
+                    "content": "大家多多注意喽，现在骗子太多",
+                    "is_poster": "0",
+                    "status": "1",
+                    "is_admin": "1",
+                    "create_time": "1404456749",
+                    "platform_id": "0",
+                    "appversion": "",
+                    "appcode": "",
+                    "network": "0",
+                    "token": null,
+                    "pass_time": null,
+                    "letter_enable": "1",
+                    "sex_type": null,
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2629341",
+                    "floors": "6",
+                    "account_id": "577832",
+                    "content": "谢谢",
+                    "is_poster": "0",
+                    "create_time": "1404482092",
+                    "letter_enable": "1",
+                    "nickname": "liuchu",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/577832avatar1398716539.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2629366",
+                    "floors": "7",
+                    "account_id": "1524546",
+                    "content": "顶",
+                    "is_poster": "0",
+                    "create_time": "1404482272",
+                    "letter_enable": "1",
+                    "nickname": "知我者你也",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2630374",
+                    "floors": "8",
+                    "account_id": "1501984",
+                    "content": "顶了",
+                    "is_poster": "0",
+                    "create_time": "1404487289",
+                    "letter_enable": "1",
+                    "nickname": "11072198",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2632891",
+                    "floors": "9",
+                    "account_id": "1505294",
+                    "content": "顶",
+                    "is_poster": "0",
+                    "create_time": "1404499977",
+                    "letter_enable": "1",
+                    "nickname": "星空下的夜",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2634047",
+                    "floors": "10",
+                    "account_id": "1379330",
+                    "content": "支持。。。。",
+                    "is_poster": "0",
+                    "create_time": "1404515956",
+                    "letter_enable": "1",
+                    "nickname": "温柔v坏男人",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2640733",
+                    "floors": "11",
+                    "account_id": "1547796",
+                    "content": "我顶不住拉",
+                    "is_poster": "0",
+                    "create_time": "1404565457",
+                    "letter_enable": "1",
+                    "nickname": "是是非非何去何从",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                }
+            ]
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+点击第四个
+http://forum.ushengsheng.com/shop.php?m=Forum&a=getForumPostInfoById&fid=128089&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Forum
+a	getForumPostInfoById
+fid	128089
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "detail2g": "_310x310.jpg",
+            "detail3g": "_400x400.jpg",
+            "detailwifi": "_620x10000.jpg"
+        },
+        "data": {
+            "id": "128089",
+            "title": "锻炼身体",
+            "nickname": "妖精自在夜里哭",
+            "cid": "23",
+            "account_id": "1470691",
+            "content": "",
+            "stamper": "http://xingjiabi.b0.upaiyun.com//a0c0dc946071d86be75b87c57f6dfcc6.jpg",
+            "is_multimedia": "1",
+            "create_time": "1404648504",
+            "examine_time": null,
+            "is_examine": null,
+            "is_admin": "0",
+            "is_anonymity": "0",
+            "platform_id": "0",
+            "appversion": "",
+            "appcode": "",
+            "network": "0",
+            "token": null,
+            "reason": null,
+            "show_time": null,
+            "letter_enable": "1",
+            "is_recommend": "1",
+            "pic_list": [
+                {
+                    "id": "232701",
+                    "fid": "128089",
+                    "pic_url": "http://xingjiabi.b0.upaiyun.com/posts/201407/128089/00c8cdcdee517040a93c1881b3b3cdcf.jpg",
+                    "img_url": "http://img.i1.ushengsheng.com/posts/201407/128089/00c8cdcdee517040a93c1881b3b3cdcf.jpg",
+                    "width": "750",
+                    "height": "1000",
+                    "img_data": null,
+                    "sort": null
+                },
+                {
+                    "id": "232702",
+                    "fid": "128089",
+                    "pic_url": "http://xingjiabi.b0.upaiyun.com/posts/201407/128089/36436cb862f830dd1dd6401c82e52e24.jpg",
+                    "img_url": "http://img.i1.ushengsheng.com/posts/201407/128089/36436cb862f830dd1dd6401c82e52e24.jpg",
+                    "width": "707",
+                    "height": "1000",
+                    "img_data": null,
+                    "sort": null
+                },
+                {
+                    "id": "232703",
+                    "fid": "128089",
+                    "pic_url": "http://xingjiabi.b0.upaiyun.com/posts/201407/128089/0dc04ef131d99a7cc853ff780e60f7ee.jpg",
+                    "img_url": "http://img.i1.ushengsheng.com/posts/201407/128089/0dc04ef131d99a7cc853ff780e60f7ee.jpg",
+                    "width": "1000",
+                    "height": "750",
+                    "img_data": null,
+                    "sort": null
+                },
+                {
+                    "id": "232704",
+                    "fid": "128089",
+                    "pic_url": "http://xingjiabi.b0.upaiyun.com/posts/201407/128089/b64823f1574751d945f1b4b21f64af15.jpg",
+                    "img_url": "http://img.i1.ushengsheng.com/posts/201407/128089/b64823f1574751d945f1b4b21f64af15.jpg",
+                    "width": "803",
+                    "height": "1200",
+                    "img_data": null,
+                    "sort": null
+                },
+                {
+                    "id": "232705",
+                    "fid": "128089",
+                    "pic_url": "http://xingjiabi.b0.upaiyun.com/posts/201407/128089/32bce3a46f41768a438a26e2e118e864.jpg",
+                    "img_url": "http://img.i1.ushengsheng.com/posts/201407/128089/32bce3a46f41768a438a26e2e118e864.jpg",
+                    "width": "639",
+                    "height": "959",
+                    "img_data": null,
+                    "sort": null
+                },
+                {
+                    "id": "232706",
+                    "fid": "128089",
+                    "pic_url": "http://xingjiabi.b0.upaiyun.com/posts/201407/128089/374745cd7750b42d9002aab76d4b842a.jpg",
+                    "img_url": "http://img.i1.ushengsheng.com/posts/201407/128089/374745cd7750b42d9002aab76d4b842a.jpg",
+                    "width": "600",
+                    "height": "600",
+                    "img_data": null,
+                    "sort": null
+                },
+                {
+                    "id": "232707",
+                    "fid": "128089",
+                    "pic_url": "http://xingjiabi.b0.upaiyun.com/posts/201407/128089/ee449e74e29511fdc3464e9a49932af9.jpg",
+                    "img_url": "http://img.i1.ushengsheng.com/posts/201407/128089/ee449e74e29511fdc3464e9a49932af9.jpg",
+                    "width": "600",
+                    "height": "600",
+                    "img_data": null,
+                    "sort": null
+                },
+                {
+                    "id": "232708",
+                    "fid": "128089",
+                    "pic_url": "http://xingjiabi.b0.upaiyun.com/posts/201407/128089/f5db8292c63abd732e0765f3be714dc5.jpg",
+                    "img_url": "http://img.i1.ushengsheng.com/posts/201407/128089/f5db8292c63abd732e0765f3be714dc5.jpg",
+                    "width": "568",
+                    "height": "568",
+                    "img_data": null,
+                    "sort": null
+                }
+            ],
+            "review_count": "80",
+            "lastreply_time": "1404796371",
+            "sex_type": "2",
+            "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+            "cname": "身有体会"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewsWithReply&post_id=128089&page=1&is_poster=0&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewsWithReply
+post_id	128089
+page	1
+is_poster	0
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "review_remain_count": "64",
+            "review_list": [
+                {
+                    "id": "2651902",
+                    "floors": "1",
+                    "account_id": "1007211",
+                    "nickname": "顺其自然1",
+                    "content": "顶",
+                    "is_poster": "0",
+                    "status": "1",
+                    "create_time": "1404648822",
+                    "letter_enable": "1",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/1007211avatar1400108610.jpg",
+                    "reply_list": [
+                        {
+                            "id": "43925",
+                            "is_poster": "0",
+                            "account_id": "1496219",
+                            "content": "好身材",
+                            "create_time": "1404649334",
+                            "at_account_id": "0",
+                            "nickname": "鸡鸡在动",
+                            "at_nickname": ""
+                        }
+                    ],
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2651908",
+                    "floors": "2",
+                    "account_id": "1478944",
+                    "nickname": "骚年时代何来真爱",
+                    "content": "很好的女孩",
+                    "is_poster": "0",
+                    "status": "1",
+                    "create_time": "1404648860",
+                    "letter_enable": "1",
+                    "sex_type": "2",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": [
+                        {
+                            "id": "47843",
+                            "is_poster": "0",
+                            "account_id": "1502045",
+                            "content": "借楼。健身教练飘过！女孩子还是不要有肌肉的好！",
+                            "create_time": "1404752423",
+                            "at_account_id": "0",
+                            "nickname": "性欲强哎",
+                            "at_nickname": ""
+                        }
+                    ],
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2651910",
+                    "floors": "3",
+                    "account_id": "957471",
+                    "nickname": "炮兵哥",
+                    "content": "",
+                    "is_poster": "0",
+                    "status": "1",
+                    "create_time": "1404648871",
+                    "letter_enable": "1",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/957471avatar1397191874.jpg",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2651976",
+                    "floors": "4",
+                    "account_id": "1125890",
+                    "nickname": "求勾引啊",
+                    "content": "纹身有个性！大爱",
+                    "is_poster": "0",
+                    "status": "1",
+                    "create_time": "1404649199",
+                    "letter_enable": "1",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": [
+                        {
+                            "id": "47461",
+                            "is_poster": "0",
+                            "account_id": "1583377",
+                            "content": "i。",
+                            "create_time": "1404746464",
+                            "at_account_id": "0",
+                            "nickname": "O182964",
+                            "at_nickname": ""
+                        }
+                    ],
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2652050",
+                    "floors": "5",
+                    "account_id": "1401709",
+                    "nickname": "寂寞80后大叔",
+                    "content": "怎么身材教练？？",
+                    "is_poster": "0",
+                    "status": "1",
+                    "create_time": "1404649651",
+                    "letter_enable": "1",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2652085",
+                    "floors": "6",
+                    "account_id": "773639",
+                    "nickname": "坏坏小野狼",
+                    "content": "既然看了，就留下点什么吧！",
+                    "is_poster": "0",
+                    "status": "1",
+                    "create_time": "1404649914",
+                    "letter_enable": "1",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/773639avatar1397810236.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2652248",
+                    "floors": "8",
+                    "account_id": "1497860",
+                    "nickname": "MNB1314",
+                    "content": "顶！",
+                    "is_poster": "0",
+                    "status": "1",
+                    "create_time": "1404651679",
+                    "letter_enable": "1",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2652275",
+                    "floors": "9",
+                    "account_id": "1566055",
+                    "nickname": "爱！每天都需要",
+                    "content": "浙江宁波可有福利啊？求私聊 需要天天狂野",
+                    "is_poster": "0",
+                    "status": "1",
+                    "create_time": "1404651963",
+                    "letter_enable": "1",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2652298",
+                    "floors": "10",
+                    "account_id": "528847",
+                    "nickname": "裤裆里有杀气气",
+                    "content": "好漂亮",
+                    "is_poster": "0",
+                    "status": "1",
+                    "create_time": "1404652167",
+                    "letter_enable": "1",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/528847avatar1392280263.jpg",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2652344",
+                    "floors": "11",
+                    "account_id": "1487582",
+                    "nickname": "扣三六四零五八一",
+                    "content": "忍带好，动作可以！",
+                    "is_poster": "0",
+                    "status": "1",
+                    "create_time": "1404652580",
+                    "letter_enable": "1",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                }
+            ]
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+点击苹果助手应用中直接打开网页
+
+带推荐商品的帖子
+
+http://forum.ushengsheng.com/shop.php?m=Forum&a=getForumPostInfoById&fid=129289&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Forum
+a	getForumPostInfoById
+fid	129289
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "detail2g": "_310x310.jpg",
+            "detail3g": "_400x400.jpg",
+            "detailwifi": "_620x10000.jpg"
+        },
+        "data": {
+            "id": "129289",
+            "title": "大家好，新人报道",
+            "cid": "17",
+            "nickname": "gump2014",
+            "account_id": "432422",
+            "content": "大家好哇",
+            "is_multimedia": "1",
+            "create_time": "1404783226",
+            "review_count": "3",
+            "click_count": "0",
+            "letter_enable": "1",
+            "reason": "",
+            "lastreply_time": false,
+            "stamper": "",
+            "sex_type": "2",
+            "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+            "pic_list": [
+                {
+                    "pic_url": "http://img.i1.ushengsheng.com/posts/201407/129289/61f7e8e2e02ceedf3c87f2c99619873a.jpg",
+                    "width": "544",
+                    "height": "960"
+                }
+            ],
+            "cname": "性性相惜"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewsWithReply&post_id=129289&page=1&is_poster=0&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewsWithReply
+post_id	129289
+page	1
+is_poster	0
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "review_remain_count": "0",
+            "review_list": [
+                {
+                    "id": "2672507",
+                    "floors": "1",
+                    "account_id": "1588384",
+                    "nickname": "风淡云轻",
+                    "content": "喜欢女腿",
+                    "is_poster": "0",
+                    "create_time": "1404786320",
+                    "letter_enable": "1",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2672520",
+                    "floors": "2",
+                    "account_id": "1477450",
+                    "nickname": "济南的人人",
+                    "content": "这腿太有感觉了",
+                    "is_poster": "0",
+                    "create_time": "1404786383",
+                    "letter_enable": "1",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2672678",
+                    "floors": "3",
+                    "account_id": "1419985",
+                    "nickname": "德性图文",
+                    "content": "颧骨更性感",
+                    "is_poster": "0",
+                    "create_time": "1404787309",
+                    "letter_enable": "1",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                }
+            ]
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://xjb.ushengsheng.com/shop.php?m=Forum&a=getRecommendGoods&posid=129289&cid=2&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Forum
+a	getRecommendGoods
+posid	129289
+cid	2
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "grid2g": "_80x80.jpg",
+            "grid3g": "_160x160.jpg",
+            "gridwifi": "_250x250.jpg"
+        },
+        "data": [
+            {
+                "id": "178",
+                "title": "古典旗袍  性感透明蕾丝魅惑短裙",
+                "price": "19.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2P7T8XJ4aXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "181",
+                "title": "美国进口selebritee 欲望玫瑰开档丝质连身丝袜",
+                "price": "56.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2wjzcXgXbXXXXXXXX_!!468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "183",
+                "title": "侧开蕾丝诱惑女式黑色睡裙",
+                "price": "25.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2FUmJXxNaXXXXXXXX-468359490.gif",
+                "cid": "4"
+            },
+            {
+                "id": "184",
+                "title": "豹纹吊袜带性感睡衣多件套",
+                "price": "29.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i4/468359490/T2FS2cXfdaXXXXXXXX_!!468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "185",
+                "title": "透明蕾丝薄纱性感睡衣裙",
+                "price": "25.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2XKU2XINXXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "186",
+                "title": "紫恋英雄男士丁字裤T裤 猛男必备",
+                "price": "15.00",
+                "pic_url": "http://img.taobaocdn.com/imgextra/http://img01.taobaocdn.com/imgextra/i1/468359490/T2JccrXi4aXXXXXXXX_!!468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "187",
+                "title": "透明蕾丝蛋糕裙薄纱露背挂脖",
+                "price": "25.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2Zwh1XbNeXXXXXXXX_!!468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "192",
+                "title": "真丝冰丝性感蕾丝连衣裙可爱公主裙",
+                "price": "35.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2RKW2XelbXXXXXXXX_!!468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "195",
+                "title": "可爱蕾丝三点式套装  胸罩+吊袜带+网袜",
+                "price": "16.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T22l40XqpaXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
