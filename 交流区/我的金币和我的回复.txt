@@ -1,0 +1,1561 @@
+http://forum.ushengsheng.com/shop.php?m=Forum&a=getShareAppInfo&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Forum
+a	getShareAppInfo
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "thumb_size": "_400x400.jpg"
+        },
+        "data": {
+            "id": "0",
+            "title": "给你推荐一款性感的应用",
+            "nickname": "",
+            "account_id": "0",
+            "content": "她都湿了你还在等什么？",
+            "create_time": "1404980102",
+            "is_multimedia": "1",
+            "cate_name": "",
+            "pic_list": [
+                {
+                    "id": "0",
+                    "pic_url": "http://xingjiabi.b0.upaiyun.com//c27cf233f85ae3f0cc9df3a275633bf8.jpg",
+                    "width": "418",
+                    "height": "553"
+                }
+            ],
+            "review_count": "0",
+            "sex_type": null,
+            "letter_enable": "0"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?&m=Forum&a=getCoinInfoByUser&ticket_id=c361580db2f25199e59ed2161a453e67&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Forum
+a	getCoinInfoByUser
+ticket_id	c361580db2f25199e59ed2161a453e67
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" /> 
+    <title>我的金币</title>
+    <style>
+        *{margin:0;padding:0;-webkit-tap-highlight-color:rgba(0, 0, 0, 0);}
+        body{font-family:微软雅黑;font-size:12px;color:#646464;}
+        .item{border-bottom:1px solid #CDC9C6;}
+        .item .title{background:url(http://xingjiabi.b0.upaiyun.com/ico/cbg.png) no-repeat;height:2em;line-height:2em;width:140px;font-size:1.35em;}
+        .item .title span{color:#FFFFFF;padding-left:1.4em;}
+        .item .mycoin{margin:0.6em auto 0.9em auto;text-align:center;height:1em;line-height:1em;color:#FEA046;font-size:2.8em;}
+        .item .mycoin span{display:inline-block;background:url(http://xingjiabi.b0.upaiyun.com/ico/cicon.png) no-repeat;width:1em;height:1em;position:relative;top:0.1em;background-size:cover;}
+        .item .c_add{margin-bottom:2em;}
+        .item .c_add div{width:49%;display:inline-block;margin:1.4em auto 0 auto;text-align:center;}
+        .item .forum,.item .letter{font-size:1.8em;}
+        .item .letter{border-left:1px solid #CBCAC6;}
+        .item .forum span{background:url(http://xingjiabi.b0.upaiyun.com/ico/picon.png) no-repeat;display:inline-block;width:1.5em;height:2.2em;background-size:cover;}
+        .item .letter span{background:url(http://xingjiabi.b0.upaiyun.com/ico/micon.png) no-repeat;display:inline-block;width:1.5em;height:2.2em;background-size:cover;}
+        .item .tlt{display:inline-block;width:49%;font-size:1.5em;line-height:1.7em;}
+        .item .info{font-size:1.25em;line-height:1.25em;}
+        .item .itm{margin:0.8em;}
+        .tright{text-align:right;}
+
+    </style>
+</head>
+<body>
+    <div class="item">
+        <div class="title"><span>我的金币</span></div>
+        <div class="mycoin">
+           <span></span>10        </div>
+    </div>
+
+    <div class="item">
+        <div class="title"><span>金币使用</span></div>
+        <div class="c_add">
+            <div class="forum">
+                <span></span><br/>
+                -0金币/次
+            </div>
+            <div class="letter">
+                <span></span><br/>
+                -10金币/次
+            </div>
+        </div>
+    </div>
+
+    <div class="item">
+        <div class="title"><span>获取金币</span></div>
+        <div>
+            <div class="itm" style="border-bottom:1px solid #CBCAC6;padding-bottom:10px;">
+                <div class="tlt">分享帖子或应用</div>
+                <div class="tlt tright">+10金币/次</div>
+                <div class="info">每天分享都将获得10金币，每天封顶50金币</div>
+            </div>
+            <div class="itm">
+                <div class="tlt">邀请成功</div>
+                <div class="tlt tright">+30金币/次</div>
+                <div class="info">用户浏览您分享的内容并下载应用，即邀请成功。
+				</div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
+
+
+http://forum.ushengsheng.com/shop.php?&m=Forum&a=getCoinInfoByUser&ticket_id=c361580db2f25199e59ed2161a453e67&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Forum
+a	getCoinInfoByUser
+ticket_id	c361580db2f25199e59ed2161a453e67
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" /> 
+    <title>我的金币</title>
+    <style>
+        *{margin:0;padding:0;-webkit-tap-highlight-color:rgba(0, 0, 0, 0);}
+        body{font-family:微软雅黑;font-size:12px;color:#646464;}
+        .item{border-bottom:1px solid #CDC9C6;}
+        .item .title{background:url(http://xingjiabi.b0.upaiyun.com/ico/cbg.png) no-repeat;height:2em;line-height:2em;width:140px;font-size:1.35em;}
+        .item .title span{color:#FFFFFF;padding-left:1.4em;}
+        .item .mycoin{margin:0.6em auto 0.9em auto;text-align:center;height:1em;line-height:1em;color:#FEA046;font-size:2.8em;}
+        .item .mycoin span{display:inline-block;background:url(http://xingjiabi.b0.upaiyun.com/ico/cicon.png) no-repeat;width:1em;height:1em;position:relative;top:0.1em;background-size:cover;}
+        .item .c_add{margin-bottom:2em;}
+        .item .c_add div{width:49%;display:inline-block;margin:1.4em auto 0 auto;text-align:center;}
+        .item .forum,.item .letter{font-size:1.8em;}
+        .item .letter{border-left:1px solid #CBCAC6;}
+        .item .forum span{background:url(http://xingjiabi.b0.upaiyun.com/ico/picon.png) no-repeat;display:inline-block;width:1.5em;height:2.2em;background-size:cover;}
+        .item .letter span{background:url(http://xingjiabi.b0.upaiyun.com/ico/micon.png) no-repeat;display:inline-block;width:1.5em;height:2.2em;background-size:cover;}
+        .item .tlt{display:inline-block;width:49%;font-size:1.5em;line-height:1.7em;}
+        .item .info{font-size:1.25em;line-height:1.25em;}
+        .item .itm{margin:0.8em;}
+        .tright{text-align:right;}
+
+    </style>
+</head>
+<body>
+    <div class="item">
+        <div class="title"><span>我的金币</span></div>
+        <div class="mycoin">
+           <span></span>10        </div>
+    </div>
+
+    <div class="item">
+        <div class="title"><span>金币使用</span></div>
+        <div class="c_add">
+            <div class="forum">
+                <span></span><br/>
+                -0金币/次
+            </div>
+            <div class="letter">
+                <span></span><br/>
+                -10金币/次
+            </div>
+        </div>
+    </div>
+
+    <div class="item">
+        <div class="title"><span>获取金币</span></div>
+        <div>
+            <div class="itm" style="border-bottom:1px solid #CBCAC6;padding-bottom:10px;">
+                <div class="tlt">分享帖子或应用</div>
+                <div class="tlt tright">+10金币/次</div>
+                <div class="info">每天分享都将获得10金币，每天封顶50金币</div>
+            </div>
+            <div class="itm">
+                <div class="tlt">邀请成功</div>
+                <div class="tlt tright">+30金币/次</div>
+                <div class="info">用户浏览您分享的内容并下载应用，即邀请成功。
+				</div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
+
+http://forum.ushengsheng.com/shop.php?&m=Forum&a=getCoinInfoByUser&ticket_id=c361580db2f25199e59ed2161a453e67&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Forum
+a	getCoinInfoByUser
+ticket_id	c361580db2f25199e59ed2161a453e67
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" /> 
+    <title>我的金币</title>
+    <style>
+        *{margin:0;padding:0;-webkit-tap-highlight-color:rgba(0, 0, 0, 0);}
+        body{font-family:微软雅黑;font-size:12px;color:#646464;}
+        .item{border-bottom:1px solid #CDC9C6;}
+        .item .title{background:url(http://xingjiabi.b0.upaiyun.com/ico/cbg.png) no-repeat;height:2em;line-height:2em;width:140px;font-size:1.35em;}
+        .item .title span{color:#FFFFFF;padding-left:1.4em;}
+        .item .mycoin{margin:0.6em auto 0.9em auto;text-align:center;height:1em;line-height:1em;color:#FEA046;font-size:2.8em;}
+        .item .mycoin span{display:inline-block;background:url(http://xingjiabi.b0.upaiyun.com/ico/cicon.png) no-repeat;width:1em;height:1em;position:relative;top:0.1em;background-size:cover;}
+        .item .c_add{margin-bottom:2em;}
+        .item .c_add div{width:49%;display:inline-block;margin:1.4em auto 0 auto;text-align:center;}
+        .item .forum,.item .letter{font-size:1.8em;}
+        .item .letter{border-left:1px solid #CBCAC6;}
+        .item .forum span{background:url(http://xingjiabi.b0.upaiyun.com/ico/picon.png) no-repeat;display:inline-block;width:1.5em;height:2.2em;background-size:cover;}
+        .item .letter span{background:url(http://xingjiabi.b0.upaiyun.com/ico/micon.png) no-repeat;display:inline-block;width:1.5em;height:2.2em;background-size:cover;}
+        .item .tlt{display:inline-block;width:49%;font-size:1.5em;line-height:1.7em;}
+        .item .info{font-size:1.25em;line-height:1.25em;}
+        .item .itm{margin:0.8em;}
+        .tright{text-align:right;}
+
+    </style>
+</head>
+<body>
+    <div class="item">
+        <div class="title"><span>我的金币</span></div>
+        <div class="mycoin">
+           <span></span>10        </div>
+    </div>
+
+    <div class="item">
+        <div class="title"><span>金币使用</span></div>
+        <div class="c_add">
+            <div class="forum">
+                <span></span><br/>
+                -0金币/次
+            </div>
+            <div class="letter">
+                <span></span><br/>
+                -10金币/次
+            </div>
+        </div>
+    </div>
+
+    <div class="item">
+        <div class="title"><span>获取金币</span></div>
+        <div>
+            <div class="itm" style="border-bottom:1px solid #CBCAC6;padding-bottom:10px;">
+                <div class="tlt">分享帖子或应用</div>
+                <div class="tlt tright">+10金币/次</div>
+                <div class="info">每天分享都将获得10金币，每天封顶50金币</div>
+            </div>
+            <div class="itm">
+                <div class="tlt">邀请成功</div>
+                <div class="tlt tright">+30金币/次</div>
+                <div class="info">用户浏览您分享的内容并下载应用，即邀请成功。
+				</div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
+新的用户
+http://forum.ushengsheng.com/shop.php?m=Forum&a=getShareAppInfo&platform=iphone&v=5.5.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Forum
+a	getShareAppInfo
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "thumb_size": "_400x400.jpg"
+        },
+        "data": {
+            "id": "0",
+            "title": "给你推荐一款性感的应用",
+            "nickname": "",
+            "account_id": "0",
+            "content": "她都湿了你还在等什么？",
+            "create_time": "1404980469",
+            "is_multimedia": "1",
+            "cate_name": "",
+            "pic_list": [
+                {
+                    "id": "0",
+                    "pic_url": "http://xingjiabi.b0.upaiyun.com//c27cf233f85ae3f0cc9df3a275633bf8.jpg",
+                    "width": "418",
+                    "height": "553"
+                }
+            ],
+            "review_count": "0",
+            "sex_type": null,
+            "letter_enable": "0"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?&m=Forum&a=getCoinInfoByUser&ticket_id=7ace93db7ce666453bd6e57b5b658066&platform=iphone&v=5.5.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Forum
+a	getCoinInfoByUser
+ticket_id	7ace93db7ce666453bd6e57b5b658066
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" /> 
+    <title>我的金币</title>
+    <style>
+        *{margin:0;padding:0;-webkit-tap-highlight-color:rgba(0, 0, 0, 0);}
+        body{font-family:微软雅黑;font-size:12px;color:#646464;}
+        .item{border-bottom:1px solid #CDC9C6;}
+        .item .title{background:url(http://xingjiabi.b0.upaiyun.com/ico/cbg.png) no-repeat;height:2em;line-height:2em;width:140px;font-size:1.35em;}
+        .item .title span{color:#FFFFFF;padding-left:1.4em;}
+        .item .mycoin{margin:0.6em auto 0.9em auto;text-align:center;height:1em;line-height:1em;color:#FEA046;font-size:2.8em;}
+        .item .mycoin span{display:inline-block;background:url(http://xingjiabi.b0.upaiyun.com/ico/cicon.png) no-repeat;width:1em;height:1em;position:relative;top:0.1em;background-size:cover;}
+        .item .c_add{margin-bottom:2em;}
+        .item .c_add div{width:49%;display:inline-block;margin:1.4em auto 0 auto;text-align:center;}
+        .item .forum,.item .letter{font-size:1.8em;}
+        .item .letter{border-left:1px solid #CBCAC6;}
+        .item .forum span{background:url(http://xingjiabi.b0.upaiyun.com/ico/picon.png) no-repeat;display:inline-block;width:1.5em;height:2.2em;background-size:cover;}
+        .item .letter span{background:url(http://xingjiabi.b0.upaiyun.com/ico/micon.png) no-repeat;display:inline-block;width:1.5em;height:2.2em;background-size:cover;}
+        .item .tlt{display:inline-block;width:49%;font-size:1.5em;line-height:1.7em;}
+        .item .info{font-size:1.25em;line-height:1.25em;}
+        .item .itm{margin:0.8em;}
+        .tright{text-align:right;}
+
+    </style>
+</head>
+<body>
+    <div class="item">
+        <div class="title"><span>我的金币</span></div>
+        <div class="mycoin">
+           <span></span>30        </div>
+    </div>
+
+    <div class="item">
+        <div class="title"><span>金币使用</span></div>
+        <div class="c_add">
+            <div class="forum">
+                <span></span><br/>
+                -0金币/次
+            </div>
+            <div class="letter">
+                <span></span><br/>
+                -10金币/次
+            </div>
+        </div>
+    </div>
+
+    <div class="item">
+        <div class="title"><span>获取金币</span></div>
+        <div>
+            <div class="itm" style="border-bottom:1px solid #CBCAC6;padding-bottom:10px;">
+                <div class="tlt">分享帖子或应用</div>
+                <div class="tlt tright">+10金币/次</div>
+                <div class="info">每天分享都将获得10金币，每天封顶50金币</div>
+            </div>
+            <div class="itm">
+                <div class="tlt">邀请成功</div>
+                <div class="tlt tright">+30金币/次</div>
+                <div class="info">用户浏览您分享的内容并下载应用，即邀请成功。
+				</div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
+
+
+我的回复
+
+http://forum.ushengsheng.com/shop.php?m=ForumCenter&a=getReplyListForMe&page=1&limit=10&ticket_id=7ace93db7ce666453bd6e57b5b658066&platform=iphone&v=5.5.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+m	ForumCenter
+a	getReplyListForMe
+page	1
+limit	10
+ticket_id	7ace93db7ce666453bd6e57b5b658066
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": [
+            {
+                "id": "634098",
+                "account_id": "1535391",
+                "content": "吃过精子吗？",
+                "rel_content": "大家好，我是心如，关于ktv有啥问题可以问我",
+                "type": "1",
+                "create_time": "1404974331",
+                "post_cid": "17",
+                "post_id": "130923",
+                "review_id": "2700018",
+                "reply_id": "0",
+                "review_floors": "3",
+                "is_read": "0",
+                "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                "nickname": "小变态o",
+                "sex_type": "1",
+                "post_cname": "性性相惜"
+            },
+            {
+                "id": "633828",
+                "account_id": "1061076",
+                "content": "KTV不是唱歌的地方么？",
+                "rel_content": "大家好，我是心如，关于ktv有啥问题可以问我",
+                "type": "1",
+                "create_time": "1404972496",
+                "post_cid": "17",
+                "post_id": "130923",
+                "review_id": "2699767",
+                "reply_id": "0",
+                "review_floors": "2",
+                "is_read": "0",
+                "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/1061076avatar1398665842.jpg",
+                "nickname": "过客eryo",
+                "sex_type": "1",
+                "post_cname": "性性相惜"
+            },
+            {
+                "id": "633638",
+                "account_id": "83335",
+                "content": "你有被肛交过吗",
+                "rel_content": "大家好，我是心如，关于ktv有啥问题可以问我",
+                "type": "1",
+                "create_time": "1404971380",
+                "post_cid": "17",
+                "post_id": "130923",
+                "review_id": "2699574",
+                "reply_id": "0",
+                "review_floors": "1",
+                "is_read": "0",
+                "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                "nickname": "文字女加342831545",
+                "sex_type": "1",
+                "post_cname": "性性相惜"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+查看回复
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewPostInfo&post_id=130923&platform=iphone&v=5.5.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+m	ForumReview
+a	getReviewPostInfo
+post_id	130923
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "id": "130923",
+            "title": "大家好，我是心如，关于ktv有啥问题可以问我",
+            "cid": "17",
+            "cname": "性性相惜",
+            "stamper": "",
+            "create_time": "1404970913"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewListInfo&post_id=130923&pos=2700018&type=mid&platform=iphone&v=5.5.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+m	ForumReview
+a	getReviewListInfo
+post_id	130923
+pos	2700018
+type	mid
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "prev_remain_count": "2",
+            "review_list": [
+                {
+                    "id": "2700018",
+                    "floors": "3",
+                    "account_id": "1535391",
+                    "content": "吃过精子吗？",
+                    "is_poster": "0",
+                    "create_time": "1404974331",
+                    "letter_enable": "1",
+                    "nickname": "小变态o",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                }
+            ],
+            "next_remain_count": "0"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+加载更多回帖
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewListInfo&post_id=130923&pos=2700018&type=prev&platform=iphone&v=5.5.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewListInfo
+post_id	130923
+pos	2700018
+type	prev
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "prev_remain_count": "0",
+            "review_list": [
+                {
+                    "id": "2699767",
+                    "floors": "2",
+                    "account_id": "1061076",
+                    "content": "KTV不是唱歌的地方么？",
+                    "is_poster": "0",
+                    "create_time": "1404972496",
+                    "letter_enable": "1",
+                    "nickname": "过客eryo",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/1061076avatar1398665842.jpg",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2699574",
+                    "floors": "1",
+                    "account_id": "83335",
+                    "content": "你有被肛交过吗",
+                    "is_poster": "0",
+                    "create_time": "1404971380",
+                    "letter_enable": "1",
+                    "nickname": "文字女加342831545",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                }
+            ],
+            "next_remain_count": "0"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+加载第二条回复
+
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewPostInfo&post_id=130923&platform=iphone&v=5.5.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewPostInfo
+post_id	130923
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "id": "130923",
+            "title": "大家好，我是心如，关于ktv有啥问题可以问我",
+            "cid": "17",
+            "cname": "性性相惜",
+            "stamper": "",
+            "create_time": "1404970913"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewListInfo&post_id=130923&pos=2699767&type=mid&platform=iphone&v=5.5.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewListInfo
+post_id	130923
+pos	2699767
+type	mid
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "prev_remain_count": "1",
+            "review_list": [
+                {
+                    "id": "2699767",
+                    "floors": "2",
+                    "account_id": "1061076",
+                    "content": "KTV不是唱歌的地方么？",
+                    "is_poster": "0",
+                    "create_time": "1404972496",
+                    "letter_enable": "1",
+                    "nickname": "过客eryo",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/1061076avatar1398665842.jpg",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2700018",
+                    "floors": "3",
+                    "account_id": "1535391",
+                    "content": "吃过精子吗？",
+                    "is_poster": "0",
+                    "create_time": "1404974331",
+                    "letter_enable": "1",
+                    "nickname": "小变态o",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                }
+            ],
+            "next_remain_count": "0"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+加载更多
+
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewListInfo&post_id=130923&pos=2699767&type=prev&platform=iphone&v=5.5.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewListInfo
+post_id	130923
+pos	2699767
+type	prev
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "prev_remain_count": "0",
+            "review_list": [
+                {
+                    "id": "2699574",
+                    "floors": "1",
+                    "account_id": "83335",
+                    "content": "你有被肛交过吗",
+                    "is_poster": "0",
+                    "create_time": "1404971380",
+                    "letter_enable": "1",
+                    "nickname": "文字女加342831545",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                }
+            ],
+            "next_remain_count": "0"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+查看第三条
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewPostInfo&post_id=130923&platform=iphone&v=5.5.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewPostInfo
+post_id	130923
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "id": "130923",
+            "title": "大家好，我是心如，关于ktv有啥问题可以问我",
+            "cid": "17",
+            "cname": "性性相惜",
+            "stamper": "",
+            "create_time": "1404970913"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewListInfo&post_id=130923&pos=2699574&type=mid&platform=iphone&v=5.5.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewListInfo
+post_id	130923
+pos	2699574
+type	mid
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "prev_remain_count": "0",
+            "review_list": [
+                {
+                    "id": "2699574",
+                    "floors": "1",
+                    "account_id": "83335",
+                    "content": "你有被肛交过吗",
+                    "is_poster": "0",
+                    "create_time": "1404971380",
+                    "letter_enable": "1",
+                    "nickname": "文字女加342831545",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2699767",
+                    "floors": "2",
+                    "account_id": "1061076",
+                    "content": "KTV不是唱歌的地方么？",
+                    "is_poster": "0",
+                    "create_time": "1404972496",
+                    "letter_enable": "1",
+                    "nickname": "过客eryo",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/1061076avatar1398665842.jpg",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2700018",
+                    "floors": "3",
+                    "account_id": "1535391",
+                    "content": "吃过精子吗？",
+                    "is_poster": "0",
+                    "create_time": "1404974331",
+                    "letter_enable": "1",
+                    "nickname": "小变态o",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                }
+            ],
+            "next_remain_count": "0"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+查看回复（显示此评论和之后的评论）
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewInfo&post_id=130923&review_id=2699574&platform=iphone&v=5.5.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+m	ForumReview
+a	getReviewInfo
+post_id	130923
+review_id	2699574
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "id": "2699574",
+            "floors": "1",
+            "account_id": "83335",
+            "content": "你有被肛交过吗",
+            "is_poster": "0",
+            "create_time": "1404971380",
+            "letter_enable": "1",
+            "nickname": "文字女加342831545",
+            "sex_type": "1",
+            "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+            "post_account_id": "1065347"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?m=ForumReply&a=getReplyList&post_id=130923&review_id=2699574&page=1&limit=10&platform=iphone&v=5.5.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReply
+a	getReplyList
+post_id	130923
+review_id	2699574
+page	1
+limit	10
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "reply_list": null,
+            "remain_reply_num": "0"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+回复评论
+http://forum.ushengsheng.com/shop.php?m=ForumReply&a=addReply
+post
+reply_json	{"post_id":"130923","review_id":"2699574","reply_id":"0","account_id":"0","content":"浜よ��"}
+ticket_id	7ace93db7ce666453bd6e57b5b658066
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+	"info": {
+		"extra": null,
+		"data": {
+			"reply_id": "55860"
+		}
+	},
+	"response_status": "success",
+	"msg": ""
+}
+
+查看帖子
+
+http://xjb.ushengsheng.com/shop.php?m=Forum&a=getRecommendGoods&posid=130923&cid=2&platform=iphone&v=5.5.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Forum
+a	getRecommendGoods
+posid	130923
+cid	2
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "grid2g": "_80x80.jpg",
+            "grid3g": "_160x160.jpg",
+            "gridwifi": "_250x250.jpg"
+        },
+        "data": [
+            {
+                "id": "75",
+                "title": "桃心诱惑粉色爱心性感透明绳衣马甲【好色之徒】",
+                "price": "18.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T271SVXvpaXXXXXXXX-468359490.gif",
+                "cid": "4"
+            },
+            {
+                "id": "76",
+                "title": "古典印花旗袍性感诱惑短裙套装【好色之徒】",
+                "price": "25.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i4/468359490/T26Fh4XsRaXXXXXXXX-468359490.gif",
+                "cid": "4"
+            },
+            {
+                "id": "77",
+                "title": "美国进口selebritee 性感条纹彩网包臀裙【好色之徒】",
+                "price": "32.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2sH60XidaXXXXXXXX_!!468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "78",
+                "title": "久慕雅黛 高贵镂空花纹性感睡裙",
+                "price": "78.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i4/468359490/T26BiTXxdXXXXXXXXX-468359490.gif",
+                "cid": "4"
+            },
+            {
+                "id": "87",
+                "title": "毛绒可爱兔女郎多件套OL职业装",
+                "price": "32.00",
+                "pic_url": "http://img.taobaocdn.com/imgextra/http://img01.taobaocdn.com/imgextra/i3/468359490/T2u6jPXnXaXXXXXXXX_!!468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "89",
+                "title": "蕾丝薄纱透明睡裙性感马甲多件套【好色之徒】",
+                "price": "48.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2c06JXgVbXXXXXXXX_!!468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "95",
+                "title": "毛毛边透明三点式挑逗诱惑猫女装",
+                "price": "18.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/T2G8eeXtlXXXXXXXXX-468359490.gif",
+                "cid": "4"
+            },
+            {
+                "id": "97",
+                "title": "性感网眼透明开裆连身袜连体衣【好色之徒】",
+                "price": "18.00",
+                "pic_url": "http://img01.taobaocdn.com/imgextra/i1/468359490/TB2qxbeXVXXXXbWXpXXXXXXXXXX-468359490.jpg",
+                "cid": "4"
+            },
+            {
+                "id": "98",
+                "title": "蕾丝薄纱性感吊袜带套装",
+                "price": "22.00",
+                "pic_url": "http://img02.taobaocdn.com/imgextra/i2/468359490/T2K.BaXpFXXXXXXXXX_!!468359490.jpg",
+                "cid": "4"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?m=Forum&a=getForumPostInfoById&fid=130923&platform=iphone&v=5.5.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+m	Forum
+a	getForumPostInfoById
+fid	130923
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+{
+    "info": {
+        "extra": {
+            "detail2g": "_310x310.jpg",
+            "detail3g": "_400x400.jpg",
+            "detailwifi": "_620x10000.jpg"
+        },
+        "data": {
+            "id": "130923",
+            "title": "大家好，我是心如，关于ktv有啥问题可以问我",
+            "nickname": "我是心如",
+            "cid": "17",
+            "account_id": "1065347",
+            "content": "保证回答你哦",
+            "stamper": "",
+            "is_multimedia": "0",
+            "create_time": "1404970913",
+            "examine_time": null,
+            "is_examine": null,
+            "is_admin": "0",
+            "is_anonymity": "0",
+            "platform_id": "0",
+            "appversion": "",
+            "appcode": "",
+            "network": "0",
+            "token": null,
+            "reason": null,
+            "show_time": null,
+            "letter_enable": "1",
+            "is_recommend": "0",
+            "pic_list": [],
+            "review_count": "3",
+            "lastreply_time": "1404974331",
+            "sex_type": "2",
+            "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+            "cname": "性性相惜"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewsWithReply&post_id=130923&page=1&is_poster=0&platform=iphone&v=5.5.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewsWithReply
+post_id	130923
+page	1
+is_poster	0
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "review_remain_count": "0",
+            "review_list": [
+                {
+                    "id": "2699574",
+                    "floors": "1",
+                    "account_id": "83335",
+                    "content": "你有被肛交过吗",
+                    "is_poster": "0",
+                    "create_time": "1404971380",
+                    "letter_enable": "1",
+                    "nickname": "文字女加342831545",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": [
+                        {
+                            "id": "55860",
+                            "is_poster": "1",
+                            "account_id": "1065347",
+                            "content": "交过",
+                            "create_time": "1404981315",
+                            "at_account_id": "0",
+                            "nickname": "我是心如",
+                            "at_nickname": ""
+                        }
+                    ],
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2699767",
+                    "floors": "2",
+                    "account_id": "1061076",
+                    "content": "KTV不是唱歌的地方么？",
+                    "is_poster": "0",
+                    "create_time": "1404972496",
+                    "letter_enable": "1",
+                    "nickname": "过客eryo",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/1061076avatar1398665842.jpg",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2700018",
+                    "floors": "3",
+                    "account_id": "1535391",
+                    "content": "吃过精子吗？",
+                    "is_poster": "0",
+                    "create_time": "1404974331",
+                    "letter_enable": "1",
+                    "nickname": "小变态o",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                }
+            ]
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+
+分享金币后返回
+
+http://forum.ushengsheng.com/shop.php?m=Forum&a=afterSharedPost&param=0&uucode=260854111a29c1df88c63f640ca8b1e6&type=ashare&ticket_id=7ace93db7ce666453bd6e57b5b658066&platform=iphone&v=5.5.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Forum
+a	afterSharedPost
+param	0
+uucode	260854111a29c1df88c63f640ca8b1e6
+type	ashare
+ticket_id	7ace93db7ce666453bd6e57b5b658066
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": null
+    },
+    "response_status": "success",
+    "msg": "分享成功，获得10金币"
+}
+
+http://forum.ushengsheng.com/shop.php?&m=Forum&a=getCoinInfoByUser&ticket_id=7ace93db7ce666453bd6e57b5b658066&platform=iphone&v=5.5.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Forum
+a	getCoinInfoByUser
+ticket_id	7ace93db7ce666453bd6e57b5b658066
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" /> 
+    <title>我的金币</title>
+    <style>
+        *{margin:0;padding:0;-webkit-tap-highlight-color:rgba(0, 0, 0, 0);}
+        body{font-family:微软雅黑;font-size:12px;color:#646464;}
+        .item{border-bottom:1px solid #CDC9C6;}
+        .item .title{background:url(http://xingjiabi.b0.upaiyun.com/ico/cbg.png) no-repeat;height:2em;line-height:2em;width:140px;font-size:1.35em;}
+        .item .title span{color:#FFFFFF;padding-left:1.4em;}
+        .item .mycoin{margin:0.6em auto 0.9em auto;text-align:center;height:1em;line-height:1em;color:#FEA046;font-size:2.8em;}
+        .item .mycoin span{display:inline-block;background:url(http://xingjiabi.b0.upaiyun.com/ico/cicon.png) no-repeat;width:1em;height:1em;position:relative;top:0.1em;background-size:cover;}
+        .item .c_add{margin-bottom:2em;}
+        .item .c_add div{width:49%;display:inline-block;margin:1.4em auto 0 auto;text-align:center;}
+        .item .forum,.item .letter{font-size:1.8em;}
+        .item .letter{border-left:1px solid #CBCAC6;}
+        .item .forum span{background:url(http://xingjiabi.b0.upaiyun.com/ico/picon.png) no-repeat;display:inline-block;width:1.5em;height:2.2em;background-size:cover;}
+        .item .letter span{background:url(http://xingjiabi.b0.upaiyun.com/ico/micon.png) no-repeat;display:inline-block;width:1.5em;height:2.2em;background-size:cover;}
+        .item .tlt{display:inline-block;width:49%;font-size:1.5em;line-height:1.7em;}
+        .item .info{font-size:1.25em;line-height:1.25em;}
+        .item .itm{margin:0.8em;}
+        .tright{text-align:right;}
+
+    </style>
+</head>
+<body>
+    <div class="item">
+        <div class="title"><span>我的金币</span></div>
+        <div class="mycoin">
+           <span></span>40        </div>
+    </div>
+
+    <div class="item">
+        <div class="title"><span>金币使用</span></div>
+        <div class="c_add">
+            <div class="forum">
+                <span></span><br/>
+                -0金币/次
+            </div>
+            <div class="letter">
+                <span></span><br/>
+                -10金币/次
+            </div>
+        </div>
+    </div>
+
+    <div class="item">
+        <div class="title"><span>获取金币</span></div>
+        <div>
+            <div class="itm" style="border-bottom:1px solid #CBCAC6;padding-bottom:10px;">
+                <div class="tlt">分享帖子或应用</div>
+                <div class="tlt tright">+10金币/次</div>
+                <div class="info">每天分享都将获得10金币，每天封顶50金币</div>
+            </div>
+            <div class="itm">
+                <div class="tlt">邀请成功</div>
+                <div class="tlt tright">+30金币/次</div>
+                <div class="info">用户浏览您分享的内容并下载应用，即邀请成功。
+				</div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
+
+我的回复（带回复评论的）
+http://forum.ushengsheng.com/shop.php?m=ForumCenter&a=getReplyListForMe&page=1&limit=10&ticket_id=7ace93db7ce666453bd6e57b5b658066&platform=iphone&v=5.5.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumCenter
+a	getReplyListForMe
+page	1
+limit	10
+ticket_id	7ace93db7ce666453bd6e57b5b658066
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": [
+            {
+                "id": "635356",
+                "account_id": "86137",
+                "content": "无问题，默默点个赞",
+                "rel_content": "大家好，我是心如，关于ktv有啥问题可以问我",
+                "type": "1",
+                "create_time": "1404981985",
+                "post_cid": "17",
+                "post_id": "130923",
+                "review_id": "2701113",
+                "reply_id": "0",
+                "review_floors": "4",
+                "is_read": "1",
+                "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/86137avatar1389990997.jpg",
+                "nickname": "q562602012",
+                "sex_type": "1",
+                "post_cname": "性性相惜"
+            },
+            {
+                "id": "635351",
+                "account_id": "83335",
+                "content": "加我交流下呗",
+                "rel_content": "交过",
+                "type": "3",
+                "create_time": "1404981947",
+                "post_cid": "17",
+                "post_id": "130923",
+                "review_id": "2699574",
+                "reply_id": "55879",
+                "review_floors": "1",
+                "is_read": "1",
+                "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                "nickname": "文字女加342831545",
+                "sex_type": "1",
+                "post_cname": "性性相惜"
+            },
+            {
+                "id": "634098",
+                "account_id": "1535391",
+                "content": "吃过精子吗？",
+                "rel_content": "大家好，我是心如，关于ktv有啥问题可以问我",
+                "type": "1",
+                "create_time": "1404974331",
+                "post_cid": "17",
+                "post_id": "130923",
+                "review_id": "2700018",
+                "reply_id": "0",
+                "review_floors": "3",
+                "is_read": "1",
+                "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                "nickname": "小变态o",
+                "sex_type": "1",
+                "post_cname": "性性相惜"
+            },
+            {
+                "id": "633828",
+                "account_id": "1061076",
+                "content": "KTV不是唱歌的地方么？",
+                "rel_content": "大家好，我是心如，关于ktv有啥问题可以问我",
+                "type": "1",
+                "create_time": "1404972496",
+                "post_cid": "17",
+                "post_id": "130923",
+                "review_id": "2699767",
+                "reply_id": "0",
+                "review_floors": "2",
+                "is_read": "1",
+                "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/1061076avatar1398665842.jpg",
+                "nickname": "过客eryo",
+                "sex_type": "1",
+                "post_cname": "性性相惜"
+            },
+            {
+                "id": "633638",
+                "account_id": "83335",
+                "content": "你有被肛交过吗",
+                "rel_content": "大家好，我是心如，关于ktv有啥问题可以问我",
+                "type": "1",
+                "create_time": "1404971380",
+                "post_cid": "17",
+                "post_id": "130923",
+                "review_id": "2699574",
+                "reply_id": "0",
+                "review_floors": "1",
+                "is_read": "1",
+                "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                "nickname": "文字女加342831545",
+                "sex_type": "1",
+                "post_cname": "性性相惜"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+查看评论的回复
+
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewInfo&post_id=130923&review_id=2699574&platform=iphone&v=5.5.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+m	ForumReview
+a	getReviewInfo
+post_id	130923
+review_id	2699574
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "id": "2699574",
+            "floors": "1",
+            "account_id": "83335",
+            "content": "你有被肛交过吗",
+            "is_poster": "0",
+            "create_time": "1404971380",
+            "letter_enable": "1",
+            "nickname": "文字女加342831545",
+            "sex_type": "1",
+            "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+            "post_account_id": "1065347"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?m=ForumReply&a=getReplyListInfo&post_id=130923&review_id=2699574&pos=55879&type=mid&platform=iphone&v=5.5.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReply
+a	getReplyListInfo
+post_id	130923
+review_id	2699574
+pos	55879
+type	mid
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "prev_remain_count": "1",
+            "reply_list": [
+                {
+                    "id": "55879",
+                    "is_poster": "0",
+                    "account_id": "83335",
+                    "content": "加我交流下呗",
+                    "create_time": "1404981947",
+                    "at_account_id": "1065347",
+                    "nickname": "文字女加342831545",
+                    "at_nickname": "我是心如"
+                }
+            ],
+            "next_remain_count": "0"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+加载更多回复
+http://forum.ushengsheng.com/shop.php?m=ForumReply&a=getReplyListInfo&post_id=130923&review_id=2699574&pos=55879&type=prev&platform=iphone&v=5.5.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+m	ForumReply
+a	getReplyListInfo
+post_id	130923
+review_id	2699574
+pos	55879
+type	prev
+platform	iphone
+v	5.5.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "prev_remain_count": "0",
+            "reply_list": [
+                {
+                    "id": "55860",
+                    "is_poster": "1",
+                    "account_id": "1065347",
+                    "content": "交过",
+                    "create_time": "1404981315",
+                    "at_account_id": "0",
+                    "nickname": "我是心如",
+                    "at_nickname": null
+                }
+            ],
+            "next_remain_count": "0"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
