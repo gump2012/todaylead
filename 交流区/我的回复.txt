@@ -1,0 +1,1138 @@
+http://forum.ushengsheng.com/shop.php?m=ForumCenter&a=getReplyListForMe&page=1&limit=10&ticket_id=c361580db2f25199e59ed2161a453e67&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumCenter
+a	getReplyListForMe
+page	1
+limit	10
+ticket_id	c361580db2f25199e59ed2161a453e67
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": [
+            {
+                "id": "599729",
+                "account_id": "1419985",
+                "content": "颧骨更性感",
+                "rel_content": "大家好，新人报道”,（帖子标题）
+                "type": "1",
+                "create_time": "1404787309",
+                "post_cid": "17",
+                "post_id": "129289",
+                "review_id": "2672678",
+                "reply_id": "0",
+                "review_floors": "3",
+                "is_read": "1",
+                "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                "nickname": "德性图文",
+                "sex_type": "",
+                "post_cname": "性性相惜"
+            },
+            {
+                "id": "599568",
+                "account_id": "1477450",
+                "content": "这腿太有感觉了",
+                "rel_content": "大家好，新人报道",
+                "type": "1",
+                "create_time": "1404786383",
+                "post_cid": "17",
+                "post_id": "129289",
+                "review_id": "2672520",
+                "reply_id": "0",
+                "review_floors": "2",
+                "is_read": "1",
+                "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                "nickname": "济南的人人",
+                "sex_type": "",
+                "post_cname": "性性相惜"
+            },
+            {
+                "id": "599556",
+                "account_id": "1588384",
+                "content": "喜欢女腿",
+                "rel_content": "大家好，新人报道",
+                "type": "1",
+                "create_time": "1404786320",
+                "post_cid": "17",
+                "post_id": "129289",
+                "review_id": "2672507",
+                "reply_id": "0",
+                "review_floors": "1",
+                "is_read": "1",
+                "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                "nickname": "风淡云轻",
+                "sex_type": "1",
+                "post_cname": "性性相惜"
+            },
+            {
+                "id": "588536",
+                "account_id": "1105907",
+                "content": "凉爽",
+                "rel_content": "咋样感觉",
+                "type": "3",
+                "create_time": "1404734356",
+                "post_cid": "17",
+                "post_id": "128662",
+                "review_id": "2660930",
+                "reply_id": "46527",
+                "review_floors": "3",
+                "is_read": "1",
+                "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/1105907avatar1399605535.png",
+                "nickname": "H黄老邪",
+                "sex_type": "1",
+                "post_cname": "性性相惜"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+查看我的回复（帖子）
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewPostInfo&post_id=129289&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewPostInfo
+post_id	129289
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "id": "129289",
+            "title": "大家好，新人报道",
+            "cid": "17",
+            "cname": "性性相惜",
+            "stamper": "",
+            "create_time": "1404783226"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewListInfo&post_id=129289&pos=2672678&type=mid&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewListInfo
+post_id	129289
+pos	2672678
+type	mid
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "prev_remain_count": "2",
+            "review_list": [
+                {
+                    "id": "2672678",
+                    "floors": "3",
+                    "account_id": "1419985",
+                    "nickname": "德性图文",
+                    "content": "颧骨更性感",
+                    "is_poster": "0",
+                    "create_time": "1404787309",
+                    "letter_enable": "1",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                }
+            ],
+            "next_remain_count": "0"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+回复帖子（直接加到了界面）
+http://forum.ushengsheng.com/shop.php?m=Forum&a=addForumReview
+post
+fid	129289
+content	浣�濂�
+ticket_id	c361580db2f25199e59ed2161a453e67
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+	"info": {
+		"extra": null,
+		"data": {
+			"review_id": "2700266"
+		}
+	},
+	"response_status": "success",
+	"msg": ""
+}
+
+查看帖子
+http://forum.ushengsheng.com/shop.php?m=Forum&a=getForumPostInfoById&fid=129289&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Forum
+a	getForumPostInfoById
+fid	129289
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "detail2g": "_310x310.jpg",
+            "detail3g": "_400x400.jpg",
+            "detailwifi": "_620x10000.jpg"
+        },
+        "data": {
+            "id": "129289",
+            "title": "大家好，新人报道",
+            "cid": "17",
+            "nickname": "gump2014",
+            "account_id": "432422",
+            "content": "大家好哇",
+            "is_multimedia": "1",
+            "create_time": "1404783226",
+            "review_count": "3",
+            "click_count": "0",
+            "letter_enable": "1",
+            "reason": "",
+            "lastreply_time": false,
+            "stamper": "",
+            "sex_type": "2",
+            "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+            "pic_list": [
+                {
+                    "pic_url": "http://img.i1.ushengsheng.com/posts/201407/129289/61f7e8e2e02ceedf3c87f2c99619873a.jpg",
+                    "width": "544",
+                    "height": "960"
+                }
+            ],
+            "cname": "性性相惜"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewsWithReply&post_id=129289&page=1&is_poster=0&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewsWithReply
+post_id	129289
+page	1
+is_poster	0
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "review_remain_count": "0",
+            "review_list": [
+                {
+                    "id": "2672507",
+                    "floors": "1",
+                    "account_id": "1588384",
+                    "nickname": "风淡云轻",
+                    "content": "喜欢女腿",
+                    "is_poster": "0",
+                    "create_time": "1404786320",
+                    "letter_enable": "1",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2672520",
+                    "floors": "2",
+                    "account_id": "1477450",
+                    "nickname": "济南的人人",
+                    "content": "这腿太有感觉了",
+                    "is_poster": "0",
+                    "create_time": "1404786383",
+                    "letter_enable": "1",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2672678",
+                    "floors": "3",
+                    "account_id": "1419985",
+                    "nickname": "德性图文",
+                    "content": "颧骨更性感",
+                    "is_poster": "0",
+                    "create_time": "1404787309",
+                    "letter_enable": "1",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                }
+            ]
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+看第二条帖子回复
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewListInfo&post_id=129289&pos=2672520&type=mid&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewListInfo
+post_id	129289
+pos	2672520
+type	mid
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "prev_remain_count": "1",
+            "review_list": [
+                {
+                    "id": "2672520",
+                    "floors": "2",
+                    "account_id": "1477450",
+                    "nickname": "济南的人人",
+                    "content": "这腿太有感觉了",
+                    "is_poster": "0",
+                    "create_time": "1404786383",
+                    "letter_enable": "1",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2672678",
+                    "floors": "3",
+                    "account_id": "1419985",
+                    "nickname": "德性图文",
+                    "content": "颧骨更性感",
+                    "is_poster": "0",
+                    "create_time": "1404787309",
+                    "letter_enable": "1",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                }
+            ],
+            "next_remain_count": "0"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewPostInfo&post_id=129289&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewPostInfo
+post_id	129289
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "id": "129289",
+            "title": "大家好，新人报道",
+            "cid": "17",
+            "cname": "性性相惜",
+            "stamper": "",
+            "create_time": "1404783226"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+查看帖子
+http://forum.ushengsheng.com/shop.php?m=Forum&a=getForumPostInfoById&fid=129289&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Forum
+a	getForumPostInfoById
+fid	129289
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "detail2g": "_310x310.jpg",
+            "detail3g": "_400x400.jpg",
+            "detailwifi": "_620x10000.jpg"
+        },
+        "data": {
+            "id": "129289",
+            "title": "大家好，新人报道",
+            "cid": "17",
+            "nickname": "gump2014",
+            "account_id": "432422",
+            "content": "大家好哇",
+            "is_multimedia": "1",
+            "create_time": "1404783226",
+            "review_count": "3",
+            "click_count": "0",
+            "letter_enable": "1",
+            "reason": "",
+            "lastreply_time": false,
+            "stamper": "",
+            "sex_type": "2",
+            "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+            "pic_list": [
+                {
+                    "pic_url": "http://img.i1.ushengsheng.com/posts/201407/129289/61f7e8e2e02ceedf3c87f2c99619873a.jpg",
+                    "width": "544",
+                    "height": "960"
+                }
+            ],
+            "cname": "性性相惜"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewsWithReply&post_id=129289&page=1&is_poster=0&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewsWithReply
+post_id	129289
+page	1
+is_poster	0
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "review_remain_count": "0",
+            "review_list": [
+                {
+                    "id": "2672507",
+                    "floors": "1",
+                    "account_id": "1588384",
+                    "nickname": "风淡云轻",
+                    "content": "喜欢女腿",
+                    "is_poster": "0",
+                    "create_time": "1404786320",
+                    "letter_enable": "1",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2672520",
+                    "floors": "2",
+                    "account_id": "1477450",
+                    "nickname": "济南的人人",
+                    "content": "这腿太有感觉了",
+                    "is_poster": "0",
+                    "create_time": "1404786383",
+                    "letter_enable": "1",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2672678",
+                    "floors": "3",
+                    "account_id": "1419985",
+                    "nickname": "德性图文",
+                    "content": "颧骨更性感",
+                    "is_poster": "0",
+                    "create_time": "1404787309",
+                    "letter_enable": "1",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                }
+            ]
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+查看评论的回复
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewInfo&post_id=128662&review_id=2660930&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewInfo
+post_id	128662
+review_id	2660930
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "id": "2660930",
+            "fid": "128662",
+            "floors": "3",
+            "account_id": "1105907",
+            "nickname": "H黄老邪",
+            "content": "刮了看起来更长，没啥坏处就刮次试试",
+            "is_poster": "0",
+            "status": "1",
+            "is_admin": "1",
+            "create_time": "1404714760",
+            "platform_id": "0",
+            "appversion": "",
+            "appcode": "",
+            "network": "0",
+            "token": null,
+            "pass_time": null,
+            "letter_enable": "1",
+            "sex_type": "1",
+            "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/1105907avatar1399605535.png",
+            "post_account_id": "1574066"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?m=ForumReply&a=getReplyListInfo&post_id=128662&review_id=2660930&pos=46527&type=mid&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReply
+a	getReplyListInfo
+post_id	128662
+review_id	2660930
+pos	46527
+type	mid
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "prev_remain_count": "0",
+            "reply_list": null,
+            "next_remain_count": "0"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+回复评论（也是界面直接显示）
+http://forum.ushengsheng.com/shop.php?m=ForumReply&a=addReply
+
+reply_json	{"post_id":"128662","review_id":"2660930","reply_id":"0","account_id":"0","content":"楗垮�����"}
+ticket_id	c361580db2f25199e59ed2161a453e67
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+	"info": {
+		"extra": null,
+		"data": {
+			"reply_id": "55679"
+		}
+	},
+	"response_status": "success",
+	"msg": ""
+}
+
+查看帖子
+http://forum.ushengsheng.com/shop.php?m=Forum&a=getForumPostInfoById&fid=128662&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Forum
+a	getForumPostInfoById
+fid	128662
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "detail2g": "_310x310.jpg",
+            "detail3g": "_400x400.jpg",
+            "detailwifi": "_620x10000.jpg"
+        },
+        "data": {
+            "id": "128662",
+            "title": "男人必看教程刮or不刮？怎么刮？精确到毫米级别的刮毛指南",
+            "nickname": "王叔叔好",
+            "cid": "17",
+            "account_id": "1574066",
+            "content": "关于shave这件事，也就是刮阴毛。大家总是众说纷纭，问过的医生的看法是，这个随个人喜好并且刮的话注意不要刮伤。关于刮还是不刮，大家可以根据以下优缺点自行比较： <br/>\r\n\r\n\r\n\r\n剃毛的优点： <br/>\r\n1. 好清洁，预防阴虱，这点是经过了医学界明确证明的好处。 <br/>\r\n2. 啪啪的时候防止体毛带入刮伤阴道。 <br/>\r\n3.BJ的时候更方便，伴侣感觉更清爽。 <br/>\r\n4.减轻体味。 <br/>\r\n5.啪啪更敏感。 <br/>\r\n6. 对于女性来说，可以防止来大姨妈的时候血块粘结或者粘在卫生巾背面一拽生疼。 <br/>\r\n7. 对于男性来说，显得JJ更长。 <br/>\r\n\r\n\r\n\r\n剃毛的缺点： <br/>\r\n1. 工作量很大，至少每周一次，有点麻烦。 <br/>\r\n2. 有受伤感染的风险，不小心会得毛囊炎。 <br/>\r\n3.新长出来的毛茬有点扎。 <br/>\r\n4. 部分人的体毛会越剃越硬。 <br/>\r\n5. 手法不当会造成体毛越长越凌乱的情况。 <br/>\r\n\r\n\r\n\r\n其实剔毛的缺点多数是可以通过科学的剃毛来规避的，当然卫生的操作免不了增加一些麻烦，在我看来剃毛最大的缺点就是麻烦了。其实Shave也分两种，修剪和剃光。无论哪一种，剃毛都应当在洗澡后进行，私处应当用专用清洗剂或者PH值中性的沐浴露清洁，这里强调是外部清洁，不是灌洗。剃毛工作可以坐在马桶上进行，但是不要忘记在操作之前给用酒精擦一下马桶垫圈。 <br/>\r\n\r\n\r\n\r\n修剪的工具一般用剪刀，修眉、理发的剪刀都可以，剪刀最好是平头，以免受伤，要求是专物专用，用前用后酒精消毒。细节处理可以用修眉刀或者普通剃毛刀，卫生要求一样。 <br/>\r\n<br/>\r\n\r\n\r\n修剪的时候要顺着毛发生长的方向斜着剪，这样让毛发末梢比较细，更容易整齐地贴在身上。为了能修整出比较漂亮的形状，修前应吧毛发基本擦干。留的长度应当在0.5厘米-1厘米之间为宜，太短容易感觉扎，太长则失去了修剪的意义。修剪完毕用清水冲干净毛茬，以免带入体内。 \r\n\r\n\r\n\r\n相比修剪，剃光看似省事但卫生要求更高，也更容易出现各种不适症状。 <br/>\r\n\r\n剃光的工具一般是剃毛刀，不推荐使用修眉刀，因为不好操作而且刀不够快。T型的剃毛刀就行，刀头尽量要小，这样操作更灵活，刀片层数不需要太多，两层三层的就足够，三层以上就不需要了。刀并不是用到钝了才换，用到缝隙里卡满毛发且冲洗不干净的时候就应当更换，因为卡在里面的毛发滋生细菌很厉害，容易诱发毛囊炎。每次使用之前，要用少量酒精冲洗刀头，敏感皮肤应该等酒精自然挥发干净之后使用。 \r\n\r\n\r\n\r\n剃毛的操作应当轻柔，并配合适当的润滑镇定剂来减轻对皮肤的压力。理想的润滑剂是剃毛专用的Anti-bump凝胶，里面有杀菌消炎的成分，凝胶质地非常润滑，但是有部分人会对里面的杀菌成分感觉刺激（很多时候是酒精）。其实在私处清洁到位并且刀具消毒的前提下，芦荟胶是一种很好的剃毛润滑剂，透明润滑并且有消炎作用。最好使用在药店买的可以用在伤口上的芦荟胶以确保不会刺激到私处。具体方法是，在要剃毛的部位厚厚的抹上一层芦荟胶，然后尽量轻地顺着毛发方向刮，基本上一下是刮不干净的，可以先刮短，再抹一边芦荟胶再刮第二次，直到刮干净为止。顺着毛发生长的方向刮非常重要，要有耐心，刮的过程中经常冲洗刀头，这样慢慢刮之后长出来会更整齐，第二次就会更好刮。不管男女，阴部皮肤都不是特别平整，一定要抻开了刮。关于菊花附近自己看不见的地方，原则是看不见的最好别下刀，实在想下刀可以求助伴侣，嗯，这也算是种SM的情趣啊。。。（超好玩我会乱说）。。刮完之后用温水冲洗干净毛茬，擦干后抹上芦荟胶。略微让芦荟胶吸收一下，刚刮完建议穿棉质内裤。 <br/>\r\n\r\n\r\n\r\n剃毛的禁忌：剃毛后尽量不要穿太紧又厚实又不透气的裤子，如果想痒出翔可以尝试穿那种所谓的保暖打底裤或者塑身秋裤。。。。给你非凡感受。嗯！ <br/>\r\n\r\n总之，注意卫生，have fun！ <br/>",
+            "stamper": "http://xingjiabi.b0.upaiyun.com/ffbbf98ea91506590881956eeff7b0c6.jpg",
+            "is_multimedia": "1",
+            "create_time": "1404713616",
+            "examine_time": "1404713616",
+            "is_examine": "0",
+            "is_admin": "1",
+            "is_anonymity": "0",
+            "platform_id": "0",
+            "appversion": "",
+            "appcode": "",
+            "network": "0",
+            "token": null,
+            "reason": null,
+            "show_time": null,
+            "letter_enable": "1",
+            "is_recommend": "0",
+            "pic_list": [
+                {
+                    "id": "235096",
+                    "fid": "128662",
+                    "pic_url": "http://xingjiabi.b0.upaiyun.com/misc/53ba3a8b5ebb9.jpg",
+                    "img_url": "http://img.i1.ushengsheng.com/misc/53ba3a8b5ebb9.jpg",
+                    "width": "358",
+                    "height": "238",
+                    "img_data": null,
+                    "sort": "0"
+                }
+            ],
+            "review_count": "15",
+            "lastreply_time": "1404714818",
+            "sex_type": "1",
+            "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/53ba119bb54eb.png",
+            "cname": "性性相惜"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewsWithReply&post_id=128662&page=1&is_poster=0&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewsWithReply
+post_id	128662
+page	1
+is_poster	0
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "review_remain_count": "0",
+            "review_list": [
+                {
+                    "id": "2660749",
+                    "fid": "128662",
+                    "floors": "1",
+                    "account_id": "1574066",
+                    "nickname": "王叔叔好",
+                    "content": "兄弟们我先刮为敬",
+                    "is_poster": "1",
+                    "status": "1",
+                    "is_admin": "1",
+                    "create_time": "1404713701",
+                    "platform_id": "0",
+                    "appversion": "",
+                    "appcode": "",
+                    "network": "0",
+                    "token": null,
+                    "pass_time": null,
+                    "letter_enable": "1",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/53ba119bb54eb.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2660930",
+                    "fid": "128662",
+                    "floors": "3",
+                    "account_id": "1105907",
+                    "nickname": "H黄老邪",
+                    "content": "刮了看起来更长，没啥坏处就刮次试试",
+                    "is_poster": "0",
+                    "status": "1",
+                    "is_admin": "1",
+                    "create_time": "1404714760",
+                    "platform_id": "0",
+                    "appversion": "",
+                    "appcode": "",
+                    "network": "0",
+                    "token": null,
+                    "pass_time": null,
+                    "letter_enable": "1",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/1105907avatar1399605535.png",
+                    "reply_list": [
+                        {
+                            "id": "46101",
+                            "is_poster": "0",
+                            "account_id": "432422",
+                            "content": "咋样感觉",
+                            "create_time": "1404723695",
+                            "at_account_id": "0",
+                            "nickname": "gump2014",
+                            "at_nickname": ""
+                        },
+                        {
+                            "id": "55679",
+                            "is_poster": "0",
+                            "account_id": "432422",
+                            "content": "饿呜呜",
+                            "create_time": "1404976860",
+                            "at_account_id": "0",
+                            "nickname": "gump2014",
+                            "at_nickname": ""
+                        }
+                    ],
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2660941",
+                    "fid": "128662",
+                    "floors": "4",
+                    "account_id": "1573768",
+                    "nickname": "小苏三",
+                    "content": "第六条说的太好了，大姨妈期间粘的难受死了，我也刮",
+                    "is_poster": "0",
+                    "status": "1",
+                    "is_admin": "1",
+                    "create_time": "1404714818",
+                    "platform_id": "0",
+                    "appversion": "",
+                    "appcode": "",
+                    "network": "0",
+                    "token": null,
+                    "pass_time": null,
+                    "letter_enable": "1",
+                    "sex_type": "2",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/53ba094ef0c36.jpg",
+                    "reply_list": [
+                        {
+                            "id": "45737",
+                            "is_poster": "0",
+                            "account_id": "964568",
+                            "content": "姑娘是条汉子",
+                            "create_time": "1404714891",
+                            "at_account_id": "0",
+                            "nickname": "性价比小编-老中医",
+                            "at_nickname": ""
+                        },
+                        {
+                            "id": "47800",
+                            "is_poster": "0",
+                            "account_id": "1420337",
+                            "content": "要我帮你不",
+                            "create_time": "1404751649",
+                            "at_account_id": "0",
+                            "nickname": "敢不敢就一晚",
+                            "at_nickname": ""
+                        }
+                    ],
+                    "remain_reply_num": "5"
+                },
+                {
+                    "id": "2662333",
+                    "floors": "7",
+                    "account_id": "1504059",
+                    "content": "刮后舒服，我都刮了好多年了。不过就是要持续，不然长了会感觉不舒服",
+                    "is_poster": "0",
+                    "create_time": "1404722415",
+                    "letter_enable": "1",
+                    "nickname": "妇科男医生",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": [
+                        {
+                            "id": "46526",
+                            "is_poster": "0",
+                            "account_id": "1105907",
+                            "content": "交流哈",
+                            "create_time": "1404734345",
+                            "at_account_id": "0",
+                            "nickname": "H黄老邪",
+                            "at_nickname": ""
+                        }
+                    ],
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2664319",
+                    "floors": "9",
+                    "account_id": "1507903",
+                    "content": "有北京或者浙江的妹纸吗？本人26岁小伙，不扰生活，绝不纠缠，长得还行，也喜欢干净卫生，比较善解人意，想要的请加微信724386690（名字孤独…）黑人和没素质的就不要来打扰了，谢谢～无聊可以聊天的",
+                    "is_poster": "0",
+                    "create_time": "1404736544",
+                    "letter_enable": "1",
+                    "nickname": "因为你，所以美",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": [
+                        {
+                            "id": "49180",
+                            "is_poster": "0",
+                            "account_id": "1573668",
+                            "content": "莪的是326640482",
+                            "create_time": "1404799491",
+                            "at_account_id": "0",
+                            "nickname": "容你碰莪",
+                            "at_nickname": ""
+                        }
+                    ],
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2668752",
+                    "floors": "12",
+                    "account_id": "1467417",
+                    "content": "我也刮了，确实显的鸡鸡长了不少",
+                    "is_poster": "0",
+                    "create_time": "1404751396",
+                    "letter_enable": "1",
+                    "nickname": "交换私照",
+                    "sex_type": "",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2670911",
+                    "floors": "14",
+                    "account_id": "1477814",
+                    "content": "到底能不能刮",
+                    "is_poster": "0",
+                    "create_time": "1404772688",
+                    "letter_enable": "1",
+                    "nickname": "狗蛋大兵",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                },
+                {
+                    "id": "2677590",
+                    "floors": "15",
+                    "account_id": "922637",
+                    "content": "我也偶尔剪短点 不过挺喜欢",
+                    "is_poster": "0",
+                    "create_time": "1404822372",
+                    "letter_enable": "1",
+                    "nickname": "低调中奋进",
+                    "sex_type": "1",
+                    "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/922637avatar1396970407.jpg",
+                    "reply_list": null,
+                    "remain_reply_num": "0"
+                }
+            ]
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+查看下帖子中的评论
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewInfo&post_id=128662&review_id=2660930&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewInfo
+post_id	128662
+review_id	2660930
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "id": "2660930",
+            "fid": "128662",
+            "floors": "3",
+            "account_id": "1105907",
+            "nickname": "H黄老邪",
+            "content": "刮了看起来更长，没啥坏处就刮次试试",
+            "is_poster": "0",
+            "status": "1",
+            "is_admin": "1",
+            "create_time": "1404714760",
+            "platform_id": "0",
+            "appversion": "",
+            "appcode": "",
+            "network": "0",
+            "token": null,
+            "pass_time": null,
+            "letter_enable": "1",
+            "sex_type": "1",
+            "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/1105907avatar1399605535.png",
+            "post_account_id": "1574066"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?m=ForumReply&a=getReplyList&post_id=128662&review_id=2660930&page=1&limit=10&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReply
+a	getReplyList
+post_id	128662
+review_id	2660930
+page	1
+limit	10
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "reply_list": [
+                {
+                    "id": "46101",
+                    "is_poster": "0",
+                    "account_id": "432422",
+                    "content": "咋样感觉",
+                    "create_time": "1404723695",
+                    "at_account_id": "0",
+                    "nickname": "gump2014",
+                    "at_nickname": ""
+                },
+                {
+                    "id": "55679",
+                    "is_poster": "0",
+                    "account_id": "432422",
+                    "content": "饿呜呜",
+                    "create_time": "1404976860",
+                    "at_account_id": "0",
+                    "nickname": "gump2014",
+                    "at_nickname": ""
+                }
+            ],
+            "remain_reply_num": "0"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+查看评论的回复
+http://forum.ushengsheng.com/shop.php?m=ForumReview&a=getReviewInfo&post_id=128662&review_id=2660930&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReview
+a	getReviewInfo
+post_id	128662
+review_id	2660930
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "id": "2660930",
+            "fid": "128662",
+            "floors": "3",
+            "account_id": "1105907",
+            "nickname": "H黄老邪",
+            "content": "刮了看起来更长，没啥坏处就刮次试试",
+            "is_poster": "0",
+            "status": "1",
+            "is_admin": "1",
+            "create_time": "1404714760",
+            "platform_id": "0",
+            "appversion": "",
+            "appcode": "",
+            "network": "0",
+            "token": null,
+            "pass_time": null,
+            "letter_enable": "1",
+            "sex_type": "1",
+            "avatar": "http://xingjiabi.b0.upaiyun.com/images/avatar/1105907avatar1399605535.png",
+            "post_account_id": "1574066"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://forum.ushengsheng.com/shop.php?m=ForumReply&a=getReplyListInfo&post_id=128662&review_id=2660930&pos=46527&type=mid&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	ForumReply
+a	getReplyListInfo
+post_id	128662
+review_id	2660930
+pos	46527
+type	mid
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "prev_remain_count": "0",
+            "reply_list": [
+                {
+                    "id": "55679",
+                    "is_poster": "0",
+                    "account_id": "432422",
+                    "content": "饿呜呜",
+                    "create_time": "1404976860",
+                    "at_account_id": "0",
+                    "nickname": "gump2014",
+                    "at_nickname": null
+                }
+            ],
+            "next_remain_count": "0"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
