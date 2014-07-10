@@ -1,0 +1,413 @@
+查看个人资料
+http://xjb.ushengsheng.com/shop.php?m=Accounts&a=getAccountInfoByUser&ticket_id=c361580db2f25199e59ed2161a453e67&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Accounts
+a	getAccountInfoByUser
+ticket_id	c361580db2f25199e59ed2161a453e67
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "account_id": "432422",
+            "email": "13646426253",
+            "account_name": "gump2014",
+            "sex_type": "2",
+            "account_coin": "10",
+            "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+提交头像
+
+http://xjb.ushengsheng.com/shop.php?m=Accounts&a=setAccountInfoByUser
+post
+
+avatar_json	[".jpg","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"]
+ticket_id	c361580db2f25199e59ed2161a453e67
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": null
+    },
+    "response_status": "success",
+    "msg": "更新图像成功，等待审核"
+}
+
+提交性别
+http://xjb.ushengsheng.com/shop.php?m=Accounts&a=setAccountInfoByUser
+post
+sex	2
+ticket_id	c361580db2f25199e59ed2161a453e67
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+	"info": {
+		"extra": null,
+		"data": null
+	},
+	"response_status": "success",
+	"msg": ""
+}
+
+http://xjb.ushengsheng.com/shop.php?m=Accounts&a=getAccountInfoByUser&ticket_id=c361580db2f25199e59ed2161a453e67&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Accounts
+a	getAccountInfoByUser
+ticket_id	c361580db2f25199e59ed2161a453e67
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "account_id": "432422",
+            "email": "13646426253",
+            "account_name": "gump2014",
+            "sex_type": "2",
+            "account_coin": "10",
+            "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+注册
+http://xjb.ushengsheng.com/shop.php?m=Accounts&a=accountReg
+post
+nickname	��哄痉���
+email	18661630138
+password	d8406e8445cc99a16ab984cc28f6931615c766fc
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+{
+    "info": {
+        "extra": null,
+        "data": null
+    },
+    "response_status": "account_email_exists",
+    "msg": "账号会员已存在"
+}
+
+http://xjb.ushengsheng.com/shop.php?m=Accounts&a=accountReg
+post
+nickname	��哄痉���
+email	18661630137
+password	d8406e8445cc99a16ab984cc28f6931615c766fc
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "ticket_id": "a07c00d4bb2e5f4c51079e3bc3aeab4e",
+            "account_id": "1615819"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+成功后
+http://xjb.ushengsheng.com/shop.php?m=Accounts&a=getAccountInfoByUser&ticket_id=a07c00d4bb2e5f4c51079e3bc3aeab4e&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Accounts
+a	getAccountInfoByUser
+ticket_id	a07c00d4bb2e5f4c51079e3bc3aeab4e
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "account_id": "1615819",
+            "email": "18661630137",
+            "account_name": "基德曼",
+            "sex_type": null,
+            "account_coin": "20",
+            "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://xjb.ushengsheng.com/shop.php?m=User&a=syncUserData&ticket_id=a07c00d4bb2e5f4c51079e3bc3aeab4e&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	User
+a	syncUserData
+ticket_id	a07c00d4bb2e5f4c51079e3bc3aeab4e
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+	"info": {
+		"extra": null,
+		"data": null
+	},
+	"response_status": "success",
+	"msg": ""
+}
+
+http://xjb.ushengsheng.com/shop.php?m=Cart&a=getGoodsList&ticket_id=a07c00d4bb2e5f4c51079e3bc3aeab4e&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Cart
+a	getGoodsList
+ticket_id	a07c00d4bb2e5f4c51079e3bc3aeab4e
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+	"info": {
+		"extra": null,
+		"data": null
+	},
+	"response_status": "success",
+	"msg": "cart is empty"
+}
+
+登陆
+http://xjb.ushengsheng.com/shop.php?m=Accounts&a=accountLogin
+post
+email	18661630137
+password	d8406e8445cc99a16ab984cc28f6931615c766fc
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "ticket_id": "0a4d713e976f3da9c2394bf4af6cc6c8",
+            "nickname": "基德曼",
+            "account_id": "1615819",
+            "sex_type": null,
+            "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+登陆成功后
+http://xjb.ushengsheng.com/shop.php?m=User&a=syncUserData&ticket_id=0a4d713e976f3da9c2394bf4af6cc6c8&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+m	User
+a	syncUserData
+ticket_id	0a4d713e976f3da9c2394bf4af6cc6c8
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+	"info": {
+		"extra": null,
+		"data": null
+	},
+	"response_status": "success",
+	"msg": ""
+}
+
+http://xjb.ushengsheng.com/shop.php?m=Accounts&a=getAccountInfoByUser&ticket_id=0a4d713e976f3da9c2394bf4af6cc6c8&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Accounts
+a	getAccountInfoByUser
+ticket_id	0a4d713e976f3da9c2394bf4af6cc6c8
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": {
+            "account_id": "1615819",
+            "email": "18661630137",
+            "account_name": "基德曼",
+            "sex_type": null,
+            "account_coin": "20",
+            "avatar": "http://xingjiabi.b0.upaiyun.com/avatar/41b236cdf70c6e0ac9acb1403a04a688.png"
+        }
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://xjb.ushengsheng.com/shop.php?m=Cart&a=getGoodsList&ticket_id=0a4d713e976f3da9c2394bf4af6cc6c8&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Cart
+a	getGoodsList
+ticket_id	0a4d713e976f3da9c2394bf4af6cc6c8
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+	"info": {
+		"extra": null,
+		"data": null
+	},
+	"response_status": "success",
+	"msg": "cart is empty"
+}
+
+我的订单
+
+http://xjb.ushengsheng.com/shop.php?m=User&a=getMyOrderList&ticket_id=0a4d713e976f3da9c2394bf4af6cc6c8&page=1&limit=15&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	User
+a	getMyOrderList
+ticket_id	0a4d713e976f3da9c2394bf4af6cc6c8
+page	1
+limit	15
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+	"info": {
+		"extra": {
+			"thumb_size": "_100x100.jpg"
+		},
+		"data": null
+	},
+	"response_status": "success",
+	"msg": ""
+}
+
+我的喜欢
+
+http://xjb.ushengsheng.com/shop.php?m=user&a=getUserFavoriteGoods&type=shop&ticket_id=0a4d713e976f3da9c2394bf4af6cc6c8&limit=200&page=1&platform=iphone&v=5.5.0&place=appstore&token=7e8ea14fcabf9cdcdd2f69a04e64e0d7&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	user
+a	getUserFavoriteGoods
+type	shop
+ticket_id	0a4d713e976f3da9c2394bf4af6cc6c8
+limit	200
+page	1
+platform	iphone
+v	5.5.0
+place	appstore
+token	7e8ea14fcabf9cdcdd2f69a04e64e0d7
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+	"info": {
+		"extra": {
+			"grid2g": "_80x80.jpg",
+			"grid3g": "_160x160.jpg",
+			"gridwifi": "_250x250.jpg"
+		},
+		"data": null
+	},
+	"response_status": "success",
+	"msg": ""
+}
