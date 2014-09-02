@@ -1,0 +1,124 @@
+╓╨╟я╗ю╢п
+http://xjbdocs.b0.upaiyun.com/post/zhongqiu/ios829.html?platform=iphone&v=6.0.0&place=appstore&token=3614d23991ccbffe7f697a32d979b783&alias=xjb&appcode=1&width=640&height=960&network=2
+
+get
+
+platform	iphone
+v	6.0.0
+place	appstore
+token	3614d23991ccbffe7f697a32d979b783
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="yes" name="apple-touch-fullscreen"/>
+<meta content="telephone=no,email=no" name="format-detection"/>
+<title>╓╨╟я╫и╠т</title>
+<meta name="keywords" content=" " />
+<meta name="description" content=" " />
+<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no" />
+<link type="text/css" rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+<div class="banner"><img src="images/banner.jpg" /></div>
+<div class="box">
+	<a name="n1" id="n1"></a>
+	<h3><img alt="╠╫╠╫╠ь╠├" src="images/title1.jpg" /></h3>
+	<ul class="clearfix">
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1089"><img src="images/TT1.jpg" alt="" /><span class="title">╔╨┼╞╩▒╔╨ ▒у╨п╚¤╞м╫░(╘▓║╨╫░)</span><span class="value"><b>гд3.50</b><s>гд9.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1089"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=426"><img src="images/TT3.jpg" alt="" /><span class="title">▒╢┴ж└╓╓┬├№╠Ї╢║┤╠╠╫╧╡┴╨  ┤╠╝д╕№╢р╘к╦╪</span><span class="value"><b>гд8.00</b><s>гд32.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=426"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=143"><img src="images/TT4.jpg" alt="" /><span class="title">╒¤╞╖╕╘▒╛╩┌╚иskin╧╡└р10╓╗╫░</span><span class="value"><b>гд17.00</b><s>гд45.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=143"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=963"><img src="images/TT5.jpg" alt="" /><span class="title">├√┴ў24╓╗╝д╟щ┴∙║╧╥╗│м▒б▒▄╘╨╠╫ │м╦м│м┤╠╝д</span><span class="value"><b>гд17.00</b><s>гд69.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=963"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=13"><img src="images/TT6.jpg" alt="" /><span class="title">╢┼└┘╦╣│╓╛├╫░3╓╗/8╓╗/12╓╗ ╙╨╨з╤╙│┘─╨╨╘╕▀│▒</span><span class="value"><b>гд23.00</b><s>гд57.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=13"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=30"><img src="images/TT8.jpg" alt="" /><span class="title">╔╨┼╞8║╧╥╗░┘▒ф24╓╗╫░╥╗╣▐╢р╤∙ ├ю▓╗┐╔╤╘</span><span class="value"><b>гд23.00</b><s>гд59.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=30"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=254"><img src="images/TT2.jpg" alt="" /><span class="title">╕╘▒╛OK ╝л╚є10╓╗╫░░▓╚л╠╫ ╦о╤∙╓╩╡╪ ╙╞╗ю╨╘░о</span><span class="value"><b>гд29.00</b><s>гд69.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=254"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=405"><img src="images/TT7.jpg" alt="" /><span class="title">╢┼└┘╦╣╜Ї╨═╫░12╓╗░▓╚л╠╫ │м╜Ї╠∙│м├Ї╕╨</span><span class="value"><b>гд30.00</b><s>гд65.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=405"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+	</ul> 
+	<div class="more">
+		<a href="ushengsheng.xjb://xingjiabi?m=topic&a=shop&tl=│м│д│╓╛├&id=17"><img alt="more" src="images/more1.jpg" /></a>
+	</div>
+</div>
+<div class="box">
+	<a name="n2" id="n2"></a>
+	<h3><img alt="╟щ╚д─┌╥┬" src="images/title2.jpg" /></h3>
+	<ul class="clearfix">
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=501"><img src="images/NY1.jpg" alt="" /><span class="title">╨╘╕╨└┘╦┐╗и▒▀▒▀╡ї┤°╙╒╗є╦п╥┬</span><span class="value"><b>гд17.00</b><s>гд38.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=501"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1123"><img src="images/NY2.jpg" alt="" /><span class="title">╝д╟щ┐к╡╡├т═╤┴м╠х═°╥┬а ╨╘╕╨╟щ╚д═╕├ў─┌╥┬</span><span class="value"><b>гд25.00</b><s>гд58.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1123"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1021"><img src="images/NY3.jpg" alt="" /><span class="title">selebritee  ╝┘╡ї═р┤°┴м ╔э═р</span><span class="value"><b>гд38.00</b><s>гд76.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1021"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=366"><img src="images/NY4.jpg" alt="" /><span class="title">╥╣╡ъ╖чгб░№═╬╜Ї╔э┬╢▒│ ▓р┬йOL╙╬╨╘╕╨╠╫╫░</span><span class="value"><b>гд38.00</b><s>гд98.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=366"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+        <li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=923"><img src="images/NY5.jpg" alt="" /><span class="title">░є┤°╩╜ё▐╓х╨▐╔э░№═╬╥╣ ╡ъ╓╞╖■╨╘╕╨╢╠╚╣╫░</span><span class="value"><b>гд39.00</b><s>гд68.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=923"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1120"><img src="images/NY6.jpg" alt="" /><span class="title">╛├─╜╤┼ўь╔юV╗и▒▀═°╔┤ ╒┌╞ъ╨╘╕╨─┌╥┬ ┬у▒│</span><span class="value"><b>гд39.00</b><s>гд73.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1120"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1191"><img src="images/NY7.jpg" alt="" /><span class="title">╟щ╚д─┌╥┬╨╘╕╨╓╞╖■╙╒╗є╜╟╔л░ч╤▌╦┐═р╗д╩┐╖■</span><span class="value"><b>гд48.00</b><s>гд89.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1191"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1122"><img src="images/NY8.jpg" alt="" /><span class="title">╙┼╤┼╨╘╕╨├╘╚╦╢р╝■╠╫╫░ ╦п╚╣ ╕▀╡╡└┘╦┐═°╔┤</span><span class="value"><b>гд58.00</b><s>гд106.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1122"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+	</ul> 
+	<div class="more">
+		<a href="ushengsheng.xjb://xingjiabi?m=topic&a=shop&tl=┼о╚╦╡─╦╜├▄╥┬╣ё&id=6"><img alt="more" src="images/more1.jpg" /></a>
+	</div>
+</div>
+<div class="box">
+	<a name="n3" id="n3"></a>
+	<h3><img alt="─╨┼о╞ў╛▀" src="images/title3.jpg" /></h3>
+	<ul class="clearfix">
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=854"><img src="images/QJ1.jpg" alt="" /><span class="title">─╨╙├╓·▓к╤╙╩▒│╓╛├╖└╘ч ╨╣ ╚б╘├╒Ё╢п╦°╛л╗╖</span><span class="value"><b>гд15.00</b><s>гд32.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=854"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=171"><img src="images/QJ2.jpg" alt="" /><span class="title">╞╖╔л╣·╝╩╡█═ї╓о╞ў360 ╢╚╒¤╖┤╨¤╫к╫к╓щ░Ї</span><span class="value"><b>гд88.00</b><s>гд150.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=171"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1143"><img src="images/QJ3.jpg" alt="" /><span class="title">╡ъ│д═╞╝Ў ║┌▒к ╤╙╩▒┼ч╝┴ ╥║═т╙├│╓╛├╖└╘ч╨╣</span><span class="value"><b>гд99.00</b><s>гд198.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1143"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=803"><img src="images/QJ4.jpg" alt="" /><span class="title">┬■├ь║┌░╫╓й╓ы ╬№╕╜╩╜╖╔ ╗·▒н ▒▀┐┤▒▀═ц3D╣·─г</span><span class="value"><b>гд158.00</b><s>гд299.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=803"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1036"><img src="images/QJ5.jpg" alt="" /><span class="title">├√─г┬╢┬╢╥╗▒╚╥╗╒ц╚╦╥ї ═╬╡╣─г├√╞ў</span><span class="value"><b>гд168.00</b><s>гд299.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1036"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=231"><img src="images/QJ6.jpg" alt="" /><span class="title">├└╣·Key Stella╦ї╥ї╢═ ┴╢╟Є ╦ї╥ї╛л╞╖</span><span class="value"><b>гд199.00</b><s>гд399.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=231"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1265"><img src="images/QJ7.jpg" alt="" /><span class="title">╒¤╞╖VIBMAX-G╡у┐┘ ╢п╨═╒Ё╢п░Ї ░┤─ж░Ї</span><span class="value"><b>гд229.00</b><s>гд399.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1265"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1144"><img src="images/QJ8.jpg" alt="" /><span class="title">ў╚╢п╨бV ╓╟─▄╠°╡░ ╚л╟Є ╩╫┐ю └╢╤└╣ж─▄</span><span class="value"><b>гд258.00</b><s>гд399.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1144"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+	</ul> 
+	<div class="more">
+		<a href="ushengsheng.xjb://xingjiabi?m=topic&a=shop&tl=╒╞┐╪┐ь╕╨&id=3"><img alt="more" src="images/more1.jpg" /></a>
+	</div>
+</div>
+<div class="box">
+	<a name="n4" id="n4"></a>
+	<h3><img alt="╡ў╟щ╓·╨╦" src="images/title4.jpg" /></h3>
+	<ul class="clearfix">
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1065"><img src="images/ZX1.jpg" alt="" /><span class="title">╟х╧┤╥║╧√╢╛╥║╔▒╛·╝┴</span><span class="value"><b>гд19.00</b><s>гд25.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1065"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=330"><img src="images/ZX2.jpg" alt="" /><span class="title">╓щ┴кш╡║╧</span><span class="value"><b>гд19.00</b><s>гд30.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=330"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=999"><img src="images/ZX3.jpg" alt="" /><span class="title">┤┼┴╞░№╞д╫ш╕┤╗╖</span><span class="value"><b>гд39.00</b><s>гд49.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=999"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1232"><img src="images/ZX4.jpg" alt="" /><span class="title">╫╘╚╗╚є╗м╥║</span><span class="value"><b>гд99.00</b><s>гд135.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1232"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1233"><img src="images/ZX5.jpg" alt="" /><span class="title">╠ь╚╗╙╨╗·┤▀╙√─¤╜║</span><span class="value"><b>гд139.00</b><s>гд169.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1233"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1264"><img src="images/ZX6.jpg" alt="" /><span class="title">└Ў┤┐├└╚щ╦к</span><span class="value"><b>гд238.00</b><s>гд268.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1264"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1231"><img src="images/ZX7.jpg" alt="" /><span class="title">╝д╟щ┐с░о╖╤┬ч├╔</span><span class="value"><b>гд258.00</b><s>гд298.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1231"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+		<li><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1263"><img src="images/ZX8.jpg" alt="" /><span class="title">╦╜┤ж╖█─█╨▐╕┤╥║</span><span class="value"><b>гд298.00</b><s>гд328.00</s></span></a><a href="ushengsheng.xjb://xingjiabi?m=shop&a=detail&id=1263"><span class="btn-buy"><i>┴в╝┤╟└╣║</i></span></a></li>
+	</ul> 
+	<div class="more">
+		<a href="ushengsheng.xjb://xingjiabi?m=topic&a=shop&tl=╡ў╟щ╓·╨╦&id=21"><img alt="more" src="images/more2.jpg" /></a>
+	</div>
+</div>
+<footer><img src="images/footer.jpg" /></footer>
+<div class="fixnav">
+	<ul class="clearfix">
+		<li><a href="#n1">╠╫╠╫╠ь╠├</a></li>
+		<li><a href="#n2">╟щ╚д─┌╥┬</a></li>
+		<li><a href="#n3">─╨┼о╞ў╛▀</a></li>
+		<li><a href="#n4">╡ў╟щ╓·╨╦</a></li>
+		<li><a href="#" class="btn-totop">&nbsp;</a></li>		
+	</ul>
+</div>
+<script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript">
+$('.fixnav a').click(function(e) {  
+	var n=$(this).attr("href").split("#")[1];
+	var mao = $("#" + n);
+	if (mao.length > 0) {
+		var pos = mao.offset().top;  
+		var poshigh = mao.height();  
+		$("html,body").animate({ scrollTop: pos-poshigh-20 }, 200);  
+	}else{
+		$('html,body').animate({scrollTop: '0px'}, 200);
+	} 
+});  
+</script>
+</body>
+</html>
