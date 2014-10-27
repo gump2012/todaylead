@@ -140,3 +140,21 @@ height	960
 network	2
 
 {"info":{"extra":null,"data":null},"response_status":"success","msg":null}
+
+ÐÞ¸Ä
+http://xjb.ushengsheng.com/shop.php?m=Cart&a=update
+post
+list	[{"activity_type":"1","is_activity":"0","attr_list":[{"goods_attr_id":"12972","attr_id":"23"}],"goods_id":"1153","quantity":"2"}]
+type	merge
+ticket_id	7ace93db7ce666453bd6e57b5b658066
+platform	iphone
+v	6.1.0
+place	appstore
+token	2C9BC381-1002-4834-8ABC-2C829E6C9BBD
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{"info":{"extra":null,"data":null},"response_status":"success","msg":null}

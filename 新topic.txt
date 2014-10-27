@@ -1,0 +1,313 @@
+http://xjb.ushengsheng.com/shop.php?m=main&a=index&platform=iphone&v=6.1.0&place=appstore&token=2C9BC381-1002-4834-8ABC-2C829E6C9BBD&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m
+main
+a
+index
+platform
+iphone
+v
+6.1.0
+place
+appstore
+token
+2C9BC381-1002-4834-8ABC-2C829E6C9BBD
+alias
+xjb
+appcode
+1
+width
+640
+height
+960
+network
+2
+
+
+{
+    "info": {
+        "extra": {
+            "promotion-1": {
+                "2g": "_150x150.jpg", 
+                "3g": "_300x300.jpg", 
+                "wifi": ""
+            }, 
+            "promotion-2": {
+                "2g": "_150x150.jpg", 
+                "3g": "_300x300.jpg", 
+                "wifi": ""
+            }, 
+            "theme-1-1": {
+                "2g": "_250x250.jpg", 
+                "3g": "_400x400.jpg", 
+                "wifi": ""
+            }, 
+            "theme-1-2": {
+                "2g": "_100x100.jpg", 
+                "3g": "_150x150.jpg", 
+                "wifi": ""
+            }, 
+            "theme-1": {
+                "2g": "_300x300.jpg", 
+                "3g": "_500x500.jpg", 
+                "wifi": ""
+            }, 
+            "ad": {
+                "grid2g": "_310x310.jpg", 
+                "grid3g": "", 
+                "gridwifi": ""
+            }
+        }, 
+        "data": {
+            "infomation": [
+                {
+                    "id": "1", 
+                    "title": "兽业解惑", 
+                    "pic_url": "http://xingjiabi.b0.upaiyun.com/index/content/53cf59b50f611.png", 
+                    "relaction": "m=forum&a=list&cid=26&user_could_post=1"
+                }, 
+                {
+                    "id": "2", 
+                    "title": "情趣学院", 
+                    "pic_url": "http://xingjiabi.b0.upaiyun.com/index/content/53cf59d998237.png", 
+                    "relaction": "m=forum&a=list&cid=27&user_could_post=0"
+                }, 
+                {
+                    "id": "3", 
+                    "title": "光圈旖旎", 
+                    "pic_url": "http://xingjiabi.b0.upaiyun.com/index/content/53e08dd3ca8be.png", 
+                    "relaction": "m=forum&a=list&cid=22&user_could_post=1"
+                }
+            ], 
+            "promotion": [
+                {
+                    "id": "4", 
+                    "title": "限时抢购", 
+                    "color": "E84C3D", 
+                    "type": "1", 
+                    "param": [
+                        {
+                            "id": "190", 
+                            "pic_url": "http://xingjiabi.b0.upaiyun.com/activitys/5440e969172db.jpg", 
+                            "tips": "本期即将开始", 
+                            "start_time": "1413702000", 
+                            "end_time": "1413712800"
+                        }, 
+                        {
+                            "id": "191", 
+                            "pic_url": "http://xingjiabi.b0.upaiyun.com/activitys/5440e977bb6b1.jpg", 
+                            "tips": "本期即将开始", 
+                            "start_time": "1413723600", 
+                            "end_time": "1413734399"
+                        }
+                    ], 
+                    "start_time": "1408356000", 
+                    "end_time": "1408370400", 
+                    "info": "限时抢购", 
+                    "pic_url": "http://xingjiabi.b0.upaiyun.com/index/content/5412a96c89085.jpg", 
+                    "relaction": "m=promotion&a=limit"
+                }, 
+                {
+                    "id": "5", 
+                    "title": "撸一撸", 
+                    "color": "3399DB", 
+                    "type": "2", 
+                    "param": "", 
+                    "info": "少年来一发吧", 
+                    "pic_url": "http://xingjiabi.b0.upaiyun.com/index/content/53c3367e313db.png", 
+                    "relaction": "m=promotion&a=loualou"
+                }, 
+                {
+                    "id": "6", 
+                    "title": "每周新品", 
+                    "color": "19BD9B", 
+                    "type": "3", 
+                    "param": "", 
+                    "info": "大胆尝鲜", 
+                    "pic_url": "http://xingjiabi.b0.upaiyun.com/index/content/53c3368fea620.png", 
+                    "relaction": "m=topic&a=list&id=7&tl=每周新品"
+                }
+            ], 
+            "beautyguide": {
+                "title": "女神导购", 
+                "color": "E7518D", 
+                "relaction": "m=referral&a=list", 
+                "param": [ ]
+            }, 
+            "theme": [
+                {
+                    "id": "7", 
+                    "title": "TOP热卖", 
+                    "maincolor": "FD633F", 
+                    "seccolor": "FEE9E4", 
+                    "relaction": "m=topic&a=list&id=2&tl=热卖 MORE", 
+                    "theme": "1-4", 
+                    "end_time": "1538356149", 
+                    "list": [
+                        {
+                            "id": "1", 
+                            "title": "TOP热卖", 
+                            "pic_url": "http://xingjiabi.b0.upaiyun.com/index/module/543c8221733d2.jpg", 
+                            "relaction": "m=topic&a=list&id=11&tl=TOP 热卖"
+                        }, 
+                        {
+                            "id": "2", 
+                            "title": "多色妖娆连体衣", 
+                            "pic_url": "http://xingjiabi.b0.upaiyun.com/index/module/543f74fa5ac1e.jpg", 
+                            "relaction": "m=shop&a=detail&id=971"
+                        }, 
+                        {
+                            "id": "2", 
+                            "title": "便携延时湿巾", 
+                            "pic_url": "http://xingjiabi.b0.upaiyun.com/index/module/543f810cedd38.jpg", 
+                            "relaction": "m=shop&a=detail&id=161"
+                        }, 
+                        {
+                            "id": "4", 
+                            "title": "仿肤名器倒模", 
+                            "pic_url": "http://xingjiabi.b0.upaiyun.com/index/module/543c831d01a81.jpg", 
+                            "relaction": "m=shop&a=detail&id=1012"
+                        }, 
+                        {
+                            "id": "3", 
+                            "title": "杜蕾斯超薄装", 
+                            "pic_url": "http://xingjiabi.b0.upaiyun.com/index/module/543c830de4ff8.jpg", 
+                            "relaction": "m=shop&a=detail&id=536"
+                        }
+                    ], 
+                    "width": "", 
+                    "height": ""
+                }, 
+                {
+                    "id": "9", 
+                    "title": "做“王”的男宠", 
+                    "maincolor": "df1c86", 
+                    "seccolor": "", 
+                    "relaction": "m=topic&a=list&id=16&tl=套餐more", 
+                    "theme": "1-1", 
+                    "end_time": "1596081498", 
+                    "list": [
+                        {
+                            "id": "1", 
+                            "title": "做“王”的男宠", 
+                            "pic_url": "http://xingjiabi.b0.upaiyun.com/index/module/543dcf572ba76.jpg", 
+                            "relaction": "m=shop&a=detail&id=851"
+                        }
+                    ], 
+                    "width": "640", 
+                    "height": "640"
+                }, 
+                {
+                    "id": "10", 
+                    "title": "随性所欲", 
+                    "maincolor": "ffe25a", 
+                    "seccolor": "fffbe2", 
+                    "relaction": "m=topic&a=list&id=1&tl=感官盛宴", 
+                    "theme": "1-4", 
+                    "end_time": "1569830169", 
+                    "list": [
+                        {
+                            "id": "1", 
+                            "title": "激情再续", 
+                            "pic_url": "http://xingjiabi.b0.upaiyun.com/index/module/543b40b0db2f5.jpg", 
+                            "relaction": "m=topic&a=list&id=8&tl=专题特惠"
+                        }, 
+                        {
+                            "id": "2", 
+                            "title": "优雅蕾丝睡裙", 
+                            "pic_url": "http://xingjiabi.b0.upaiyun.com/index/module/543f74db97c31.jpg", 
+                            "relaction": "m=shop&a=detail&id=845"
+                        }, 
+                        {
+                            "id": "3", 
+                            "title": "超薄罐装004", 
+                            "pic_url": "http://xingjiabi.b0.upaiyun.com/index/module/543f2116086ad.jpg", 
+                            "relaction": "m=shop&a=detail&id=947"
+                        }, 
+                        {
+                            "id": "4", 
+                            "title": "震动飞机杯", 
+                            "pic_url": "http://xingjiabi.b0.upaiyun.com/index/module/543b424d62c5e.jpg", 
+                            "relaction": "m=shop&a=detail&id=891"
+                        }, 
+                        {
+                            "id": "5", 
+                            "title": "激情催欲凝胶", 
+                            "pic_url": "http://xingjiabi.b0.upaiyun.com/index/module/543f7af7174a2.jpg", 
+                            "relaction": "m=shop&a=detail&id=1233"
+                        }
+                    ], 
+                    "width": "", 
+                    "height": ""
+                }
+            ]
+        }
+    }, 
+    "response_status": "success", 
+    "msg": ""
+}
+
+广告列表
+http://xjb.ushengsheng.com/shop.php?m=Main&a=getAdList&platform=iphone&v=6.1.0&place=appstore&token=2C9BC381-1002-4834-8ABC-2C829E6C9BBD&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Main
+a	getAdList
+platform	iphone
+v	6.1.0
+place	appstore
+token	2C9BC381-1002-4834-8ABC-2C829E6C9BBD
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": {
+            "grid2g": "_310x310.jpg", 
+            "grid3g": "", 
+            "gridwifi": ""
+        }, 
+        "data": [
+            {
+                "id": "172", 
+                "pic_url": "http://xingjiabi.b0.upaiyun.com/ad/5440673d7ea03.jpg", 
+                "relaction": "m=shop&a=detail&id=1417", 
+                "is_examine": "0"
+            }, 
+            {
+                "id": "170", 
+                "pic_url": "http://xingjiabi.b0.upaiyun.com/ad/543dd8c7a4f78.jpg", 
+                "relaction": "m=shop&a=detail&id=1349", 
+                "is_examine": "0"
+            }, 
+            {
+                "id": "167", 
+                "pic_url": "http://xingjiabi.b0.upaiyun.com/ad/543cf53b7e70e.jpg", 
+                "relaction": "m=topic&a=list&id=6&tl=女人的私密衣柜", 
+                "is_examine": "0"
+            }, 
+            {
+                "id": "155", 
+                "pic_url": "http://xingjiabi.b0.upaiyun.com/ad/5435f268b0510.jpg", 
+                "relaction": "m=shop&a=detail&id=1334", 
+                "is_examine": "0"
+            }, 
+            {
+                "id": "153", 
+                "pic_url": "http://xingjiabi.b0.upaiyun.com/ad/5435df9e9b021.jpg", 
+                "relaction": "m=shop&a=detail&id=1387", 
+                "is_examine": "0"
+            }, 
+            {
+                "id": "115", 
+                "pic_url": "http://xingjiabi.b0.upaiyun.com/ad/54180a790e1ad.jpg", 
+                "relaction": "m=forum&a=detail&id=223013&cid=15", 
+                "is_examine": "0"
+            }
+        ]
+    }, 
+    "response_status": "success", 
+    "msg": ""
+}
