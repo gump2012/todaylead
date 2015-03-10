@@ -1,0 +1,376 @@
+http://xjb.ushengsheng.com/shop.php?m=Shop&a=getKeywords&platform=iphone&v=6.1.0&place=appstore&token=2C9BC381-1002-4834-8ABC-2C829E6C9BBD&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Shop
+a	getKeywords
+platform	iphone
+v	6.1.0
+place	appstore
+token	2C9BC381-1002-4834-8ABC-2C829E6C9BBD
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": [
+            "制服诱惑",
+            "AV棒",
+            "新品尝鲜",
+            "延时",
+            "跳蛋",
+            "LELO",
+            "G点刺激",
+            "飞机杯",
+            "避孕套",
+            "催情",
+            "狼牙套",
+            "后庭"
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
+
+http://xjb.ushengsheng.com/shop.php?m=Categorys&a=getAllCategorys&platform=iphone&v=6.1.0&place=appstore&token=2C9BC381-1002-4834-8ABC-2C829E6C9BBD&alias=xjb&appcode=1&width=640&height=960&network=2
+
+m	Categorys
+a	getAllCategorys
+platform	iphone
+v	6.1.0
+place	appstore
+token	2C9BC381-1002-4834-8ABC-2C829E6C9BBD
+alias	xjb
+appcode	1
+width	640
+height	960
+network	2
+
+{
+    "info": {
+        "extra": null,
+        "data": [
+            {
+                "cid": "1",
+                "cname": "套套天堂",
+                "pic_url": "http://xingjiabi.b0.upaiyun.com/images/shop/cate/52a58e8dc21d4.png",
+                "banner_relaction": "m=topic&a=list&id=15&tl=超薄套套专场",
+                "banner_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5462cf9b3a4c0.jpg",
+                "subclass": [
+                    {
+                        "cid": "23",
+                        "cname": "杜蕾斯",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/53def9d41fb97.jpg"
+                    },
+                    {
+                        "cid": "27",
+                        "cname": "超薄系列",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5424c89cb58a6.png"
+                    },
+                    {
+                        "cid": "24",
+                        "cname": "冈本",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/53def9e2dc8d5.jpg"
+                    },
+                    {
+                        "cid": "54",
+                        "cname": "紧绷持久",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5424c8cdb7513.png"
+                    },
+                    {
+                        "cid": "25",
+                        "cname": "杰士邦",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/53defa0512745.jpg"
+                    },
+                    {
+                        "cid": "55",
+                        "cname": "超值促销",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5424c3630d831.png"
+                    },
+                    {
+                        "cid": "59",
+                        "cname": "诺丝",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5417febbeb3ce.jpg"
+                    },
+                    {
+                        "cid": "22",
+                        "cname": "狼牙颗粒",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5424c8ffe43c3.png"
+                    },
+                    {
+                        "cid": "26",
+                        "cname": "尚牌",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/53defa2e341fa.jpg"
+                    },
+                    {
+                        "cid": "53",
+                        "cname": "倍力乐",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/53e0348a1a46f.jpg"
+                    }
+                ]
+            },
+            {
+                "cid": "4",
+                "cname": "情趣内衣",
+                "pic_url": "http://xingjiabi.b0.upaiyun.com/images/shop/cate/52a58aa70945c.png",
+                "banner_relaction": "m=topic&a=list&id=16&tl=豹纹地带",
+                "banner_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5462d45e91358.jpg",
+                "subclass": [
+                    {
+                        "cid": "16",
+                        "cname": "性感睡裙",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/53def858060c1.jpg"
+                    },
+                    {
+                        "cid": "17",
+                        "cname": "制服诱惑",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/53def8821e96c.jpg"
+                    },
+                    {
+                        "cid": "58",
+                        "cname": "火辣三点",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5417fe98255c7.jpg"
+                    },
+                    {
+                        "cid": "19",
+                        "cname": "连身网袜",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/53def8d3142b5.jpg"
+                    },
+                    {
+                        "cid": "57",
+                        "cname": "美腿丝袜",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5417fd708a2ed.jpg"
+                    },
+                    {
+                        "cid": "18",
+                        "cname": "媚丽T裤",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/53def8b002d1d.jpg"
+                    },
+                    {
+                        "cid": "21",
+                        "cname": "修身连体衣",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/53def971b235c.jpg"
+                    },
+                    {
+                        "cid": "73",
+                        "cname": "优雅旗袍",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5423d08f08e66.jpg"
+                    },
+                    {
+                        "cid": "56",
+                        "cname": "特惠套餐",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5423c9f4b1831.jpg"
+                    }
+                ]
+            },
+            {
+                "cid": "2",
+                "cname": "男用器具",
+                "pic_url": "http://xingjiabi.b0.upaiyun.com/images/shop/cate/52ca22a30e1f6.png",
+                "banner_relaction": "m=topic&a=list&id=30&tl=名模名器",
+                "banner_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/546314968c295.jpg",
+                "subclass": [
+                    {
+                        "cid": "32",
+                        "cname": "飞机杯",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/53defb90a29c5.jpg"
+                    },
+                    {
+                        "cid": "52",
+                        "cname": "名器倒模",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/53df56cb0f582.jpg"
+                    },
+                    {
+                        "cid": "65",
+                        "cname": "前列腺",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5421269a2b9a4.png"
+                    },
+                    {
+                        "cid": "64",
+                        "cname": "龟头训练",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5421267d5c097.png"
+                    },
+                    {
+                        "cid": "66",
+                        "cname": "包茎矫正",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/542126b39d88e.png"
+                    }
+                ]
+            },
+            {
+                "cid": "3",
+                "cname": "女用器具",
+                "pic_url": "http://xingjiabi.b0.upaiyun.com/images/shop/cate/52ca22a93bfcc.png",
+                "banner_relaction": "m=shop&a=detail&id=1144",
+                "banner_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/546314fe66321.jpg",
+                "subclass": [
+                    {
+                        "cid": "48",
+                        "cname": "G点刺激",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/542127f28d039.png"
+                    },
+                    {
+                        "cid": "67",
+                        "cname": "AV棒",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5421279e9c0a1.png"
+                    },
+                    {
+                        "cid": "68",
+                        "cname": "转珠棒",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/542127ba49dbb.png"
+                    },
+                    {
+                        "cid": "45",
+                        "cname": "情趣跳蛋",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/53defca34ec93.jpg"
+                    },
+                    {
+                        "cid": "51",
+                        "cname": "缩阴锻炼",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/53deffb516370.jpg"
+                    },
+                    {
+                        "cid": "71",
+                        "cname": "后庭",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5421289509489.png"
+                    },
+                    {
+                        "cid": "50",
+                        "cname": "仿真阳具",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5421281cd036b.png"
+                    },
+                    {
+                        "cid": "70",
+                        "cname": "丰胸",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5421287e540c2.png"
+                    },
+                    {
+                        "cid": "72",
+                        "cname": "女同",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/542128a3835f8.png"
+                    }
+                ]
+            },
+            {
+                "cid": "6",
+                "cname": "延时助勃",
+                "pic_url": "http://xingjiabi.b0.upaiyun.com/images/shop/cate/52ca4327a4ae7.png",
+                "banner_relaction": "m=topic&a=list&id=48&tl=延时助勃",
+                "banner_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5463152eb9cdf.jpg",
+                "subclass": [
+                    {
+                        "cid": "87",
+                        "cname": "延时喷剂",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/54630504a7a7b.png"
+                    },
+                    {
+                        "cid": "88",
+                        "cname": "锁精套环",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/546302f699db5.png"
+                    },
+                    {
+                        "cid": "86",
+                        "cname": "延时湿巾",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5463029d985cc.jpg"
+                    },
+                    {
+                        "cid": "36",
+                        "cname": "增大助勃",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/546304f987dc1.png"
+                    }
+                ]
+            },
+            {
+                "cid": "74",
+                "cname": "润滑清洁",
+                "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5462f4f361a63.jpg",
+                "banner_relaction": "m=topic&a=list&id=49&tl=爱的润滑",
+                "banner_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/546306645dd34.jpg",
+                "subclass": [
+                    {
+                        "cid": "79",
+                        "cname": "私处养护",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5462f6c52e51c.png"
+                    },
+                    {
+                        "cid": "85",
+                        "cname": "消毒清洗",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/546300cdd19e4.jpg"
+                    },
+                    {
+                        "cid": "76",
+                        "cname": "情趣润滑",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5462f650a47bc.jpg"
+                    },
+                    {
+                        "cid": "75",
+                        "cname": "可食用润滑",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5462f60628322.jpg"
+                    },
+                    {
+                        "cid": "78",
+                        "cname": "后庭润滑",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5462f686db293.jpg"
+                    }
+                ]
+            },
+            {
+                "cid": "81",
+                "cname": "催情助性",
+                "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5462fbac6f5ab.png",
+                "banner_relaction": "m=shop&a=detail&id=1231",
+                "banner_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/546307496d64e.jpg",
+                "subclass": [
+                    {
+                        "cid": "83",
+                        "cname": "调情香水",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5462fc9622776.png"
+                    },
+                    {
+                        "cid": "82",
+                        "cname": "女用催情",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5462fc6fcba7c.png"
+                    }
+                ]
+            },
+            {
+                "cid": "39",
+                "cname": "双人情趣",
+                "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/53e19a2d753e5.png",
+                "banner_relaction": "m=topic&a=list&id=50&tl=激情夜晚",
+                "banner_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5463155bd962b.jpg",
+                "subclass": [
+                    {
+                        "cid": "40",
+                        "cname": "乳头刺激",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/53defc8e89c97.jpg"
+                    },
+                    {
+                        "cid": "61",
+                        "cname": "SM系列",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/541954f0e3f2c.png"
+                    },
+                    {
+                        "cid": "80",
+                        "cname": "双人共振",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/5462f72d892a8.jpg"
+                    },
+                    {
+                        "cid": "43",
+                        "cname": "捆绑绳索",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/53defce6a9497.jpg"
+                    },
+                    {
+                        "cid": "42",
+                        "cname": "另类体验",
+                        "pic_url": "http://xingjiabi.b0.upaiyun.com/shop/cate/541954e3d0b62.png"
+                    }
+                ]
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
